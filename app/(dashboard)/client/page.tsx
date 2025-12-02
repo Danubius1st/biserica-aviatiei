@@ -1,11 +1,11 @@
 'use client';
 
 import { UserInfo } from '@/components/user-info';
-import { currentUser } from '@/lib/current-user';
+import { CurrentUser } from '@/lib/current-user';
 import { User, UserRole } from '@/prisma/generated/prisma-db-auth/client';
 
 const ClientPage = () => {
-  const crtUser = currentUser();
+  const crtUser = CurrentUser();
 
   const user: User = {
     ...crtUser,

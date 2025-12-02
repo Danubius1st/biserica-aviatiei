@@ -41,230 +41,251 @@ export const Spinner: FC<spinProps> = ({ loading = true, id }) => {
   const color = '#283618';
 
   useEffect(() => {
-    if (id) setSpinner(id);
-    else {
-      const min = 1;
-      const max = 23;
-      setSpinner(Math.floor(Math.random() * (max - min + 1)) + min);
-    }
+    const min = 1;
+    const max = 23;
+    const spinnerId = id || Math.floor(Math.random() * (max - min + 1)) + min;
+    setSpinner(spinnerId);
   }, [id]);
 
-  // <div style={{ border: '2px solid blue' }}>
-  switch (spinner) {
-    case 1:
-      return (
-        <div>
-          <BarLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+  if (spinner === 0) {
+    return (
+      <div>
+        <BarLoader
+          loading={loading}
+          color={color}
+          cssOverride={override}
+        />
+      </div>
+    );
+  }
 
-    case 2:
-      return (
-        <div>
-          <BeatLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+  {
+    (() => {
+      switch (spinner) {
+        case 1:
+          return (
+            <div>
+              <BarLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 3:
-      return (
-        <div>
-          <BounceLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 2:
+          return (
+            <div>
+              <BeatLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 4:
-      return (
-        <div>
-          <CircleLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 3:
+          return (
+            <div>
+              <BounceLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 5:
-      return (
-        <div>
-          <ClimbingBoxLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 4:
+          return (
+            <div>
+              <CircleLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 6:
-      return (
-        <div>
-          <ClipLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 5:
+          return (
+            <div>
+              <ClimbingBoxLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 7:
-      return (
-        <div>
-          <ClockLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 6:
+          return (
+            <div>
+              <ClipLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 8:
-      return (
-        <div>
-          <DotLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 7:
+          return (
+            <div>
+              <ClockLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 9:
-      return (
-        <div>
-          <FadeLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 8:
+          return (
+            <div>
+              <DotLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 10:
-      return (
-        <div>
-          <GridLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 9:
+          return (
+            <div>
+              <FadeLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 11:
-      return (
-        <div>
-          <HashLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 10:
+          return (
+            <div>
+              <GridLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 12:
-      return (
-        <div>
-          <MoonLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 11:
+          return (
+            <div>
+              <HashLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 13:
-      return (
-        <div>
-          <PacmanLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 12:
+          return (
+            <div>
+              <MoonLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 14:
-      return (
-        <div>
-          <PropagateLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 13:
+          return (
+            <div>
+              <PacmanLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 15:
-      return (
-        <div>
-          <PuffLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 14:
+          return (
+            <div>
+              <PropagateLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 16:
-      return (
-        <div>
-          <PulseLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 15:
+          return (
+            <div>
+              <PuffLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 17:
-      return (
-        <div>
-          <RingLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 16:
+          return (
+            <div>
+              <PulseLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 18:
-      return (
-        <div>
-          <RiseLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 17:
+          return (
+            <div>
+              <RingLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 19:
-      return (
-        <div>
-          <RotateLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 18:
+          return (
+            <div>
+              <RiseLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 20:
-      return (
-        <div>
-          <ScaleLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 19:
+          return (
+            <div>
+              <RotateLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    case 21:
-      return (
-        <div>
-          <SkewLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 20:
+          return (
+            <div>
+              <ScaleLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 22:
-      return (
-        <div>
-          <SquareLoader
-            loading={loading}
-            color={color}
-            cssOverride={override}
-          />
-        </div>
-      );
-      break;
+        case 21:
+          return (
+            <div>
+              <SkewLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
 
-    case 23:
-      return (
-        <div>
-          <SyncLoader loading={loading} color={color} cssOverride={override} />
-        </div>
-      );
-      break;
+        case 22:
+          return (
+            <div>
+              <SquareLoader
+                loading={loading}
+                color={color}
+                cssOverride={override}
+              />
+            </div>
+          );
+          break;
 
-    default:
-      break;
+        case 23:
+          return (
+            <div>
+              <SyncLoader loading={loading} color={color} cssOverride={override} />
+            </div>
+          );
+          break;
+
+        default:
+          break;
+      }
+    })();
   }
 
   return null;

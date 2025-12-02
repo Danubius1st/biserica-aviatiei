@@ -4,10 +4,10 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { AvatarImage } from '@/components/ui/custom/avatar-image';
-import { currentUser } from '@/lib/current-user';
+import { CurrentUser } from '@/lib/current-user';
 
 export const DashboardNavbar = () => {
-  const user = currentUser();
+  const user = CurrentUser();
   const pathName = usePathname();
 
   const navigation = [

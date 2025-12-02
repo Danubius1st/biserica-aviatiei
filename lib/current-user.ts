@@ -1,6 +1,6 @@
 import { useSession } from '@/lib/auth/auth-client';
 
-export const currentUser = () => {
+export const CurrentUser = () => {
   /*
     const user = {
       id: '1',
