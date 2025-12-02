@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
 import { auth } from '@/lib/auth/auth';
+import { getCookieCache } from 'better-auth/cookies';
 import {
   publicRoutes,
   loginPath
@@ -19,14 +20,15 @@ export async function proxy(req: NextRequest) {
 
   //2️⃣ Verifică dacă utilizatorul este logat
   // https://www.better-auth.com/docs/integrations/next#for-nextjs-release-1520-and-above
-  const session = await auth.api.getSession({
-    headers: await headers()
-  });
+  // const session = await auth.api.getSession({
+  //   headers: await headers()
+  // });
+  const session = await getCookieCache(req);
 
-  // console.log(JSON.stringify(session));
-  // if (!session) {
-  //   return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
-  // }
+  console.log(JSON.stringify(session));
+  if (!session) {
+    return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
+  }
 
   return NextResponse.next();
 };
