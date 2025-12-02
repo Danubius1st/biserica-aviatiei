@@ -6,9 +6,7 @@ import {
   publicRoutes,
   loginPath
 } from '@/middleware/routes';
-import { betterAuthMiddleware } from 'better-auth';
 
-/*
 export async function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
@@ -22,24 +20,19 @@ export async function proxy(req: NextRequest) {
 
   //2️⃣ Verifică dacă utilizatorul este logat
   // https://www.better-auth.com/docs/integrations/next#for-nextjs-release-1520-and-above
+
+  // auth.api.getSession funcționează doar local!
   // const session = await auth.api.getSession({
   //   headers: await headers()
   // });
   const session = await getCookieCache(req);
 
-  console.log(JSON.stringify(session));
   if (!session) {
     return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
   }
 
   return NextResponse.next();
 };
-*/
-
-export const proxy = betterAuthMiddleware({
-  auth,
-  publicRoutes,
-});
 
 // middleware rulează în Edge runtime → nu are acces la toate bibliotecile Node
 
