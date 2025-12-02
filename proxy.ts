@@ -10,22 +10,22 @@ export async function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
   // 1️⃣ Verifică dacă ruta e publică
-  // const isPublic = publicRoutes.some((route) => {
-  //   if (typeof route === 'string') return pathname === route;
-  //   return route instanceof RegExp && route.test(pathname);
-  // });
+  const isPublic = publicRoutes.some((route) => {
+    if (typeof route === 'string') return pathname === route;
+    return route instanceof RegExp && route.test(pathname);
+  });
 
-  // if (isPublic) return NextResponse.next();
+  if (isPublic) return NextResponse.next();
 
-  // //2️⃣ Verifică dacă utilizatorul este logat
-  // // https://www.better-auth.com/docs/integrations/next#for-nextjs-release-1520-and-above
-  // const session = await auth.api.getSession({
-  //   headers: await headers()
-  // });
+  //2️⃣ Verifică dacă utilizatorul este logat
+  // https://www.better-auth.com/docs/integrations/next#for-nextjs-release-1520-and-above
+  const session = await auth.api.getSession({
+    headers: await headers()
+  });
 
-  // if (!session) {
-  //   return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
-  // }
+  if (!session) {
+    return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
+  }
 
   return NextResponse.next();
 };
