@@ -27,10 +27,10 @@ import SyncLoader from 'react-spinners/SyncLoader';
 
 interface spinProps {
   loading?: boolean;
-  key?: number;
+  id?: number;
 };
 
-export const Spinner: FC<spinProps> = ({ loading = true, key }) => {
+export const Spinner: FC<spinProps> = ({ loading = true, id }) => {
   const [spinner, setSpinner] = useState(0);
   const override: CSSProperties = {
     display: 'block',
@@ -41,13 +41,13 @@ export const Spinner: FC<spinProps> = ({ loading = true, key }) => {
   const color = '#283618';
 
   useEffect(() => {
-    if (key) setSpinner(key);
+    if (id) setSpinner(id);
     else {
       const min = 1;
       const max = 23;
       setSpinner(Math.floor(Math.random() * (max - min + 1)) + min);
     }
-  }, [key]);
+  }, [id]);
 
   // <div style={{ border: '2px solid blue' }}>
   switch (spinner) {
