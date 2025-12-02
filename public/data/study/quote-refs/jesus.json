@@ -1,0 +1,729 @@
+[
+  {
+    "id": 1,
+    "short": "Omul nu trăiește numai cu pâine",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 4:4, Luca 4:4)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 4:4",
+            "verse": "4. Drept răspuns, Isus i-a zis: „Este scris: «Omul nu trăieşte numai cu pâine, ci cu orice cuvânt care iese din gura lui Dumnezeu.»"
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 4:4",
+            "verse": "4. Isus i-a răspuns: „Este scris: «Omul nu va trăi numai cu pâine, ci cu orice cuvânt care iese din gura lui Dumnezeu.»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Deut. 8:3)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 8:3",
+            "verse": "3. El te-a smerit, te-a făcut să flămânzeşti şi te-a hrănit cu mana pe care nu o cunoşteai tu şi cu care nu te cunoşteai părinţii tăi, ca să-ţi dea să înţelegi că omul nu trăieşte numai cu pâine, ci cu orice cuvânt care iese din gura Domnului."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "short": "Să nu ispitești pe Domnul",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 4:7, Luca 4:12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 4:7",
+            "verse": "7. „De asemenea este scris”, a zis Isus: „Să nu ispiteşti pe Domnul Dumnezeul tău.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 4:12",
+            "verse": "12. Isus i-a răspuns: „S-a spus: «Să nu ispitești pe Domnul Dumnezeul tău!»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Deut. 6:16)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 6:16",
+            "verse": "16. Să nu ispitiţi pe Domnul Dumnezeul vostru, cum L-aţi ispitit la Masa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "short": "Domnului Dumnezeului tău să I te închini",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 4:10, Luca 4:8)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 4:10",
+            "verse": "10. „Pleacă, Satano”, i-a răspuns Isus. „Căci este scris: «Domnului Dumnezeului tău să te închini şi numai Lui să-I slujeşti.»"
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 4:8",
+            "verse": "8. Drept răspuns, Isus i-a zis: „Înapoia Mea, Satano! Este scris: «Să te închini Domnului Dumnezeului tău şi numai Lui să-I slujeşti.»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Deut. 6:13)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 6:13",
+            "verse": "13. Să te temi de Domnul Dumnezeul tău, să-I slujeşti, şi pe Numele Lui să juri."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "short": "Să nu ucizi",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 5:21)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:21",
+            "verse": "21. Aţi auzit că s-a zis celor din vechime: «Să nu ucizi; oricine va ucide va cădea sub pedeapsa judecăţii.»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Exod 20:13, Deut. 5:17)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 20:13",
+            "verse": "13. Să nu ucizi."
+          },
+          {
+            "id": 2,
+            "stringRef": "Deut. 5:17",
+            "verse": "17. Să nu ucizi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "short": "Să nu preacurvești",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 5:27)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:27",
+            "verse": "27. Aţi auzit că s-a zis celor din vechime: «Să nu preacurveşti.»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Exod 20:14, Deut. 5:18)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 20:14",
+            "verse": "14. Să nu preacurveşti."
+          },
+          {
+            "id": 2,
+            "stringRef": "Deut. 5:18",
+            "verse": "18. Să nu preacurveşti."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "short": "Cine își lasă nevasta...",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 19:9, Marcu 10:11÷12, Luca 16:18)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 19:9",
+            "verse": "9. Eu, însă, vă spun că oricine îşi lasă nevasta, afară de pricină de curvie, şi ia pe alta de nevastă preacurveşte; şi cine ia de nevastă pe cea lăsată de bărbat preacurveşte.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 10:11÷12",
+            "verse": "11. El le-a zis: „Oricine îşi lasă nevasta şi ia pe alta de nevastă, preacurveşte faţă de ea; 12. şi dacă o nevastă îşi lasă bărbatul şi ia pe altul de bărbat preacurveşte.”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 16:18",
+            "verse": "18. Oricine îşi lasă nevasta şi ia pe alta de nevastă preacurveşte; şi cine ia de nevastă pe cea lăsată de bărbatul ei preacurveşte."
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Deut. 24:1÷4)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 24:1÷4",
+            "verse": "1. Când cineva îşi va lua o nevastă şi se va însura cu ea şi s-ar întâmpla ca ea să nu mai aibă trecere înaintea lui, pentru că a descoperit ceva ruşinos în ea, să-i scrie o carte de despărţire, şi, după ce-i va da-o în mână, să-i dea drumul din casa lui.\n2. Ea să iasă de la el, să plece şi va putea să se mărite după un alt bărbat.\n3. Dacă şi acesta din urmă începe s-o urască, îi scrie o carte de despărţire şi, după ce i-o dă în mână, îi dă drumul din casa lui; sau, dacă acest bărbat din urmă, care a luat-o de nevastă, moare,\n4. atunci bărbatul dintâi, care îi dăduse drumul, nu va putea s-o ia iarăşi de nevastă, după ce s-a pângărit ea, căci lucrul acesta este o urâciune înaintea Domnului, şi să nu faci vinovată de păcat ţara pe care ţi-o dă de moştenire Domnul Dumnezeul tău."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "short": "Să nu juri strâmb",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 5:33÷37, Iacov 5:12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:33÷37",
+            "verse": "33. Aţi auzit că s-a zis celor din vechime: «Să nu juri strâmb; ci să împlineşti faţă de Domnul jurămintele tale»\n34. Dar Eu vă spun: să nu juraţi nicidecum; nici pe cer, pentru că este scaunul de domnie al lui Dumnezeu;\n35. nici pe pământ, pentru că este aşternutul picioarelor Lui; nici pe Ierusalim, pentru că este cetatea marelui Împărat.\n36. Să nu juri nici pe capul tău, căci nu poţi face un singur păr alb sau negru.\n37.  Felul vostru de vorbire să fie: «Da, da», «Nu, nu»; ce trece peste aceste cuvinte vine de la cel rău."
+          },
+          {
+            "id": 2,
+            "stringRef": "Iacov 5:12",
+            "verse": "12. Mai presus de toate, fraţilor mei, să nu juraţi nici pe cer, nici pe pământ, nici cu alt jurământ; ci lăsaţi ca da să fie da şi nu să fie nu, ca să nu cădeţi sub judecată."
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Lev. 19:12, Num. 30:2, Deut. 23:21)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Lev. 19:12",
+            "verse": "12. Să nu juraţi strâmb pe Numele Meu, căci ai necinsti astfel Numele Dumnezeului tău. Eu sunt Domnul."
+          },
+          {
+            "id": 2,
+            "stringRef": "Num. 30:2",
+            "verse": "2. Când un om va face o juruinţă Domnului sau un jurământ prin care se va lega printr-o făgăduinţă, să nu-şi calce cuvântul, ci să facă potrivit cu tot ce i-a ieşit din gură."
+          },
+          {
+            "id": 3,
+            "stringRef": "Deut. 23:21",
+            "verse": "21. Dacă faci o juruinţă Domnului Dumnezeului tău, să nu pregeţi s-o împlineşti; căci Domnul Dumnezeul tău îţi va cere socoteală, şi te vei face vinovat de un păcat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "short": "Ochi pentru ochi",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 5:38÷39, Romani 12:17÷19, 1 Petru 3:9)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:38÷39",
+            "verse": "38. Aţi auzit că s-a zis: «Ochi pentru ochi şi dinte pentru dinte.»\n39. Dar Eu vă spun: să nu vă împotriviţi celui ce vă face rău; Ci, oricui te loveşte peste obrazul drept, întoarce-i şi pe celălalt."
+          },
+          {
+            "id": 2,
+            "stringRef": "Romani 12:17÷19",
+            "verse": "17. Nu întoarceţi nimănui rău pentru rău. Urmăriţi ce este bine, înaintea tuturor oamenilor.\n18. Dacă este cu putinţă, întrucât atârnă de voi, trăiţi în pace cu toţi oamenii.\n19. Preaiubiţilor, nu vă răzbunaţi singuri; ci lăsaţi să se răzbune mânia lui Dumnezeu; căci este scris: «Răzbunarea este a Mea; Eu voi răsplăti», zice Domnul."
+          },
+          {
+            "id": 3,
+            "stringRef": "1 Petru 3:9",
+            "verse": "9. Nu întoarceţi rău pentru rău, nici ocară pentru ocară; dimpotrivă, binecuvântaţi, căci la aceasta aţi fost chemaţi: să moşteniţi binecuvântarea."
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Exod 21:24, Lev. 24:20, Deut. 19:21)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 21:24",
+            "verse": "24. ochi pentru ochi, dinte pentru dinte, mână pentru mână, picior pentru picior,"
+          },
+          {
+            "id": 2,
+            "stringRef": "Lev. 24:20",
+            "verse": "20. frântură pentru frântură, ochi pentru ochi, dinte pentru dinte; să i se facă aceeaşi rană pe care a făcut-o el aproapelui său."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "short": "Să iubești pe aproapele tău",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 5:43, Matei 22:39)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:43",
+            "verse": "43. Aţi auzit că s-a zis: «Să iubeşti pe aproapele tău şi să urăşti pe vrăjmaşul tău.»"
+          },
+          {
+            "id": 2,
+            "stringRef": "Matei 22:39",
+            "verse": "39. Iar a doua, asemenea ei, este: „Să iubeşti pe aproapele tău ca pe tine însuţi.“"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Lev. 19:18, Lev. 19:34)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Lev. 19:18",
+            "verse": "18. Să nu te răzbuni şi să nu ţii necaz pe copiii poporului tău. Să iubeşti pe aproapele tău ca pe tine însuţi. Eu sunt Domnul."
+          },
+          {
+            "id": 2,
+            "stringRef": "Lev. 19:34",
+            "verse": "34. Să vă purtaţi cu străinul care locuieşte între voi ca şi cu un băştinaş din mijlocul vostru; să-l iubiţi ca pe voi înşivă, căci şi voi aţi fost străini în ţara Egiptului. Eu sunt Domnul Dumnezeul vostru."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "short": "Milă voiesc, iar nu jertfă",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 9:13, Matei 12:7)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 9:13",
+            "verse": "13. Duceţi-vă de învăţaţi ce înseamnă: «Milă voiesc, iar nu jertfă!» Căci nu am venit să chem la pocăinţă pe cei neprihăniţi, ci pe cei păcătoşi."
+          },
+          {
+            "id": 2,
+            "stringRef": "Matei 12:7",
+            "verse": "7. Dacă aţi fi ştiut ce înseamnă: «Milă voiesc, iar nu jertfe!» n-aţi fi osândit pe nişte nevinovaţi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "short": "Semnul prorocului Iona",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 12:39÷40, Matei 16:4, Luca 11:29÷30)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 12:39÷40",
+            "verse": "39. Drept răspuns, El le-a zis: „Un neam viclean şi preacurvar cere un semn; dar nu i se va da alt semn, decât semnul prorocului Iona.\n40. Căci, după cum Iona a stat trei zile şi trei nopţi în pântecele chitului, tot aşa şi Fiul omului va sta trei zile şi trei nopţi în inima pământului."
+          },
+          {
+            "id": 2,
+            "stringRef": "Matei 16:4",
+            "verse": "4. Un neam viclean şi preacurvar cere un semn; nu i se va da alt semn decât semnul prorocului Iona.” Apoi i-a lăsat şi a plecat."
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 11:29÷30",
+            "verse": "29. Pe când noroadele se strângeau cu grămada, El a început să spună: „Neamul acesta este un neam viclean; el cere un semn; dar nu i se va da alt semn decât semnul prorocului Iona.\n30. Căci după cum Iona a fost un semn pentru niniveni, tot aşa şi Fiul omului va fi un semn pentru neamul acesta."
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Iona 1:17)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Iona 1:17",
+            "verse": "17. Domnul a trimis un peşte mare să înghită pe Iona, şi Iona a stat în pântecele peştelui trei zile şi trei nopţi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "short": "Cu urechile veți auzi și nu veți înțelege",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 13:14÷15, Marcu 4:12, Luca 8:10)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 13:14÷15",
+            "verse": "14. Şi cu privire la ei se împlineşte prorocia lui Isaia, care zice: «Veţi auzi cu urechile voastre, dar nu veţi înţelege; veţi privi cu ochii voştri, dar nu veţi vedea. »\n15. Căci inima acestui popor s-a împietrit; au ajuns tari de urechi, şi-au închis ochii, ca nu cumva să vadă cu ochii, să audă cu urechile, să înţeleagă cu inima, să se întoarcă la Dumnezeu, şi să-i vindec."
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 4:12",
+            "verse": "12. pentru ca, „măcar că privesc, să privească şi să nu vadă, şi măcar că aud, să audă şi să nu înţeleagă, ca nu cumva să se întoarcă la Dumnezeu şi să li se ierte păcatele.”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 8:10",
+            "verse": "10. El le-a răspuns: „Vouă v-a fost dat să cunoaşteţi tainele Împărăţiei lui Dumnezeu, dar celorlalţi li se vorbeşte în pilde, ca „măcar că văd, să nu vadă, şi măcar că aud, să nu înţeleagă.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "short": "Poporul acesta Mă cinstește cu buzele…",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 15:8÷9, Marcu 7:6÷7)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 15:8÷9",
+            "verse": "8. Norodul acesta se apropie de Mine cu gura şi Mă cinsteşte cu buzele, dar inima lui este departe de Mine.\n9. Degeaba Mă cinstesc ei, învăţând ca învăţături nişte porunci omeneşti.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 7:6÷7",
+            "verse": "6. Isus le-a răspuns: „Făţarnicilor, bine a prorocit Isaia despre voi, după cum este scris: «Norodul acesta Mă cinsteşte cu buzele, dar inima lui este departe de Mine.\n7. Degeaba Mă cinstesc ei, dând învăţături care nu sunt decât nişte porunci omeneşti.»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Isaia 29:13)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 29:13",
+            "verse": "13. Domnul zice: „Când se apropie de Mine poporul acesta, Mă cinsteşte cu gura şi cu buzele, dar inima lui este departe de Mine, şi frica pe care o are de Mine nu este decât o învăţătură de datină omenească."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "short": "La început… bărbat și femeie",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 19:4÷5)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 19:4÷5",
+            "verse": "4. Drept răspuns, El le-a zis: „Oare n-aţi citit că Ziditorul, de la început i-a făcut parte bărbătească şi parte femeiască\n5. şi a zis: «De aceea va lăsa omul pe tatăl său şi pe mama sa şi se va lipi de nevasta sa, şi cei doi vor fi un singur trup»?"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Gen. 1:27, Gen. 2:24)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 1:27",
+            "verse": "27. Dumnezeu a făcut pe om după chipul Său, l-a făcut după chipul lui Dumnezeu; parte bărbătească şi parte femeiască i-a făcut."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gen. 2:24",
+            "verse": "24. De aceea va lăsa omul pe tatăl său şi pe mama sa, şi se va lipi de nevasta sa şi se vor face un singur trup."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "short": "„Casa Mea… casă de rugăciune” / „Peșteră de tâlhari”",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 21:13, Marcu 11:17, Luca 19:46)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 21:13",
+            "verse": "13. şi le-a zis: „Este scris: «Casa Mea se va chema casă de rugăciune», dar voi aţi făcut din ea o peşteră de tâlhari.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 11:17",
+            "verse": "17. Şi-i învăţa şi zicea: „Oare nu este scris: „Casa Mea se va chema o casă de rugăciune pentru toate neamurile”? Dar voi aţi făcut din ea o peşteră de tâlhari.”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 19:46",
+            "verse": "46. Şi le-a zis: „Este scris: «Casa Mea va fi o casă de rugăciune.» Dar voi aţi făcut din ea o peşteră de tâlhari.”"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Isaia 56:7, Ieremia 7:11)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 56:7",
+            "verse": "7.  îi voi aduce la muntele Meu cel sfânt şi-i voi umple de veselie în Casa Mea de rugăciune. Arderile lor de tot şi jertfele lor vor fi primite pe altarul Meu, căci Casa Mea se va numi o casă de rugăciune pentru toate popoarele.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Ieremia 7:11",
+            "verse": "11. Este Casa aceasta peste care este chemat Numele Meu o peşteră de tâlhari înaintea voastră? Eu însumi văd lucrul acesta”, zice Domnul."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "short": "Piatra lepădată de zidari",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 21:42, Marcu 12:10÷11, Luca 20:17)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 21:42",
+            "verse": "42. Isus le-a zis: „N-aţi citit niciodată în Scripturi că: «Piatra pe care au lepădat-o zidarii a ajuns să fie pusă în capul unghiului; Domnul a făcut acest lucru şi este minunat în ochii noştri»?"
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 12:10÷11",
+            "verse": "10. Oare n-aţi citit locul acesta din Scriptură: «Piatra pe care au lepădat-o zidarii a ajuns să fie pusă în capul unghiului;\n11. Domnul a făcut acest lucru şi este minunat în ochii noştri»?"
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 20:17",
+            "verse": "17. Dar Isus i-a privit drept în faţă şi a zis: „Ce înseamnă cuvintele acestea care au fost scrise:”\n18. „Piatra pe care au lepădat-o zidarii a ajuns să fie pusă în capul unghiului”?"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Ps. 118:22÷23)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 118:22÷23",
+            "verse": "22. Piatra pe care au lepădat-o zidarii a ajuns să fie pusă în capul unghiului clădirii.\n23. Domnul a făcut lucrul acesta şi este o minunăţie înaintea ochilor noştri."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "short": "Dumnezeul lui Avraam, Isaac și Iacov",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 22:32, Marcu 12:26, Luca 20:37)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 22:32",
+            "verse": "32. „Eu sunt Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov”? Dumnezeu nu este un Dumnezeu al celor morţi, ci al celor vii."
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 12:26",
+            "verse": "26. În ce priveşte învierea morţilor, oare n-aţi citit în cartea lui Moise, în locul unde se vorbeşte despre „Rug”, ce i-a spus Dumnezeu, când a zis: „Eu sunt Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov”?"
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 20:37",
+            "verse": "37. Dar că morţii învie, a arătat însuşi Moise, în locul unde este vorba despre „Rug” când numeşte pe Domnul: „Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov.”"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Exod 3:6)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 3:6",
+            "verse": "6. Şi a adăugat: „Eu sunt Dumnezeul tatălui tău, Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov.” Moise şi-a ascuns faţa, căci se temea să privească pe Dumnezeu."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "short": "Să iubești pe Domnul Dumnezeul tău",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 22:37÷38, Marcu 12:30, Luca 10:27)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 22:37÷38",
+            "verse": "37. Isus i-a răspuns: «SSă iubeşti pe Domnul Dumnezeul tău cu toată inima ta, cu tot sufletul tău şi cu tot cugetul tău.»\n38. Aceasta este cea dintâi şi cea mai mare poruncă."
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 12:30",
+            "verse": "30.  şi: «Să iubeşti pe Domnul Dumnezeul tău cu toată inima ta, cu tot sufletul tău, cu tot cugetul tău şi cu toată puterea ta»; iată porunca dintâi."
+          },
+          {
+            "id": 3,
+            "stringRef": "Luca 10:27",
+            "verse": "27. El a răspuns: «SSă iubeşti pe Domnul Dumnezeul tău cu toată inima ta, cu tot sufletul tău, cu toată puterea ta şi cu tot cugetul tău; şi pe aproapele tău ca pe tine însuţi.»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Deut. 6:5)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 6:5",
+            "verse": "5. SSă iubeşti pe Domnul Dumnezeul tău cu toată inima ta, cu tot sufletul tău şi cu toată puterea ta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "short": "Binecuvântat este Cel ce vine…",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 23:39, Luca 13:35)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 23:39",
+            "verse": "39. căci vă spun că de acum încolo nu Mă veţi mai vedea până când veţi zice: «Binecuvântat este Cel ce vine în Numele Domnului!»"
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 13:35",
+            "verse": "35. Iată că vi se va lăsa casa pustie; dar vă spun că nu Mă veţi mai vedea până veţi zice: «Binecuvântat este Cel ce vine în Numele Domnului!»"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Ps. 118:26)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 118:26",
+            "verse": "26. Binecuvântat să fie cel ce vine în Numele Domnului! Vă binecuvântăm din Casa Domnului."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "short": "Voi bate păstorul, și oile se vor risipi",
+    "refs": [
+      {
+        "testament": "Noul Testament (Matei 26:31, Marcu 14:27, Ioan 16:32)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 26:31",
+            "verse": "31. Atunci Isus le-a zis: „În noaptea aceasta, toţi veţi găsi în Mine o pricină de poticnire; căci este scris: «Voi bate Păstorul, şi oile turmei vor fi risipite.»"
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 14:27",
+            "verse": "27. Isus le-a zis: „În noaptea aceasta toţi veţi avea un prilej de poticnire; pentru că este scris: «Voi bate Păstorul, şi oile vor fi risipite.»"
+          },
+          {
+            "id": 3,
+            "stringRef": "Ioan 16:32",
+            "verse": "32. „Iată că vine ceasul, şi a şi venit, când veţi fi risipiţi fiecare la ale lui; şi pe Mine Mă veţi lăsa singur; dar nu sunt singur, căci Tatăl este cu Mine."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "short": "El a fost pus între cei fărădelege",
+    "refs": [
+      {
+        "testament": "Noul Testament (Luca 22:37)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 22:37",
+            "verse": "37. Căci vă spun că trebuie să se împlinească cu Mine aceste cuvinte scrise: «El a fost pus în numărul celor fărădelege» Şi lucrurile privitoare la Mine sunt gata să se împlinească.”"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Isaia 53:12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 53:12",
+            "verse": "12. De aceea, Îi voi da partea Lui la un loc cu cei mari, şi va împărţi prada cu cei puternici, pentru că S-a dat pe Sine însuşi la moarte şi a fost pus în numărul celor fărădelege, pentru că a purtat păcatele multora şi S-a rugat pentru cei vinovaţi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "short": "Toate cele scrise despre Mine în Lege, Prooroci și Psalmi",
+    "refs": [
+      {
+        "testament": "Noul Testament (Luca 24:27, Luca 24:44)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 24:27",
+            "verse": "27. Şi a început de la Moise şi de la toţi prorocii şi le-a tâlcuit, în toate Scripturile, ce era cu privire la El."
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 24:44",
+            "verse": "44. Apoi le-a zis: „Iată ce vă spuneam când încă eram cu voi, că trebuie să se împlinească tot ce este scris despre Mine în Legea lui Moise, în Proroci şi în Psalmi.”"
+          }
+        ]
+      },
+      {
+        "testament": "Vechiul Testament (Gen. 3:15, Ps. 22:1, Isaia 53:5)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 3:15",
+            "verse": "15. Vrăjmăşie voi pune între tine şi femeie, între sămânţa ta şi sămânţa ei. Aceasta îţi va zdrobi capul, şi tu îi vei zdrobi călcâiul.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Ps. 22:1",
+            "verse": "1. Dumnezeule! Dumnezeule! Pentru ce m-ai părăsit şi pentru ce Te depărtezi fără să-mi ajuţi şi fără s-asculţi plângerile mele?"
+          },
+          {
+            "id": 3,
+            "stringRef": "Isaia 53:5",
+            "verse": "5. Dar El era străpuns pentru păcatele noastre, zdrobit pentru fărădelegile noastre. Pedeapsa care ne dă pacea a căzut peste El, şi prin rănile Lui suntem tămăduiţi."
+          }
+        ]
+      }
+    ]
+  }
+]

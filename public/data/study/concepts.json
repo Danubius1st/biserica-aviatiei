@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1,
+    "concept": "Cine este Dumnezeu ? (Ioan 1:1, Isaia 46:9)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ioan 1:1",
+        "verse": "1. La început era Cuvântul, şi Cuvântul era cu Dumnezeu, şi Cuvântul era Dumnezeu."
+      },
+      {
+        "id": 2,
+        "stringRef": "Isaia 46:9",
+        "verse": "9. Aduceţi-vă aminte de cele petrecute în vremurile străbune; căci Eu sunt Dumnezeu, şi nu este altul, Eu sunt Dumnezeu, şi nu este niciunul ca Mine."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "concept": "Ce este împărăția lui Dumnezeu ? (Ps. 103:19, Marcu 1:15, Luca 17:20÷21, Rom. 14:17, Apoc. 11:15, Ioan 3:3, Matei 18:23÷35)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 103:19",
+        "verse": "19. Domnul Şi-a aşezat scaunul de domnie în ceruri, şi domnia Lui stăpâneşte peste tot."
+      },
+      {
+        "id": 2,
+        "stringRef": "Marcu 1:15",
+        "verse": "15. El zicea: „S-a împlinit vremea, şi Împărăţia lui Dumnezeu este aproape. Pocăiţi-vă şi credeţi în Evanghelie.”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Luca 17:20÷21",
+        "verse": "20. Fariseii au întrebat pe Isus când va veni „Împărăţia lui Dumnezeu. Drept răspuns, El le-a zis: Împărăţia lui Dumnezeu nu vine în aşa fel ca să izbească privirile.\n21. Nu se va zice: «Uite-o aici!» sau: «Uite-o acolo!» Căci iată că Împărăţia lui Dumnezeu este înăuntrul vostru.”"
+      },
+      {
+        "id": 4,
+        "stringRef": "Rom. 14:17",
+        "verse": "17. Căci Împărăţia lui Dumnezeu nu este mâncare şi băutură, ci neprihănire, pace şi bucurie în Duhul Sfânt."
+      },
+      {
+        "id": 5,
+        "stringRef": "Apoc. 11:15",
+        "verse": "15. Îngerul al şaptelea a sunat din trâmbiţă. Şi în cer s-au auzit glasuri puternice, care ziceau: „Împărăţia lumii a trecut în mâinile Domnului nostru şi ale Hristosului Său. Şi El va împărăţi în vecii vecilor.”"
+      },
+      {
+        "id": 6,
+        "stringRef": "Ioan 3:3",
+        "verse": "3. Drept răspuns, Isus i-a zis: „Adevărat, adevărat îţi spun că, dacă un om nu se naşte din nou, nu poate vedea Împărăţia lui Dumnezeu.”"
+      },
+      {
+        "id": 7,
+        "stringRef": "Matei 18:23÷35",
+        "verse": "23. De aceea, Împărăţia cerurilor se aseamănă cu un împărat care a vrut să se socotească cu robii săi.\n24. A început să facă socoteala şi i-au adus pe unul care îi datora zece mii de galbeni.\n25. Fiindcă el n-avea cu ce plăti, stăpânul lui a poruncit să-l vândă pe el, pe nevasta lui, pe copiii lui şi tot ce avea, şi să se plătească datoria.\n26. Robul s-a aruncat la pământ, i s-a închinat şi a zis: „Doamne, mai îngăduie-mă, şi-ţi voi plăti tot.”\n27. Stăpânul robului aceluia, făcându-i-se milă de el, i-a dat drumul şi i-a iertat datoria.\n28. Robul acela, când a ieşit afară, a întâlnit pe unul din tovarăşii lui de slujbă care-i era dator o sută de lei. A pus mâna pe el şi-l strângea de gât, zicând: „Plăteşte-mi ce-mi eşti dator.”\n29. Tovarăşul lui s-a aruncat la pământ, îl ruga şi zicea: „Mai îngăduie-mă, şi-ţi voi plăti.”\n30. Dar el n-a vrut, ci s-a dus şi l-a aruncat în temniţă, până va plăti datoria.\n31. Când au văzut tovarăşii lui cele întâmplate, s-au întristat foarte mult şi s-au dus de au spus stăpânului lor toate cele petrecute.\n32. Atunci stăpânul a chemat la el pe robul acesta şi i-a zis: „Rob viclean! Eu ţi-am iertat toată datoria, fiindcă m-ai rugat.\n33. Oare nu se cădea să ai şi tu milă de tovarăşul tău cum am avut eu milă de tine?”\n34. Şi stăpânul s-a mâniat şi l-a dat pe mâna chinuitorilor, până va plăti tot ce datora.\n35. Tot aşa vă va face şi Tatăl Meu cel ceresc, dacă fiecare din voi nu iartă din toată inima pe fratele său.»"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "concept": "Ce este slava lui Dumnezeu ? (Exod 24:16÷17, Ps. 19:1, Isaia 6:3, Ioan 1:14)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 24:16÷17",
+        "verse": "16. Slava Domnului s-a aşezat pe muntele Sinai, şi norul l-a acoperit timp de şase zile. În ziua a şaptea, Domnul a chemat pe Moise din mijlocul norului.\n17. Înfăţişarea slavei Domnului era ca un foc mistuitor pe vârful muntelui, înaintea copiilor lui Israel."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ps. 19:1",
+        "verse": "Cerurile spun slava lui Dumnezeu, şi întinderea lor vesteşte lucrarea mâinilor Lui."
+      },
+      {
+        "id": 3,
+        "stringRef": "Isaia 6:3",
+        "verse": "3. Strigau unul la altul şi ziceau: „Sfânt, sfânt, sfânt este Domnul oştirilor! Tot pământul este plin de mărirea Lui!”"
+      },
+      {
+        "id": 4,
+        "stringRef": "Ioan 1:14",
+        "verse": "14. Şi Cuvântul S-a făcut trup şi a locuit printre noi, plin de har şi de adevăr. Şi noi am privit slava Lui, o slavă întocmai ca slava Singurului născut din Tatăl."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "concept": "Ce este frica de Dumnezeu ? (Prov. 8:13)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Prov. 8:13",
+        "verse": "13. Frica de Domnul este urârea răului; trufia şi mândria, purtarea rea şi gura mincinoasă, iată ce urăsc eu."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "concept": "Care sunt darurile Duhului Sfânt ? (1 Cor. 12:7÷11)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Cor. 12:7÷11",
+        "verse": "7. Şi fiecăruia i se dă arătarea Duhului spre folosul altora.\n8. De pildă, unuia îi este dat, prin Duhul, să vorbească despre înţelepciune; altuia, să vorbească despre cunoştinţă, datorită aceluiaşi Duh;\n9. altuia, credinţa, prin acelaşi Duh; altuia, darul tămăduirilor, prin acelaşi Duh;\n10. altuia, puterea să facă minuni; altuia prorocia; altuia, deosebirea duhurilor; altuia, felurite limbi; şi altuia, tălmăcirea limbilor.\n11. Dar toate aceste lucruri le face unul şi acelaşi Duh, care dă fiecăruia în parte, cum voieşte."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "concept": "Ce este mândria ? (Deut. 8:14, Prov. 16:18, Luca 18:11÷12, Prov. 3:34, Iacov 4:6, Isaia 2:12, Mica 6:8, Filip. 2:3, Isaia 14:12÷15, Daniel 4:30÷37)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Deut. 8:14",
+        "verse": "14. ia seama să nu ţi se umfle inima de mândrie şi să nu uiţi pe Domnul Dumnezeul tău care te-a scos din ţara Egiptului, din casa robiei;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Prov. 16:18",
+        "verse": "18. Mândria merge înaintea pieirii, şi trufia merge înaintea căderii."
+      },
+      {
+        "id": 3,
+        "stringRef": "Luc. 18:11÷12",
+        "verse": "11. Fariseul stătea în picioare şi a început să se roage în sine astfel: „Dumnezeule, Îţi mulţumesc că nu sunt ca ceilalţi oameni, hrăpăreţi, nedrepţi, preacurvari sau chiar ca vameşul acesta.\n12. Eu postesc de două ori pe săptămână, dau zeciuială din toate veniturile mele.”"
+      },
+      {
+        "id": 4,
+        "stringRef": "Prov. 3:34",
+        "verse": "34. Când are a face cu cei batjocoritori, Îşi bate joc de ei, dar celor smeriţi le dă har."
+      },
+      {
+        "id": 5,
+        "stringRef": "Iacov 4:6",
+        "verse": "6. Dar, în schimb, ne dă un har şi mai mare. De aceea zice Scriptura: „Dumnezeu stă împotriva celor mândri, dar dă har celor smeriţi.”"
+      },
+      {
+        "id": 6,
+        "stringRef": "Isaia 2:12",
+        "verse": "12. Căci este o zi a Domnului oştirilor împotriva oricărui om mândru şi trufaş, împotriva oricui se înalţă, ca să fie plecat;"
+      },
+      {
+        "id": 7,
+        "stringRef": "Mica 6:8",
+        "verse": "8. Ţi s-a arătat, omule, ce este bine, şi ce alta cere Domnul de la tine decât să faci dreptate, să iubeşti mila şi să umbli smerit cu Dumnezeul tău?"
+      },
+      {
+        "id": 8,
+        "stringRef": "Filip. 2:3",
+        "verse": "3. Nu faceţi nimic din duh de ceartă sau din slavă deşartă; ci, în smerenie, fiecare să privească pe altul mai presus de el însuşi."
+      },
+      {
+        "id": 9,
+        "stringRef": "Isaia 14:12÷15",
+        "verse": "12. Cum ai căzut din cer, luceafăr strălucitor, fiu al zorilor! Cum ai fost doborât la pământ, tu, biruitorul neamurilor!\n13. Tu ziceai în inima ta: „Mă voi sui în cer, îmi voi ridica scaunul de domnie mai presus de stelele lui Dumnezeu, voi şedea pe muntele adunării dumnezeilor, la capătul miazănoaptei,\n14. mă voi sui pe vârful norilor, voi fi ca Cel Preaînalt.”\n15. Dar ai fost aruncat în Locuinţa morţilor, în adâncimile mormântului!"
+      },
+      {
+        "id": 10,
+        "stringRef": "Daniel 4:30÷37",
+        "verse": "30. împăratul a luat cuvântul şi a zis: „Oare nu este acesta Babilonul cel mare pe care mi l-am zidit eu ca loc de şedere împărătească, prin puterea bogăţiei mele şi spre slava măreţiei mele?”\n31. Nu se sfârşise încă vorba aceasta a împăratului, şi un glas s-a coborât din cer şi a zis: „Află, împărate Nebucadneţar, că ţi s-a luat împărăţia!\n32. Te vor izgoni din mijlocul oamenilor, şi vei locui la un loc cu fiarele câmpului, îţi vor da să mănânci iarbă ca la boi, şi vor trece peste tine şapte vremuri, până vei recunoaşte că Cel Preaînalt stăpâneşte peste împărăţia oamenilor şi că o dă cui vrea!”\n33. Chiar în clipa aceea s-a împlinit cuvântul acela asupra lui Nebucadneţar. A fost izgonit din mijlocul oamenilor, a mâncat iarbă ca boii, trupul i-a fost udat de roua cerului, până i-a crescut părul ca penele vulturului şi unghiile, ca ghearele păsărilor.\n34. „După trecerea vremii sorocite, eu, Nebucadneţar, am ridicat ochii spre cer şi mi-a venit iarăşi mintea la loc. Am binecuvântat pe Cel Preaînalt, am lăudat şi slăvit pe Cel ce trăieşte veşnic, Acela a cărui stăpânire este veşnică şi a cărui Împărăţie dăinuie din neam în neam.\n35. Toţi locuitorii pământului sunt o nimica înaintea Lui; El face ce vrea cu oastea cerurilor şi cu locuitorii pământului, şi nimeni nu poate să stea împotriva mâniei Lui, nici să-I zică: „Ce faci?”\n36. În vremea aceea mi-a venit mintea înapoi; slava împărăţiei mele, măreţia şi strălucirea mea mi s-au dat înapoi; sfetnicii şi mai marii mei din nou m-au căutat; am fost pus iarăşi peste împărăţia mea, şi puterea mea a crescut.\n37. Acum, eu, Nebucadneţar, laud, înalţ şi slăvesc pe Împăratul cerurilor, căci toate lucrările Lui sunt adevărate, toate căile Lui sunt drepte, şi El poate să smerească pe cei ce umblă cu mândrie!”"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "concept": "Ce este iertarea ? (Ps. 103:12, Isaia 43:25, 1 Ioan 1:9, Efes. 4:32, Col. 3:13, Matei 18:21÷22, Matei 6:14÷15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 103:12",
+        "verse": "12. cât este de departe răsăritul de apus, atât de mult depărtează El fărădelegile noastre de la noi."
+      },
+      {
+        "id": 2,
+        "stringRef": "Isaia 43:25",
+        "verse": "25. Eu, Eu îţi şterg fărădelegile, pentru Mine, şi nu-Mi voi mai aduce aminte de păcatele tale."
+      },
+      {
+        "id": 3,
+        "stringRef": "1 Ioan 1:9",
+        "verse": "9. Dacă ne mărturisim păcatele, El este credincios şi drept ca să ne ierte păcatele şi să ne cureţe de orice nelegiuire."
+      },
+      {
+        "id": 4,
+        "stringRef": "Efes. 4:32",
+        "verse": "32. Dimpotrivă, fiţi buni unii cu alţii, miloşi şi iertaţi-vă unul pe altul, cum v-a iertat şi Dumnezeu pe voi în Hristos."
+      },
+      {
+        "id": 5,
+        "stringRef": "Col. 3:13",
+        "verse": "13. Îngăduiţi-vă unii pe alţii, şi dacă unul are pricină să se plângă de altul, iertaţi-vă unul pe altul. Cum v-a iertat Hristos, aşa iertaţi-vă şi voi."
+      },
+      {
+        "id": 6,
+        "stringRef": "Matei 18:21÷22",
+        "verse": "21. Atunci Petru s-a apropiat de El şi I-a zis: „Doamne, de câte ori să iert pe fratele meu când va păcătui împotriva mea? Până la şapte ori?”\n22. Isus i-a zis: „Eu nu-ţi zic până la şapte ori, ci până la şaptezeci de ori câte şapte."
+      },
+      {
+        "id": 7,
+        "stringRef": "Matei 6:14÷15",
+        "verse": "14. Dacă iertaţi oamenilor greşelile lor, şi Tatăl vostru cel ceresc vă va ierta greşelile voastre.\n15. Dar dacă nu iertaţi oamenilor greşelile lor, nici Tatăl vostru nu vă va ierta greşelile voastre."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "concept": "Ce este Locuinţa morţilor ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Locuința morților se referă la un loc spiritual în care sufletele celor decedați așteaptă judecata lui Dumnezeu."
+      },
+      {
+        "id": 2,
+        "hint": "Șeol: Termenul ebraic folosit în Vechiul Testament pentru a desemna locul în care ajung sufletele celor decedați (Ps. 16:10).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 16:10",
+            "verse": "10. Căci nu vei lăsa sufletul meu în Locuinţa morţilor, nu vei îngădui ca preaiubitul Tău să vadă putrezirea."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Hades: echivalentul grecesc al Șeolului, folosit în Noul Testament. Desemnează locul sufletelor decedate, înainte de învierea finală (Apoc. 1:18).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 1:18",
+            "verse": "18. Cel Viu. Am fost mort, şi iată că sunt viu în vecii vecilor. Eu ţin cheile morţii şi ale Locuinţei morţilor."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Gheena: desemnează locul pedepsei veșnice pentru cei care au respins pe Dumnezeu. Este diferit de Hades sau Șeol (Matei 10:28).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 10:28",
+            "verse": "28. Nu vă temeţi de cei ce ucid trupul, dar care nu pot ucide sufletul; ci temeţi-vă mai degrabă de Cel ce poate să piardă şi sufletul şi trupul în gheenă."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "concept": "Cum ne învață biblia să spunem adevărul ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": " Adevărul nu trebuie rostit ca o armă, ci trebuie spus în dragoste, ca un act de maturitate spirituală și grijă pentru celălalt (Efes. 4:15).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Efes. 4:15",
+            "verse": "15. ci, credincioşi adevărului, în dragoste, să creştem în toate privinţele, ca să ajungem la Cel ce este Capul, Hristos."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Adevărul trebuie spus cu blândețe, respect și smerenie (1 Pet. 3:15).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Pet. 3:15",
+            "verse": "15. Ci sfinţiţi în inimile voastre pe Hristos ca Domn.” Fiţi totdeauna gata să răspundeţi oricui vă cere socoteală de nădejdea care este în voi; dar cu blândeţe şi teamă,"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Adevărul trebuie spus cu înțelepciune. Tactul contează. Uneori, adevărul spus la timpul nepotrivit sau într-un mod dur poate răni, nu vindeca. (Prov. 25:11).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 25:11",
+            "verse": "11. Un cuvânt spus la vremea potrivită este ca nişte mere de aur într-un coşuleţ de argint."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Adevărul nu înseamnă a răni sau a expune. A spune adevărul nu înseamnă să dezvălui orice, oricând. Discreția este parte din înțelepciune. (Prov. 11:13).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 11:13",
+            "verse": "13. Cine umblă cu bârfe dă pe faţă lucruri ascunse, dar sufletul credincios ţine ce i s-a încredinţat."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Adevărul și dragostea sunt legate. Un adevăr rostit fără dragoste poate deveni crud. Dar o dragoste care evită adevărul devine mincinoasă. (1 Cor. 13:6).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 13:6",
+            "verse": "6. nu se bucură de nelegiuire, ci se bucură de adevăr,"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "hint": "Adevărul trebuie să reflecte caracterul lui Dumnezeu. Dumnezeu caută oameni care spun adevărul cu integritate, nu cu superioritate. (Ps. 15:1÷2).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 15:1÷2",
+            "verse": "1. (Un psalm al lui David.) Doamne, cine va locui în cortul Tău? Cine va locui pe muntele Tău cel sfânt?\n2. - Cel ce umblă în neprihănire, cel ce face voia lui Dumnezeu şi spune adevărul din inimă."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "concept": "Cum putem cunoaște că Isus a murit pentru toți oamenii ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Biblia afirmă clar că Isus a murit pentru toți oamenii, nu doar pentru unii. (Ioan 3:16, Rom. 5:8, 2 Cor. 5:14÷15, Tit 2:11, Evrei 2:9, 1 Ioan 2:2).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 3:16",
+            "verse": "16. Fiindcă atât de mult a iubit Dumnezeu lumea, încât a dat pe singurul Lui Fiu, pentru ca oricine crede în El să nu piară, ci să aibă viaţa veşnică."
+          },
+          {
+            "id": 2,
+            "stringRef": "Rom. 5:8",
+            "verse": "8. Dar Dumnezeu Îşi arată dragostea faţă de noi prin faptul că, atunci când eram încă păcătoşi, Hristos a murit pentru noi."
+          },
+          {
+            "id": 3,
+            "stringRef": "2 Cor. 5:14÷15",
+            "verse": "14. Căci dragostea lui Hristos ne strânge; fiindcă socotim că, dacă Unul singur a murit pentru toţi, toţi deci au murit.\n15. Şi El a murit pentru toţi, pentru ca cei ce trăiesc să nu mai trăiască pentru ei înşişi, ci pentru Cel ce a murit şi a înviat pentru ei."
+          },
+          {
+            "id": 4,
+            "stringRef": "Tit 2:11",
+            "verse": "11. Căci harul lui Dumnezeu, care aduce mântuire pentru toţi oamenii, a fost arătat"
+          },
+          {
+            "id": 5,
+            "stringRef": "Evrei 2:9",
+            "verse": "9. Dar pe Acela care a fost făcut „pentru puţină vreme mai prejos decât îngerii”, adică pe Isus, Îl vedem „încununat cu slavă şi cu cinste” din pricina morţii pe care a suferit-o; pentru ca, prin harul lui Dumnezeu, El să guste moartea pentru toţi."
+          },
+          {
+            "id": 6,
+            "stringRef": "1 Ioan 2:2",
+            "verse": "2. El este jertfa de ispăşire pentru păcatele noastre; şi nu numai pentru ale noastre, ci şi pentru ale întregii lumi."
+          }
+        ]
+      }
+    ]
+  }
+]

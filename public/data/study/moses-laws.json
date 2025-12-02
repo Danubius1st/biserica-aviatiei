@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "stringRef": "Exod 20:3",
+    "verse": "3. Să nu ai alţi dumnezei afară de Mine."
+  },
+  {
+    "id": 2,
+    "stringRef": "Exod 20:4",
+    "verse": "4. Să nu-ţi faci chip cioplit, nici vreo înfăţişare a lucrurilor care sunt sus în ceruri, sau jos pe pământ, sau în apele mai de jos decât pământul."
+  },
+  {
+    "id": 3,
+    "stringRef": "Exod 20:7",
+    "verse": "7. Să nu iei în deşert Numele Domnului Dumnezeului tău; căci Domnul nu va lăsa nepedepsit pe cel ce va lua în deşert Numele Lui."
+  },
+  {
+    "id": 4,
+    "stringRef": "Exod 20:8",
+    "verse": "8. Adu-ţi aminte de ziua de odihnă, ca s-o sfinţeşti."
+  },
+  {
+    "id": 5,
+    "stringRef": "Exod 20:12",
+    "verse": "12. Cinsteşte pe tatăl tău şi pe mama ta, pentru ca să ţi se lungească zilele în ţara pe care ţi-o dă Domnul Dumnezeul tău."
+  },
+  {
+    "id": 6,
+    "stringRef": "Exod 20:13",
+    "verse": "13. Să nu ucizi."
+  },
+  {
+    "id": 7,
+    "stringRef": "Exod 20:14",
+    "verse": "14. Să nu preacurveşti."
+  },
+  {
+    "id": 8,
+    "stringRef": "Exod 20:15",
+    "verse": "15. Să nu furi."
+  },
+  {
+    "id": 9,
+    "stringRef": "Exod 20:16",
+    "verse": "16. Să nu mărturiseşti strâmb împotriva aproapelui tău."
+  },
+  {
+    "id": 10,
+    "stringRef": "Exod 20:17",
+    "verse": "17. Să nu pofteşti casa aproapelui tău; să nu pofteşti nevasta aproapelui tău, nici robul lui, nici roaba lui, nici boul lui, nici măgarul lui, nici vreun alt lucru care este al aproapelui tău."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "education": "În VT este admisă pedeapsă corporală (Prov. 13:24, Prov. 22:15, Prov. 23:13÷14, Prov. 29:15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Prov. 13:24",
+        "verse": "24. Cine cruţă nuiaua, urăşte pe fiul său, dar cine-l iubeşte, îl pedepseşte îndată."
+      },
+      {
+        "id": 2,
+        "stringRef": "Prov. 22:15",
+        "verse": "15. Nebunia este lipită de inima copilului, dar nuiaua certării o va dezlipi de el."
+      },
+      {
+        "id": 3,
+        "stringRef": "Prov. 23:13÷14",
+        "verse": "13. Nu cruţa copilul de mustrare, căci dacă-l vei lovi cu nuiaua nu va muri.\n14. Lovindu-l cu nuiaua, îi scoţi sufletul din Locuinţa morţilor."
+      },
+      {
+        "id": 4,
+        "stringRef": "Prov. 29:15",
+        "verse": "15. Nuiaua şi certarea dau înţelepciunea, dar copilul lăsat de capul lui face ruşine mamei sale."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "education": "În Noul Testament, nu se pune accent pe pedeapsa corporală, ci pe disciplina bazată pe învățătură, îndrumare și dragoste. (Efes. 6:4, Col. 3:21)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Efes. 6:4",
+        "verse": "4. Şi voi, părinţilor, nu întărâtaţi la mânie pe copiii voştri, ci creşteţi-i în mustrarea şi învăţătura Domnului."
+      },
+      {
+        "id": 2,
+        "stringRef": "Col. 3:21",
+        "verse": "21. Părinţilor, nu întărâtaţi pe copiii voştri, ca să nu-şi piardă nădejdea."
+      }
+    ]
+  }
+]

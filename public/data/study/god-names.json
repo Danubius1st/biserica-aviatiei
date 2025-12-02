@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "godName": "El ELOAH",
+    "translation": "Dumnezeul măreţ, tare, remarcat (Gen. 17:1, Gen. 31:29, Num. 23:19, Deut. 5:9, Neem. 9:31, Isaia 9:6)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 17:1",
+        "verse": "1. Când a fost Avram în vârstă de nouăzeci şi nouă de ani, Domnul i S-a arătat şi i-a zis: „Eu sunt Dumnezeul cel Atotputernic. Umblă înaintea Mea şi fii fără prihană."
+      },
+      {
+        "id": 2,
+        "stringRef": "Gen. 31:29",
+        "verse": "29. Mâna mea este destul de tare ca să vă fac rău; dar Dumnezeul tatălui vostru mi-a zis în noaptea trecută: „Fereşte-te să spui o vorbă rea lui Iacov!”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Num. 23:19",
+        "verse": "19. Dumnezeu nu este un om ca să mintă, nici un fiu al omului, ca să-I pară rău. Ce a spus, oare nu va face? Ce a făgăduit, oare nu va împlini?"
+      },
+      {
+        "id": 4,
+        "stringRef": "Deut. 5:9",
+        "verse": "9. Să nu te închini înaintea lor şi să nu le slujeşti, căci Eu, Domnul Dumnezeul tău, sunt un Dumnezeu gelos, care pedepsesc fărădelegea părinţilor în copii până la al treilea şi la al patrulea neam al celor ce Mă urăsc;"
+      },
+      {
+        "id": 5,
+        "stringRef": "Neem. 9:31",
+        "verse": "31. Dar, în marea Ta îndurare, nu i-ai nimicit şi nu i-ai părăsit, căci Tu eşti un Dumnezeu milostiv şi îndurător."
+      },
+      {
+        "id": 6,
+        "stringRef": "Isaia 9:6",
+        "verse": "6. Căci un Copil ni S-a născut, un Fiu ni S-a dat, şi domnia va fi pe umărul Lui; Îl vor numi: „Minunat, Sfetnic, Dumnezeu tare, Părintele veşniciilor, Domn al păcii.”"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "godName": "ELOHIM",
+    "translation": "Dumnezeul creator, puternic şi tare (forma plurală a lui Eloah) (Gen. 1:1, Gen. 17:7, Ier. 31:33)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 1:1",
+        "verse": "1. La început, Dumnezeu a făcut cerurile şi pământul."
+      },
+      {
+        "id": 2,
+        "stringRef": "Gen. 17:7",
+        "verse": "7. Voi pune legământul Meu între Mine şi tine şi sămânţa ta după tine, din neam în neam; acesta va fi un legământ veşnic, în puterea căruia Eu voi fi Dumnezeul tău şi al seminţei tale după tine."
+      },
+      {
+        "id": 3,
+        "stringRef": "Ier. 31:33",
+        "verse": "33. Ci iată legământul pe care-l voi face cu casa lui Israel după zilele acelea, zice Domnul: Voi pune Legea Mea înăuntrul lor, o voi scrie în inima lor; şi Eu voi fi Dumnezeul lor, iar ei vor fi poporul Meu."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "godName": "El SHADDAI",
+    "translation": "Dumnezeul Atotputernic, Puternicul lui Iacov (Gen. 49:24, Ps. 132:5)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 49:24",
+        "verse": "24. Dar arcul lui a rămas tare, şi mâinile lui au fost întărite de mâinile Puternicului lui Iacov: şi a ajuns astfel păstorul, stânca lui Israel."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ps. 132:5",
+        "verse": "5. până nu voi găsi un loc pentru Domnul, o locuinţă pentru Puternicul lui Iacov.”"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "godName": "ADONAI",
+    "translation": "Domnul Suveran (Gen. 15:2, Judc. 6:15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 15:2",
+        "verse": "2. Avram a răspuns: „Doamne Dumnezeule, ce-mi vei da? Căci mor fără copii; şi moştenitorul casei mele este Eliezer din Damasc.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Judc. 6:15",
+        "verse": "15. Ghedeon I-a zis: ”Rogu-te, domnul meu, cu ce să izbăvesc pe Israel? Iată că familia mea este cea mai săracă din Manase, şi eu sunt cel mai mic din casa tatălui meu.”"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "godName": "YHWH, IAHVE, IEHOVA",
+    "translation": "Domnul (Exod 3:14, Deut. 6:4, Ps. 25:11, Ps. 31:3, Ps. 107:13, Dan. 9:14)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 3:14",
+        "verse": "14. Dumnezeu a zis lui Moise: „Eu sunt Cel ce sunt.” Şi a adăugat: „Vei răspunde copiilor lui Israel astfel: „Cel ce Se numeşte «Eu sunt», m-a trimis la voi.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Deut. 6:4",
+        "verse": "4. Ascultă, Israele! Domnul Dumnezeul nostru este singurul Domn."
+      },
+      {
+        "id": 3,
+        "stringRef": "Ps. 25:11",
+        "verse": "11. Pentru Numele Tău, Doamne, iartă-mi fărădelegea, căci mare este!"
+      },
+      {
+        "id": 4,
+        "stringRef": "Ps. 31:3",
+        "verse": "3. Căci Tu eşti stânca mea, cetăţuia mea, şi, pentru Numele Tău, mă vei povăţui şi mă vei călăuzi."
+      },
+      {
+        "id": 5,
+        "stringRef": "Ps. 107:13",
+        "verse": "13. Atunci, în strâmtorarea lor, au strigat către Domnul, şi El i-a izbăvit din necazurile lor."
+      },
+      {
+        "id": 6,
+        "stringRef": "Dan. 9:14",
+        "verse": "14. De aceea, şi Domnul a îngrijit ca nenorocirea aceasta să vină peste noi; căci Domnul Dumnezeul nostru este drept în toate lucrurile pe care le-a făcut, dar noi n-am ascultat glasul Lui."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "godName": "IEHOVA-IRE",
+    "translation": "Domnul va purta de grijă (Gen. 22:14)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 22:14",
+        "verse": "14. Avraam a pus locului aceluia numele: „Domnul va purta de grijă”. De aceea se zice şi azi: „La muntele unde Domnul va purta de grijă”."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "godName": "IEHOVA-RAFA",
+    "translation": "Domnul care vindecă (Exod 15:26)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 15:26",
+        "verse": "26. El a zis: „Dacă vei asculta cu luare aminte glasul Domnului Dumnezeului tău, dacă vei face ce este bine înaintea Lui, dacă vei asculta de poruncile Lui şi dacă vei păzi toate legile Lui, nu te voi lovi cu niciuna din bolile cu care am lovit pe egipteni; căci Eu sunt Domnul care te vindecă.”"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "godName": "IEHOVA-NISSI",
+    "translation": "Domnul, steagul nostru (Exod 17:15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 17:15",
+        "verse": "15. Moise a zidit un altar şi i-a pus numele „Domnul, steagul meu”."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "godName": "IEHOVA-M'KADDESH",
+    "translation": "Domnul care sfinţeşte (Lev. 20:8, Ezec. 37:28)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Lev. 20:8",
+        "verse": "8. Să păziţi legile Mele şi să le împliniţi. Eu sunt Domnul care vă sfinţesc."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ezec. 37:28",
+        "verse": "28. Şi neamurile vor şti că Eu sunt Domnul care sfinţeşte pe Israel, când Locaşul Meu cel Sfânt va fi pentru totdeauna în mijlocul lor.”"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "godName": "IEHOVA-SHALOM",
+    "translation": "Dumnezeu păcii (Judc. 6:24)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Judc. 6:24",
+        "verse": "24. Ghedeon a zidit acolo un altar Domnului şi i-a pus numele „Domnul păcii”: altarul aceasta este şi astăzi la Ofra, care era a familiei lui Abiezer."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "godName": "IEHOVA-ELOHIM",
+    "translation": "Domnul Dumnezeu (Gen. 2:5, Ps. 59:5)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 2:5",
+        "verse": "5. În ziua când a făcut Domnul Dumnezeu un pământ şi ceruri, nu era încă pe pământ niciun copăcel de câmp şi nicio iarbă de pe câmp nu încolţea încă: fiindcă Domnul Dumnezeu nu dăduse încă ploaie pe pământ şi nu era niciun om ca să lucreze pământul."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ps. 59:5",
+        "verse": "5. Doamne Dumnezeul oştirilor, Dumnezeul lui Israel, scoală-Te, ca să pedepseşti toate neamurile! N-avea milă de niciunul din aceşti vânzători nelegiuiţi."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "godName": "IEHOVA-TSIDKENU",
+    "translation": "Domnul neprihănirea noastră (Ier. 23:6, Ier. 33:16, 2 Cor. 5:21)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ier. 23:6",
+        "verse": "5. Iată vin zile, zice Domnul, când voi ridica lui David o Odraslă neprihănită. El va împărăţi, va lucra cu înţelepciune şi va face dreptate şi judecată în ţară."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ier. 33:16",
+        "verse": "16. În zilele acelea, Iuda va fi mântuit, şi Ierusalimul va locui în linişte. Şi iată cum Îl vor numi: „Domnul, Neprihănirea noastră.”"
+      },
+      {
+        "id": 3,
+        "stringRef": "2 Cor. 5:21",
+        "verse": "21. Pe Cel ce n-a cunoscut niciun păcat, El L-a făcut păcat pentru noi, ca noi să fim neprihănirea lui Dumnezeu în El."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "godName": "IEHOVA-ROHI",
+    "translation": "Domnul Păstorul nostru (Ps. 23:1)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 23:1",
+        "verse": "Domnul este păstorul meu: nu voi duce lipsă de nimic."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "godName": "IEHOVA-SHAMMAH",
+    "translation": "Domnul este acolo (Ezec. 44:1÷4, Ezec. 48:35)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezec. 44:1÷4",
+        "verse": "1. M-a adus înapoi la poarta de afară a Sfântului Locaş, dinspre răsărit. Dar era închisă. 2. Şi Domnul mi-a zis: „Poarta aceasta va sta închisă, nu se va deschide şi nimeni nu va trece pe ea; căci Domnul Dumnezeul lui Israel a intrat pe ea. De aceea va rămâne închisă! 3. În ce priveşte pe voievod, voievodul va putea să şadă sub ea, ca să mănânce pâinea de jertfă înaintea Domnului. El va intra pe drumul care dă în tinda porţii şi va ieşi pe acelaşi drum.” 4. M-a dus apoi la poarta de miazănoapte, înaintea casei Templului. M-am uitat şi iată că slava Domnului umplea Casa Domnului! Şi am căzut cu faţa la pământ."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ezec. 48:35",
+        "verse": "35. De jur împrejurul cetăţii: optsprezece mii de coţi. Şi, din ziua aceea, numele cetăţii va fi: „Domnul este aici!”"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "godName": "IEHOVA-SAVAOT",
+    "translation": "Domnul oştirilor (Domnul puterilor) (Ps. 46:7, Isaia 1:24)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 46:7",
+        "verse": "7. Domnul oştirilor este cu noi, Dumnezeul lui Iacov este un turn de scăpare pentru noi."
+      },
+      {
+        "id": 2,
+        "stringRef": "Isaia 1:24",
+        "verse": "24. De aceea, iată ce zice Domnul Dumnezeul oştirilor, Puternicul lui Israel: „Ah! voi cere socoteală potrivnicilor Mei şi Mă voi răzbuna pe vrăjmaşii Mei."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "godName": "EL ELYON",
+    "translation": "Cel Preaînalt (Deut. 32:8)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Deut. 32:8",
+        "verse": "8. Când Cel Preaînalt a dat o moştenire neamurilor, când a despărţit pe copiii oamenilor, a pus hotare popoarelor, după numărul copiilor lui Israel,"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "godName": "EL ROI",
+    "translation": "Dumnezeul care vede (Gen. 16:13)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 16:13",
+        "verse": "13. Ea a numit Numele Domnului care-i vorbise: „Tu eşti Dumnezeu care mă vede!” căci a zis ea: „Cu adevărat, am văzut aici spatele Celui ce m-a văzut!”"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "godName": "EL-OLAM",
+    "translation": "Dumnezeul veşnic (Ps. 90:2)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 90:2",
+        "verse": "2. Înainte ca să se fi născut munţii şi înainte ca să se fi făcut pământul şi lumea, din veşnicie în veşnicie, Tu eşti Dumnezeu!"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "godName": "EL-GIBOR",
+    "translation": "Dumnezeu tare (Isaia 9:6, Apoc. 19:15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 9:6",
+        "verse": "6. Căci un Copil ni S-a născut, un Fiu ni S-a dat, şi domnia va fi pe umărul Lui; Îl vor numi: „Minunat, Sfetnic, Dumnezeu tare, Părintele veşniciilor, Domn al păcii.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Apoc. 19:15",
+        "verse": "15. Din gura Lui ieşea o sabie ascuţită, ca să lovească neamurile cu ea, pe care le va cârmui cu un toiag de fier. Şi va călca cu picioarele teascul vinului mâniei aprinse a atotputernicului Dumnezeu."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "godName": "AVA",
+    "translation": "Tată (Marcu 14:36, Rom. 8:15, Gal. 4:6)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Marcu 14:36",
+        "verse": "36. El zicea: „Ava - adică: Tată - Ţie toate lucrurile Îţi sunt cu putinţă; depărtează de la Mine paharul acesta! Totuşi, facă-se nu ce voiesc Eu, ci ce voieşti Tu.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Rom. 8:15",
+        "verse": "15. Şi voi n-aţi primit un duh de robie, ca să mai aveţi frică; ci aţi primit un duh de înfiere care ne face să strigăm: „Ava!, adică: Tată!”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Gal. 4:6",
+        "verse": "6. Şi, pentru că sunteţi fii, Dumnezeu ne-a trimis în inimă Duhul Fiului Său care strigă: „Ava”, adică: „Tată!”"
+      }
+    ]
+  }
+]

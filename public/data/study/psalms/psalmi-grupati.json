@@ -1,0 +1,105 @@
+{
+  "categories": [
+    "Pocăință",
+    "Mulțumire",
+    "Încredere",
+    "Lamentație",
+    "Laudă",
+    "Regal / Mesianic",
+    "Înțelepciune / Didactic",
+    "Istoric",
+    "Liturgic / De pelerinaj",
+    "Imprecator / De judecată",
+    "Laudă / Reflecție / Final"
+  ],
+  "psalms": [
+    {
+      "id": 1,
+      "author": "David",
+      "title": "Ai milă de mine, Dumnezeule",
+      "number": 51,
+      "category": "Pocăință",
+      "subcategory": null
+    },
+    {
+      "id": 9,
+      "author": "David",
+      "title": "Te laud, Doamne, cu toată inima mea",
+      "number": 9,
+      "category": "Mulțumire",
+      "subcategory": null
+    },
+    {
+      "id": 20,
+      "author": "David",
+      "title": "Domnul este Păstorul meu",
+      "number": 23,
+      "category": "Încredere",
+      "subcategory": null
+    },
+    {
+      "id": 33,
+      "author": "David",
+      "title": "Dumnezeule, până când mă vei uita?",
+      "number": 13,
+      "category": "Lamentație",
+      "subcategory": null
+    },
+    {
+      "id": 45,
+      "author": "David",
+      "title": "Lăudați pe Domnul, căci este bun",
+      "number": 136,
+      "category": "Laudă",
+      "subcategory": null
+    },
+    {
+      "id": 68,
+      "author": "David",
+      "title": "Tu ești Fiul Meu",
+      "number": 2,
+      "category": "Regal / Mesianic",
+      "subcategory": null
+    },
+    {
+      "id": 78,
+      "author": "David",
+      "title": "Ferice de omul care nu se duce la sfatul celor răi",
+      "number": 1,
+      "category": "Înțelepciune / Didactic",
+      "subcategory": null
+    },
+    {
+      "id": 88,
+      "author": "Asaf",
+      "title": "Amintește-ți, Doamne, de poporul Tău",
+      "number": 78,
+      "category": "Istoric",
+      "subcategory": null
+    },
+    {
+      "id": 100,
+      "author": "David",
+      "title": "Să mergem la casa Domnului",
+      "number": 122,
+      "category": "Liturgic / De pelerinaj",
+      "subcategory": "Cântare a treptelor"
+    },
+    {
+      "id": 108,
+      "author": "David",
+      "title": "Frânge brațul celui rău",
+      "number": 10,
+      "category": "Imprecator / De judecată",
+      "subcategory": null
+    },
+    {
+      "id": 128,
+      "author": "David",
+      "title": "Toată suflarea să laude pe Domnul",
+      "number": 150,
+      "category": "Laudă / Reflecție / Final",
+      "subcategory": null
+    }
+  ]
+}

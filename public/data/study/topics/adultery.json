@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "adultery": "Definiții:\n- Curvia (gr. porneia) se referă la orice formă de relație sexuală în afara căsătoriei legitime.\n- Preacurvia (gr. moicheia) este actul de a avea relații intime cu altcineva decât soțul sau soția proprie, adică adulterul.\n- Acestea sunt interzise atât în VT (Exod 20:14, Lev. 18:20, Deut. 22:22), cât și în NT (Matei 5:27÷28, 1 Cor. 6:18÷20, Evrei 13:4)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 20:14",
+        "verse": "14. Să nu preacurveşti."
+      },
+      {
+        "id": 2,
+        "stringRef": "Lev. 18:20",
+        "verse": "20. Să nu te împreunezi cu nevasta semenului tău, ca să te pângăreşti cu ea."
+      },
+      {
+        "id": 3,
+        "stringRef": "Deut. 22:22",
+        "verse": "22. Dacă se va găsi un bărbat culcat cu o femeie măritată, să moară amândoi: şi bărbatul care s-a culcat cu femeia, şi femeia. Să cureţi astfel răul din mijlocul lui Israel."
+      },
+      {
+        "id": 4,
+        "stringRef": "Matei 5:27÷28",
+        "verse": "27. Aţi auzit că s-a zis celor din vechime: „Să nu preacurveşti.”\n28. Dar Eu vă spun că oricine se uită la o femeie ca s-o poftească, a şi preacurvit cu ea în inima lui."
+      },
+      {
+        "id": 5,
+        "stringRef": "1 Cor. 6:18÷20",
+        "verse": "18. Fugiţi de curvie! Orice alt păcat, pe care-l face omul, este un păcat săvârşit afară din trup; dar cine curveşte păcătuieşte împotriva trupului său.\n19. Nu ştiţi că trupul vostru este Templul Duhului Sfânt care locuieşte în voi şi pe care L-aţi primit de la Dumnezeu? Şi că voi nu sunteţi ai voştri?\n20. Căci aţi fost cumpăraţi cu un preţ. Proslăviţi, dar, pe Dumnezeu în trupul şi în duhul vostru, care sunt ale lui Dumnezeu."
+      },
+      {
+        "id": 6,
+        "stringRef": "Evrei 13:4",
+        "verse": "4. Căsătoria să fie ţinută în toată cinstea, şi patul să fie nespurcat, căci Dumnezeu va judeca pe curvari şi pe preacurvari."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "adultery": "Aceste păcate au urmări (Gal. 5:19÷21, Apoc. 21:8)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gal. 5:19÷21",
+        "verse": "19. Şi faptele firii pământeşti sunt cunoscute şi sunt acestea: preacurvia, curvia, necurăţia, desfrânarea,\n20. închinarea la idoli, vrăjitoria, vrăjbile, certurile, zavistiile, mâniile, neînţelegerile, dezbinările, certurile de partide,\n21. pizmele, uciderile, beţiile, îmbuibările şi alte lucruri asemănătoare cu acestea. Vă spun mai dinainte, cum am mai spus, că cei ce fac astfel de lucruri nu vor moşteni Împărăţia lui Dumnezeu."
+      },
+      {
+        "id": 2,
+        "stringRef": "Apoc. 21:8",
+        "verse": "8. Dar, cât despre fricoşi, necredincioşi, scârboşi, ucigaşi, curvari, vrăjitori, închinătorii la idoli şi toţi mincinoşii, partea lor este în iazul care arde cu foc şi cu pucioasă, adică moartea a doua.”"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "adultery": "Păcatele curviei și preacurviei pot fi iertate (Ioan 8:3÷11, 1 Ioan 1:9)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ioan 8:3÷11",
+        "verse": "3. Atunci cărturarii şi fariseii I-au adus o femeie prinsă în preacurvie. Au pus-o în mijlocul norodului\n4. şi au zis lui Isus: „Învăţătorule, femeia aceasta a fost prinsă chiar când săvârşea preacurvia.\n5. Moise, în Lege, ne-a poruncit să ucidem cu pietre pe astfel de femei: Tu, dar, ce zici?”\n6. Spuneau lucrul acesta ca să-L ispitească şi să-L poată învinui. Dar Isus S-a plecat în jos şi scria cu degetul pe pământ.\n7. Fiindcă ei nu încetau să-L întrebe, El S-a ridicat în sus şi le-a zis: „Cine dintre voi este fără păcat să arunce cel dintâi cu piatra în ea.”\n8. Apoi S-a plecat iarăşi şi scria cu degetul pe pământ.\n9. Când au auzit ei cuvintele acestea, s-au simţit mustraţi de cugetul lor şi au ieşit afară, unul câte unul, începând de la cei mai bătrâni, până la cei din urmă. Şi Isus a rămas singur cu femeia, care stătea în mijloc.\n10. Atunci S-a ridicat în sus; şi, când n-a mai văzut pe nimeni decât pe femeie, Isus i-a zis: „Femeie, unde sunt pârâşii tăi? Nimeni nu te-a osândit?”\n11. „Nimeni, Doamne”, I-a răspuns ea. Şi Isus i-a zis: „Nici Eu nu te osândesc. Du-te, şi să nu mai păcătuieşti.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Ioan 1:9",
+        "verse": "9. Dacă ne mărturisim păcatele, El este credincios şi drept ca să ne ierte păcatele şi să ne cureţe de orice nelegiuire."
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+import { ReturnButton } from '@/components/ui/custom/return-button';
+import { loginPath } from '@/middleware/routes';
+
+export default function Page() {
+  return (
+    <div className='px-8 py-16 container mx-auto max-w-5xl space-y-8'>
+      <div className='space-y-8'>
+        <ReturnButton href={loginPath} label='Login' />
+
+        <h1 className='text-3xl font-bold'>Success</h1>
+      </div>
+
+      <p className='text-muted-foreground'>
+        Congratulations! You have successfully registered. Please check your email for the verification link.
+      </p>
+    </div>
+  );
+};

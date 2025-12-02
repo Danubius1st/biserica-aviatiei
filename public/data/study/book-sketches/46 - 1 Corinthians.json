@@ -1,0 +1,162 @@
+{
+  "id": 46,
+  "book": "1 Corinteni",
+  "sketches": [
+    {
+      "id": 1,
+      "sketch": "Introducere (1 Cor. 1:1÷9)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Salutul lui Pavel (1 Cor. 1:1÷3)"
+        },
+        {
+          "id": 2,
+          "hint": "Mulțumirea lui Pavel pentru darurile spirituale (1 Cor. 1:4÷9)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sketch": "Probleme legate de dezbinări și mândrie spirituală din biserică (1 Cor. 1:10 ÷ 4:21)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Avertismentul împotriva divizărilor (1 Cor. 1:10÷17)"
+        },
+        {
+          "id": 2,
+          "hint": "Predica lui Hristos - nebunia lui Dumnezeu (1 Cor. 1:18 ÷ 2:5)"
+        },
+        {
+          "id": 3,
+          "hint": "Înțelepciunea lui Dumnezeu vs. înțelepciunea omenească (1 Cor. 2:6 ÷ 3:23)"
+        },
+        {
+          "id": 4,
+          "hint": "Responsabilitatea slujitorilor lui Dumnezeu (1 Cor. 4:1÷21)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sketch": "Probleme morale și spirituale (1 Cor. 5:1 ÷ 6:20)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Imoralitatea sexuală în biserică - cazul omului care trăiește cu soția tatălui său (1 Cor. 5)"
+        },
+        {
+          "id": 2,
+          "hint": "Avertismentul împotriva judecării unii altora (1 Cor. 6:1÷8)"
+        },
+        {
+          "id": 3,
+          "hint": "Problema curviei și a desfrânării și trupul ca templu al Duhului Sfânt (1 Cor. 6:9÷20)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sketch": "Probleme legate de căsătorie și divorț (1 Cor. 7:1 ÷ 7:40)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Răspunsul lui Pavel la întrebările adresate de corinteni (1 Cor. 7:1÷16)"
+        },
+        {
+          "id": 2,
+          "hint": "Îndemnuri pentru cei căsătoriți și cei necăsătoriți (1 Cor. 7:17÷40)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sketch": "Probleme legate de mâncare și idolatrie (1 Cor. 8:1 ÷ 11:1)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Mâncarea jertfită idolilor (1 Cor. 8:1÷13)"
+        },
+        {
+          "id": 2,
+          "hint": "Dreptul la libertate vs. dragostea față de aproapele (1 Cor. 9:1 ÷ 10:33)"
+        },
+        {
+          "id": 3,
+          "hint": "Îndemn la sfințenie în închinare (1 Cor. 10:1 ÷ 11:1)"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sketch": "Probleme legate de închinare și darurile spirituale (1 Cor. 11:2 ÷ 14:40)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Acoperirea capului și rolurile în închinare (1 Cor. 11:2÷16)"
+        },
+        {
+          "id": 2,
+          "hint": "Cina Domnului - o amintire a jertfei lui Hristos - practică greșită și corectare (1 Cor. 11:17÷34)"
+        },
+        {
+          "id": 3,
+          "hint": "Darurile spirituale - diversitate, unitate, scop (1 Cor. 12:1÷31)"
+        },
+        {
+          "id": 4,
+          "hint": "Dragostea - temelia darurilor spirituale (1 Cor. 13:1÷13)"
+        },
+        {
+          "id": 5,
+          "hint": "Darurile spirituale - folosirea lor în biserică (1 Cor. 14:1÷25)"
+        },
+        {
+          "id": 4,
+          "hint": "Ordinea în închinare (1 Cor. 14:26÷40)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sketch": "Doctrina învierii (1 Cor. 15:1÷58)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Învierea lui Hristos - fundamentul Evangheliei (1 Cor. 15:1÷11)"
+        },
+        {
+          "id": 2,
+          "hint": "Învierea morților - speranța credinciosului (1 Cor. 15:12÷34)"
+        },
+        {
+          "id": 3,
+          "hint": "Trupul învierii - semănat în necinste, înviat în slavă (1 Cor. 15:35÷49)"
+        },
+        {
+          "id": 4,
+          "hint": "Învierea credincioșilor - biruința asupra morții (1 Cor. 15:50÷58)"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sketch": "Concluzii și salutări (1 Cor. 16:1÷24)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Instrucțiuni despre strângerea de ajutoare pentru sfinți (1 Cor. 16:1÷4)"
+        },
+        {
+          "id": 2,
+          "hint": "Planurile de călătorie ale lui Pavel (1 Cor. 16:5÷12)"
+        },
+        {
+          "id": 3,
+          "hint": "Îndemnuri finale și salutări (1 Cor. 16:13÷24)"
+        }
+      ]
+    }
+  ]
+}

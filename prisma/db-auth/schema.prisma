@@ -1,0 +1,138 @@
+generator authClient {
+  provider = "prisma-client-js"
+  // provider      = "prisma-client"
+  output   = "../generated/prisma-db-auth/client"
+  // Error: EPERM: operation not permitted, scandir:
+  // 'C:\Users\adria\Application Data'
+  // 'C:\Users\adria\Cookies'
+  // 'C:\Users\adria\AppData'
+  // 'C:\Users\adria\Local Settings'
+  // output        = "../../node_modules/@prisma/prisma-db-auth"
+  // binaryTargets = ["native", "rhel-openssl-3.0.x"]
+  // engineType             = "client"
+  // runtime  = "nodejs"
+  // moduleFormat           = "esm"
+  // generatedFileExtension = "ts"
+  // importFileExtension    = "ts"
+}
+
+generator pothos {
+  provider = "prisma-pothos-types"
+  // previewFeatures = ["tracing"]
+  output   = "../generated/pothos-auth-types.ts"
+}
+
+// generator erd {
+//   provider                  = "prisma-erd-generator"
+//   includeRelationFromFields = true
+//   erdDebug                  = true
+//   output                    = "../db-auth.svg"
+//   theme                     = "forest"
+// }
+
+datasource db {
+  provider = "postgresql"
+  url      = env("AUTH_DATABASE_URL")
+}
+
+enum UserRole {
+  ADMIN
+  USER
+}
+
+model Account {
+  id        String   @id @default(cuid())
+  createdAt DateTime
+  updatedAt DateTime
+
+  accountId             String
+  providerId            String
+  accessToken           String?
+  refreshToken          String?
+  idToken               String?
+  accessTokenExpiresAt  DateTime?
+  refreshTokenExpiresAt DateTime?
+  scope                 String?
+  password              String?
+
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("accounts")
+}
+
+model Session {
+  id        String   @id @default(uuid())
+  createdAt DateTime
+  updatedAt DateTime
+
+  expiresAt      DateTime
+  token          String   @unique
+  ipAddress      String?
+  userAgent      String?
+  impersonatedBy String?
+
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("sessions")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  createdAt DateTime
+  updatedAt DateTime
+
+  name          String
+  email         String  @unique
+  emailVerified Boolean
+  image         String?
+
+  role       UserRole  @default(USER)
+  banned     Boolean?  @default(false)
+  banReason  String?
+  banExpires DateTime?
+
+  sessions Session[]
+  accounts Account[]
+
+  @@map("users")
+}
+
+model Verification {
+  id        String    @id @default(uuid())
+  createdAt DateTime?
+  updatedAt DateTime?
+
+  identifier String
+  value      String
+  expiresAt  DateTime
+
+  @@map("verifications")
+}
+
+// user random images: https://i.pravatar.cc/150
+// https://authjs.dev/getting-started/adapters/prisma
+// Naming Conventions
+
+// https://github.com/vercel/next.js/discussions/62281
+
+// npx prisma generate --schema=prisma/db-auth/schema.prisma
+// npx prisma db push --schema=prisma/db-auth/schema.prisma
+// # sau
+// npx prisma migrate dev --name change-emailverified-to-boolean --schema=prisma/db-auth/schema.prisma
+// npx prisma migrate dev --name add-auth-fields --schema=prisma/db-auth/schema.prisma
+// pg_dump -h localhost -U username -d db-auth -f db-auth-backup.sql
+// pg_dump "postgresql://neondb_owner:npg_GY1jr9HTbVlo@ep-ancient-king-agv6pihs-pooler.c-2.eu-central-1.aws.neon.tech/auth-db?sslmode=require&channel_binding=require" -f db-auth-backup.sql
+
+/**
+ * user aviatiei
+ * user@aviatiei.ro
+ * https://i.pravatar.cc/150
+ * Adrian Bucur
+ * lot.of.noise@gmail.com
+ * https://lh3.googleusercontent.com/a/ACg8ocKNPT4nF-05pTQOwLyASTowvLXvCq_5Ukke5O_320Q8bz0TvkNo0A=s96-c
+ * Danubius1st
+ * adrian.bucur@hotmail.com
+ * https://avatars.githubusercontent.com/u/22094979?v=4
+ */

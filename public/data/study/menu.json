@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "description": "Biblia (versiunea Cornilescu)",
+    "href": "/bible"
+  },
+  {
+    "id": 2,
+    "description": "Cărțile bibliei (schițe)",
+    "href": "/book-sketches"
+  },
+  {
+    "id": 3,
+    "description": "Subiecte de meditație",
+    "href": "/questions"
+  },
+  {
+    "id": 4,
+    "description": "Ce scrie în biblie despre ...",
+    "href": "/topics",
+    "subMenu": [
+      {
+        "id": 1,
+        "description": "Despre unicitatea lui Dumnezeu",
+        "href": "/topics/god-uniqueness"
+      },
+      {
+        "id": 2,
+        "description": "Despre pofte",
+        "href": "/topics/desires"
+      },
+      {
+        "id": 3,
+        "description": "Despre curvie și preacurvie",
+        "href": "/topics/adultery"
+      },
+      {
+        "id": 4,
+        "description": "Despre disciplinarea copiilor",
+        "href": "/topics/education"
+      },
+      {
+        "id": 5,
+        "description": "Despre cum să trăiești scriptura",
+        "href": "/topics/bible-tips"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "Legile date lui Moise",
+    "href": "/moses-laws"
+  },
+  {
+    "id": 6,
+    "description": "Numele lui Dumnezeu în biblie",
+    "href": "/god-names"
+  },
+  {
+    "id": 7,
+    "description": "Legămintele lui Dumnezeu",
+    "href": "/covenants"
+  },
+  {
+    "id": 8,
+    "description": "Promisiunile lui Dumnezeu",
+    "href": "/god-promises"
+  },
+  {
+    "id": 9,
+    "description": "Profețiile bibliei",
+    "href": "/prophecies",
+    "subMenu": [
+      {
+        "id": 1,
+        "description": "Profeții generale",
+        "href": "/prophecies/general"
+      },
+      {
+        "id": 2,
+        "description": "Profeții despre Isus",
+        "href": "/prophecies/about-Jesus"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "description": "Isus - fiul lui Dumnezeu",
+    "href": "/id-confirmations"
+  },
+  {
+    "id": 11,
+    "description": "Pildele Domnului Isus",
+    "href": "/parables"
+  },
+  {
+    "id": 12,
+    "description": "Minunile Domnului Isus",
+    "href": "/miracles"
+  },
+  {
+    "id": 13,
+    "description": "Sărbătorile lui Dumnezeu",
+    "href": "/god-celebrations"
+  },
+  {
+    "id": 14,
+    "description": "Mic dicționar biblic",
+    "href": "/dictionary"
+  },
+  {
+    "id": 15,
+    "description": "Simboluri biblice",
+    "href": "/symbols"
+  },
+  {
+    "id": 16,
+    "description": "Concepte biblice",
+    "href": "/concepts"
+  },
+  {
+    "id": 17,
+    "description": "Există discrepanțe în biblie ?",
+    "href": "/discrepancies"
+  },
+  {
+    "id": 18,
+    "description": "Erezii frecvente",
+    "href": "/heresies"
+  },
+  {
+    "id": 19,
+    "description": "Referințe la vechiul testament făcute de ...",
+    "href": "/quote-refs",
+    "subMenu": [
+      {
+        "id": 1,
+        "description": "Isus",
+        "href": "/quote-refs/jesus"
+      },
+      {
+        "id": 2,
+        "description": "Matei",
+        "href": "/quote-refs/matthew"
+      },
+      {
+        "id": 3,
+        "description": "Marcu",
+        "href": "/quote-refs/mark"
+      },
+      {
+        "id": 4,
+        "description": "Luca",
+        "href": "/quote-refs/luke"
+      },
+      {
+        "id": 5,
+        "description": "Ioan",
+        "href": "/quote-refs/john"
+      }
+    ]
+  }
+]

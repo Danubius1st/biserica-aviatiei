@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "description": "Profeții generale",
+    "href": "/admin-prophecies/general"
+  },
+  {
+    "id": 2,
+    "description": "Profeții despre Isus",
+    "href": "/admin-prophecies/about-Jesus"
+  }
+]

@@ -1,0 +1,895 @@
+[
+  {
+    "id": 1,
+    "discrepancy": "Câte perechi de animale i-a poruncit Dumnezeu lui Noe să bage în arcă ? (Gen. 6:19÷20, Gen. 7:2÷3)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 6:19÷20",
+        "verse": "19. Din tot ce trăieşte, din orice făptură, să iei în corabie câte două din fiecare soi, ca să le ţii vii cu tine: să fie o parte bărbătească şi o parte femeiască.\n20. Din păsări după soiul lor, din vite după soiul lor şi din toate târâtoarele de pe pământ după soiul lor, să vină la tine înăuntru câte două din fiecare soi, ca să le ţii cu viaţă."
+      },
+      {
+        "id": 2,
+        "stringRef": "Gen. 7:2÷3",
+        "verse": "2. Ia cu tine câte şapte perechi din toate dobitoacele curate, câte o parte bărbătească şi câte o parte femeiască; o pereche din dobitoacele care nu sunt curate, câte o parte bărbătească şi câte o parte femeiască;\n3. şi câte şapte perechi, de asemenea, din păsările cerului, câte o parte bărbătească şi câte o parte femeiască, pentru ca să le ţii vie sămânţa pe toată faţa pământului."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Prima referință (Gen. 6:19÷20) este despre toate animalele, pe când a doua referință (Gen. 7:2÷3) este despre animalele curate (Lev. 11, Deut. 14).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 6:19÷20",
+            "verse": "19. Din tot ce trăieşte, din orice făptură, să iei în corabie câte două din fiecare soi, ca să le ţii vii cu tine: să fie o parte bărbătească şi o parte femeiască.\n20. Din păsări după soiul lor, din vite după soiul lor şi din toate târâtoarele de pe pământ după soiul lor, să vină la tine înăuntru câte două din fiecare soi, ca să le ţii cu viaţă."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gen. 7:2÷3",
+            "verse": "2. Ia cu tine câte şapte perechi din toate dobitoacele curate, câte o parte bărbătească şi câte o parte femeiască; o pereche din dobitoacele care nu sunt curate, câte o parte bărbătească şi câte o parte femeiască;\n3. şi câte şapte perechi, de asemenea, din păsările cerului, câte o parte bărbătească şi câte o parte femeiască, pentru ca să le ţii vie sămânţa pe toată faţa pământului."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "discrepancy": "Cine l-a împins pe David să facă numărătoarea poporului ? (2 Sam. 24:1, 1 Cron. 21:1)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Sam. 24:1",
+        "verse": "1. Domnul S-a aprins de mânie din nou împotriva lui Israel; şi a stârnit pe David împotriva lor, zicând: „Du-te şi fă numărătoarea lui Israel şi a lui Iuda.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Cron. 21:1",
+        "verse": "1. Satana s-a sculat împotriva lui Israel şi a aţâţat pe David să facă numărătoarea lui Israel."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În urma biruințelor asupra păgânilor, inima lui David nu a rămas smerită, și pe acolo a pătruns Satan și l-a îndemnat din mândrie să facă numărătoarea poporului. El nu și-a păzit inima, și nu a ascultat de sfatul lui Dumnezeu dat prin Ioab de a nu face numărătoarea (1 Cron. 21:3). De aceea, atunci și doar atunci, Dumnezeu i-a trimis o lucrare de rătăcire prin Satan.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cron. 21:3",
+            "verse": "3. Ioab a răspuns: „Domnul să facă pe poporul Lui încă de o sută de ori pe atât! Împărate, domnul meu, nu sunt ei toţi slujitori ai domnului meu? Dar pentru ce cere domnul meu lucrul acesta? Pentru ce să faci pe Israel să păcătuiască astfel?”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "discrepancy": "Rezultatul numărătorii din Israel și Iuda ? (2 Sam. 24:9, 1 Cron. 21:5)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Sam. 24:9",
+        "verse": "9. Ioab a dat împăratului numărul poporului: erau în Israel opt sute de mii de oameni de război care scoteau sabia, şi în Iuda cinci sute de mii de oameni."
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Cron. 21:5",
+        "verse": "5. Ioab a dat lui David cartea numărătorii poporului: în tot Israelul erau o mie de mii şi o sută de mii de bărbaţi în stare să scoată sabia, iar în Iuda erau patru sute şaptezeci de mii de bărbaţi în stare să scoată sabia."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "O posibilă explicație ar fi că autorul cărții 2 Samuel să fi indicat numărul de „veterani cu experiență” sau de oameni „curajoși”, în timp ce autorul din 1 Cronici a numărat orice om care scoase sabia, nu doar pe cei viteji din Israel."
+      },
+      {
+        "id": 2,
+        "hint": "Observăm că în 1 Cronici 27 sunt 12 divizii a câte 24.000 de oameni fiecare, dând un total de 288.000 de oameni. Este posibil ca autorul cărții 1 Cronici 21:5 să numere acești oameni, în timp ce autorul cărții 2 Samuel 24:9 nu."
+      },
+      {
+        "id": 3,
+        "hint": "În ceea ce privește Iuda, 2 Samuel 24:9 oferă cifra rotundă de 500.000, care a fost cu 30.000 mai mult decât în 1 Cronici 21:5. Acum trebuie observat, în 1 Cronici 21:6, că Ioab nu a finalizat numărarea, pentru că el nu a ajuns la un recensământ al seminției lui Beniamin și nici al lui Levi."
+      },
+      {
+        "id": 4,
+        "hint": "Și pentru Israel și pentru Iuda rotunjirile sunt rezonabil acceptabile, având în vedere comentariile anterioare."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "discrepancy": "Cum a murit Iuda Iscarioteanul ? (Matei 27:5, Fapte 1:18)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 27:5",
+        "verse": "5. Iuda a aruncat arginţii în Templu şi s-a dus de s-a spânzurat."
+      },
+      {
+        "id": 2,
+        "stringRef": "Fapte 1:18",
+        "verse": "18. Omul acesta a dobândit un ogor cu plata nelegiuirii lui, a căzut cu capul în jos, a plesnit în două prin mijloc şi i s-au vărsat toate măruntaiele.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Luca, medic după cum știm, ne oferă descrierea grafică, completă, competentă, a ceea ce s-a întâmplat DUPĂ momentul spânzurării, cu cadavrul ce a atârnat ore bune în soarele fierbinte din Ierusalim."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "discrepancy": "Neprihănire prin credință sau prin fapte ? (Gen. 22:9÷12, Iacov 2:21)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 22:9÷12",
+        "verse": "9. Când au ajuns la locul pe care i-l spusese Dumnezeu, Avraam a zidit acolo un altar şi a aşezat lemnele pe el. A legat pe fiul său, Isaac şi l-a pus pe altar, deasupra lemnelor.\n10. Apoi Avraam a întins mâna şi a luat cuţitul ca să înjunghie pe fiul său.\n11. Atunci Îngerul Domnului l-a strigat din ceruri şi a zis: „Avraame! Avraame!” „Iată-mă!”, a răspuns el.\n12. Îngerul a zis: „Să nu pui mâna pe băiat şi să nu-i faci nimic; căci ştiu acum că te temi de Dumnezeu, întrucât n-ai cruţat pe fiul tău, pe singurul tău fiu, pentru Mine.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Iacov 2:21",
+        "verse": "21. Avraam, părintele nostru, n-a fost el socotit neprihănit prin fapte, când a adus pe fiul său Isaac jertfă pe altar?"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Faptele fără credință nu mântuie (Evrei 11:6).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 11:6",
+            "verse": "6. Şi, fără credinţă, este cu neputinţă să fim plăcuţi Lui! Căci cine se apropie de Dumnezeu trebuie să creadă că El este şi că răsplăteşte pe cei ce-L caută."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Credința fără fapte nu e credință (Iacov 2:17).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Iacov 2:17",
+            "verse": "17. Tot aşa şi credinţa: dacă n-are fapte, este moartă în ea însăşi."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "În concluzie, faptele trebuie să reflecte credința (Iacov 2:20).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Iacov 2:20",
+            "verse": "20. Vrei, dar, să înţelegi, om nesocotit, că credinţa fără fapte este zadarnică ?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "discrepancy": "Ioan Botezătorul era Ilie, cel care a fost anunțat că va veni ? (Matei 17:10÷13, Marcu 9:11÷13, Ioan 1:19÷23)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 17:10÷13",
+        "verse": "10. Ucenicii I-au pus întrebarea următoare: „Oare de ce zic cărturarii că întâi trebuie să vină Ilie?”\n11. Drept răspuns, Isus le-a zis: „Este adevărat că trebuie să vină întâi Ilie şi să aşeze din nou toate lucrurile.\n12. Dar vă spun că Ilie a şi venit, şi ei nu l-au cunoscut, ci au făcut cu el ce au vrut. Tot aşa are să sufere şi Fiul omului din partea lor.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Marcu 9:11÷13",
+        "verse": "11. Ucenicii I-au pus următoarea întrebare: „Pentru ce zic cărturarii că trebuie să vină întâi Ilie?”\n12. El le-a răspuns: „Ilie va veni întâi; şi va aşeza din nou toate lucrurile; tot aşa după cum este scris despre Fiul omului că trebuie să pătimească mult şi să fie defăimat.\n13. Dar Eu vă spun că Ilie a şi venit, şi ei i-au făcut ce au vrut, după cum este scris despre el.”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Ioan 1:19÷23",
+        "verse": "19. Iată mărturisirea făcută de Ioan, când iudeii au trimis din Ierusalim pe nişte preoţi şi leviţi să-l întrebe: „Tu cine eşti?”\n20. El a mărturisit şi n-a tăgăduit: a mărturisit că nu este el Hristosul.\n21. Şi ei l-au întrebat: „Dar cine eşti? Eşti Ilie?” Şi el a zis: „Nu sunt!” „Eşti prorocul?” Şi el a răspuns: „Nu!”\n22. Atunci i-au zis: „Dar cine eşti? Ca să dăm un răspuns  celor ce ne-au trimis. Ce zici tu despre tine însuţi?”\n23. „Eu”, a zis el, „sunt glasul celui ce strigă în pustiu: «Neteziţi calea Domnului!», cum a zis prorocul Isaia.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În primul rând, Ilie nu a murit; el a fost luat la cer într-un vârtej de vânt, în timp ce se afla într-un car de foc (2 Regi 2:11). Profeția despre Ilie care trebuia „să vină” (Mal. 4:5÷6) ar putea fi văzută ca întoarcerea fizică a lui Ilie din cer pe pământ.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Regi 2:11",
+            "verse": "11. Pe când mergeau ei vorbind, iată că un car de foc şi nişte cai de foc i-au despărţit pe unul de altul, şi Ilie s-a înălţat la cer într-un vârtej de vânt."
+          },
+          {
+            "id": 2,
+            "stringRef": "Mal. 4:5÷6",
+            "verse": "5. Iată, vă voi trimite pe prorocul Ilie înainte de a veni ziua Domnului, ziua aceea mare şi înfricoşată.\n6. El va întoarce inima părinţilor spre copii şi inima copiilor spre părinţii lor, ca nu cumva, la venirea Mea, să lovesc ţara cu blestem!”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "În al doilea rând, Ioan Botezătorul e numit „Ilie” pentru că a venit „în duhul și puterea lui Ilie” (Luca 1:17) nu pentru că era Ilie în sens literal. Ioan Botezătorul e înainte-mergătorul Noului Testament, care indică înspre sosirea Domnului, la fel cum Ilie a îndeplinit acel rol în Vechiul Testament.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 1:17",
+            "verse": "17. Va merge înaintea lui Dumnezeu, în duhul şi puterea lui Ilie, ca să întoarcă inimile părinţilor la copii şi pe cei neascultători la umblarea în înţelepciunea celor neprihăniţi, ca să gătească Domnului un norod bine pregătit pentru El.”"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "În al treilea rând, Ilie însuși a apărut împreună cu Moise la schimbarea la față a lui Isus după moartea lui Ioan Botezătorul. Acest lucru nu s-ar fi întâmplat dacă Ilie și-ar fi schimbat identitatea în cea a lui Ioan (Matei 17:11÷12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 17:11÷12",
+            "verse": "11. Drept răspuns, Isus le-a zis: „Este adevărat că trebuie să vină întâi Ilie şi să aşeze din nou toate lucrurile.\n12. Dar vă spun că Ilie a şi venit, şi ei nu l-au cunoscut, ci au făcut cu el ce au vrut. Tot aşa are să sufere şi Fiul omului din partea lor.”"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "În al patrulea rând, oamenii, cât și Irod făceau distincție între Ioan Botezătorul și Ilie (Marcu 6:14÷16, Marcu 8:27÷28)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Marcu 6:14÷16",
+            "verse": "14. Împăratul Irod a auzit vorbindu-se despre Isus, al cărui Nume ajunsese vestit; şi a zis: „Ioan Botezătorul a înviat din morţi, şi de aceea lucrează aceste puteri prin El.”\n15. Alţii ziceau: „Este Ilie.” Iar alţii ziceau: „Este un proroc ca unul din proroci.”\n16. Dar Irod, când a auzit lucrul acesta, zicea: „Ioan acela, căruia i-am tăiat capul, a înviat din morţi.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Marcu 8:27÷28",
+            "verse": "27. Isus a plecat cu ucenicii Săi în satele Cezareii lui Filip. Pe drum le-a pus următoarea întrebare: „Cine zic oamenii că sunt Eu?”\n28. Ei I-au răspuns: „Ioan Botezătorul; alţii: Ilie; alţii: unul din proroci.”"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "În cele din urmă, Ioan Botezătorul se identifică cu mesagerul (Isaia 40:3), nu cu Ilie (Mal. 3:1). Ioan Botezătorul merge până acolo încât neagă în mod specific că este Ilie (Ioan 1:19÷23).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 40:3",
+            "verse": "3. Un glas strigă: „Pregătiţi în pustiu calea Domnului, neteziţi în locurile uscate un drum pentru Dumnezeul nostru!"
+          },
+          {
+            "id": 2,
+            "stringRef": "Mal. 3:1",
+            "verse": "1. „Iată, voi trimite pe solul Meu; el va pregăti calea înaintea Mea. Şi deodată va intra în Templul Său Domnul pe care-L căutaţi: Solul legământului pe care-L doriţi; iată că vine - zice Domnul oştirilor."
+          },
+          {
+            "id": 3,
+            "stringRef": "Ioan 1:19÷23",
+            "verse": "19. Iată mărturisirea făcută de Ioan, când iudeii au trimis din Ierusalim pe nişte preoţi şi leviţi să-l întrebe: „Tu cine eşti?”\n20. El a mărturisit şi n-a tăgăduit: a mărturisit că nu este el Hristosul.\n21. Şi ei l-au întrebat: „Dar cine eşti? Eşti Ilie?” Şi el a zis: „Nu sunt!” „Eşti prorocul?” Şi el a răspuns: „Nu!”\n22. Atunci i-au zis: „Dar cine eşti? Ca să dăm un răspuns celor ce ne-au trimis. Ce zici tu despre tine însuţi?”\n23. „Eu”, a zis el, „sunt glasul celui ce strigă în pustiu: «Neteziţi calea Domnului!», cum a zis prorocul Isaia.”"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "hint": "Există o frază-cheie în identificarea pe care o face Isus în dreptul lui Ioan Botezătorul care lămurește totul. El spune: „Și, dacă vreți să înțelegeți, el este Ilie.” (Matei 11:14). Cu alte cuvinte, identificarea lui Ioan Botezătorul ca fiind Ilie nu s-a bazat pe faptul de a fi cu adevărat Ilie, ci pe rolul pe care l-a avut.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 11:14",
+            "verse": "14. Şi, dacă vreţi să înţelegeţi, el este Ilie care trebuia să vină."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "discrepancy": "Cum a murit regele Saul ? (1 Sam. 31:4, 2 Sam. 1:9÷10)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Sam. 31:4",
+        "verse": "4. Saul a zis atunci celui ce-i ducea armele: „Scoate-ţi sabia şi străpunge-mă, ca nu cumva aceşti netăiaţi împrejur să vină să mă străpungă şi să-şi bată joc de mine.” Cel ce-i ducea armele n-a voit, căci îi era teamă. Şi Saul şi-a luat sabia şi s-a aruncat în ea."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Sam. 1:9÷10",
+        "verse": "9. Şi a zis: «Apropie-te, dar, şi omoară-mă; căci m-a apucat ameţeala, măcar că sunt încă plin de viaţă.»\n10. M-am apropiat de el şi l-am omorât, ştiind bine că n-avea să mai rămână cu viaţă în urma înfrângerii. Am luat cununa împărătească de pe capul lui şi brăţara pe care o avea la braţ şi le-am adus aici domnului meu.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Regele Saul s-a sinucis. Mesagerul amalecit a pretins că l-ar fi omorât pe regele Saul pentru a obține beneficii."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "discrepancy": "Dacă Iosif a fost vândut ismaeliţilor cum l-au vândut madianiţii ? (Gen. 37:28, Gen. 37:36)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 37:28",
+        "verse": "28. La trecerea negustorilor madianiţi, au tras şi au scos pe Iosif afară din groapă şi l-au vândut, cu douăzeci de sicli de argint, ismaeliţilor, care l-au dus în Egipt."
+      },
+      {
+        "id": 2,
+        "stringRef": "Gen. 37:36",
+        "verse": "36. Madianiţii l-au vândut în Egipt lui Potifar, un dregător al lui faraon, şi anume căpetenia străjerilor."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Numele diferite date comercianților arată că aceste triburi erau adesea confundate, din cauza faptului că semănau atât de mult unul cu altul, nu numai în descendența lor comună din Avraam (Gen. 16:15, Gen. 25:1÷2), dar și prin asemănarea modului lor de viață și schimbarea constantă a locuinței, că străinii îi puteau distinge cu greu, mai ales când apăreau nu ca triburi, ci ca negustori arabi, așa cum sunt ei aici.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 16:15",
+            "verse": "15. Agar a născut lui Avram un fiu; şi Avram a pus fiului, pe care i l-a născut Agar, numele Ismael."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gen. 25:1÷2",
+            "verse": "1. Avraam a mai luat o nevastă, numită Chetura.\n2. Ea i-a născut pe Zimran, pe Iocşan, pe Medan, pe Madian, pe Işbac şi Şuah."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "discrepancy": "Cu câți ani de foamete l-a amenințat Dumnezeu pentru pe David prin profetul Său Gad ? (2 Sam. 24:13, 1 Cron. 21:11÷12)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Sam. 24:13",
+        "verse": "13. Gad s-a dus la David şi i-a făcut cunoscut lucrul acesta, zicând: „Vrei şapte ani de foamete în ţara ta sau să fugi trei luni dinaintea vrăjmaşilor tăi, care te vor urmări, sau să bântuie ciuma trei zile în ţară? Acum alege şi vezi ce trebuie să răspund Celui ce mă trimite.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Cron. 21:11÷12",
+        "verse": "11. Gad s-a dus la David şi i-a zis: „Aşa vorbeşte Domnul: «Primeşte:\n12. sau trei ani de foamete, sau trei luni în timpul cărora să fii nimicit de potrivnicii tăi şi atins de sabia vrăjmaşilor tăi, sau trei zile în timpul cărora sabia Domnului şi ciuma să fie în ţară, şi îngerul Domnului să ducă nimicirea în tot ţinutul lui Israel. Vezi acum ce trebuie să răspund Celui ce mă trimite.»"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Este posibil să existe diferențe de traducere sau copiere în manuscrise vechi. Totuși, în ambele cazuri, durata foametei este, cel mai frecvent, indicată ca fiind de trei ani."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "discrepancy": "Ce vârstă avea Ahazia când s-a urcat pe tronul Israelului ? (2 Regi 8:26, 2 Cron. 22:2)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Regi 8:26",
+        "verse": "26. Ahazia avea douăzeci şi doi de ani când a ajuns împărat şi a domnit un an la Ierusalim. Mama sa se chema Atalia, fata lui Omri, împăratul lui Israel."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 22:2",
+        "verse": "2. Ahazia avea patruzeci şi doi de ani, când a ajuns împărat, şi a domnit un an la Ierusalim. Mama sa se chema Atalia, fata lui Omri."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Ioram, tatăl lui Ahazia avea 32 de ani când a devenit rege și a murit opt ani mai târziu la vârsta de 40 de ani (2 Cron. 21:20). Ahazia nu ar fi putut avea 42 de ani la momentul morții tatălui său la 40 de ani. Astfel, citirea corectă a vârstei lui Ahazia este „douăzeci și doi”, nu „patruzeci și doi” (2 Regi 8:26). Un copist a scris pur și simplu douăzeci în loc de patruzeci.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Cron. 21:20",
+            "verse": "20. Avea treizeci şi doi de ani când a ajuns împărat şi a domnit opt ani la Ierusalim. A murit fără să lase părere de rău în urmă, şi l-au îngropat în cetatea lui David, dar nu în mormintele împăraţilor."
+          },
+          {
+            "id": 2,
+            "stringRef": "2 Regi 8:26",
+            "verse": "26. Ahazia avea douăzeci şi doi de ani când a ajuns împărat şi a domnit un an la Ierusalim. Mama sa se chema Atalia, fata lui Omri, împăratul lui Israel."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "discrepancy": "Ce vârstă avea Ioiachin când a devenit regele Israelului și cât a domnit ? (2 Regi 24:8, 2 Cron. 36:9)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Regi 24:8",
+        "verse": "8. Ioiachin avea optsprezece ani când a ajuns împărat şi a domnit trei luni la Ierusalim. Mama sa se chema Nehuşta, fata lui Elnatan, din Ierusalim."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 36:9",
+        "verse": "9. Ioiachin avea opt ani când a ajuns împărat şi a domnit trei luni şi zece zile la Ierusalim. El a făcut ce este rău înaintea Domnului."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Textul Masoretic (cuvântul ebraic pentru „tradiţie“ este masoráh sau masóreth.) din 2 Cronici 36:9 tradus exact este: „Vechime de opt ani va domni în suveranul lui și trei luni și zece zile va domni la Ierusalim și va face rău înaintea Domnului”. Mulți au tradus VECHIME ca vârstă. Ori nu se acordă gramatical suveranul, ori înseamnă suveranitate, ori înseamnă împărăție. Putem înțelege că Ioiachin (sau Iehonia) a avut o domnie de opt ani, dar la Ierusalim a domnit doar trei luni și zece zile. Nu știm în care localitate a domnit înaintea de a fi la Ierusalim. Nu știm care era reședința lui Ioiachin înainte de mutarea la Ierusalim."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "discrepancy": "Câți oameni a omorât dintr-o singură lovitură de suliță căpitanul soldaților lui David ? (2 Sam. 23:8, 1 Cron. 11:11)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Sam. 23:8",
+        "verse": "8. Iată numele vitejilor care erau în slujba lui David: Ioşeb-Basşebet, tahchemonitul, unul din fruntaşii căpeteniilor. El şi-a învârtit suliţa peste opt sute de oameni, pe care i-a omorât dintr-odată."
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Cron. 11:11",
+        "verse": "11. Iată, după numărul lor, vitejii care erau în slujba lui David: Iaşobeam, fiul lui Hacmoni, unul din căpitanii de seamă. El şi-a învârtit suliţa peste trei sute de oameni, pe care i-a omorât dintr-o singură dată."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Divergențe textuale: este posibil ca diferența să fie cauzată de erori de copiere sau diferențe între manuscrisele sursă."
+      },
+      {
+        "id": 2,
+        "hint": "Diferențe de evenimente: unele interpretări sugerează că cele două pasaje pot descrie evenimente separate, deși menționează același erou."
+      },
+      {
+        "id": 3,
+        "hint": "Versiuni ale numelui: numele personajului și faptele menționate diferă ușor în cele două pasaje, ceea ce poate indica variații de tradiție orală sau textuală."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "discrepancy": "Câte grajduri avea Solomon ? (1 Regi 4:26, 2 Cron. 9:25)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Regi 4:26",
+        "verse": "26. Solomon avea patruzeci de mii de iesle pentru caii de la carele lui, şi douăsprezece mii de călăreţi."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 9:25",
+        "verse": "25. Solomon avea patru mii de iesle pentru caii de la carele lui şi douăsprezece mii de călăreţi, pe care i-a aşezat în cetăţile unde îşi ţinea carele şi la Ierusalim lângă împărat."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Divergență textuală: se crede că diferența (40.000 vs. 4.000) poate fi rezultatul unei erori de copiere în unele manuscrise."
+      },
+      {
+        "id": 2,
+        "hint": "Interpretări: unii comentatori sugerează că 1 Regi 4:26 ar putea face referire la numărul total de cai (40.000), iar 2 Cronici 9:25 la numărul de grajduri (4.000)."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "discrepancy": "Câți supraveghetori a folosit Solomon la construcția templului ? (1 Regi 5:15÷16, 2 Cron. 2:2)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Regi 5:15÷16",
+        "verse": "15. Solomon mai avea şaptezeci de mii de oameni care purtau poverile şi optzeci de mii care tăiau pietrele în munţi,\n16. afară de căpeteniile, în număr de trei mii trei sute, puse de Solomon peste lucrări şi însărcinate cu privegherea lucrătorilor."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 2:2",
+        "verse": "2. Solomon a numărat şaptezeci de mii de oameni, ca să ducă sarcinile, optzeci de mii, ca să taie pietre pe munte, şi trei mii şase sute, ca să-i privegheze."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Divergență textuală: diferența dintre 3.300 și 3.600 poate fi rezultatul unei variații între sursele manuscriselor."
+      },
+      {
+        "id": 2,
+        "hint": "Posibilă împărțire a supraveghetorilor: unii comentatori sugerează că 1 Regi ar putea număra doar o parte dintre supraveghetori (cei mai apropiați), iar 2 Cronici include toți supraveghetorii implicați."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "discrepancy": "Câte băi avea palatul lui Solomon ? (1 Regi 7:26, 2 Cron. 4:5)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Regi 7:26",
+        "verse": "26. Grosimea ei era de un lat de mână; şi marginea ei era ca marginea unui potir, făcută ca floarea crinului. Avea o încăpere de două mii de vedre."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 4:5",
+        "verse": "5. Grosimea ei era de un lat de mână, şi marginea, ca marginea unui pahar, era făcută în felul unei flori de crin. Puteau să încapă în ea trei mii de baţi."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Divergență textuală: diferența dintre 2.000 de bați și 3.000 de bați poate fi rezultatul unei erori de copiere în manuscrisele vechi."
+      },
+      {
+        "id": 2,
+        "hint": "Interpretare: o posibilă explicație este că „marea de aramă” putea cuprinde 3.000 de bați la capacitate maximă, dar în mod obișnuit era umplută cu 2.000 de bați pentru uz curent."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau fiii lui Pahat-Moab ? (Ezra 2:6, Neem. 7:11)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:6",
+        "verse": "6. fiii lui Pahat-Moab, din fiii lui Iosua şi lui Ioab, două mii opt sute doisprezece;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:11",
+        "verse": "11. fiii lui Pahat-Moab, din fiii lui Iosua şi ai lui Ioab, două mii opt sute optsprezece;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Diferență textuală: diferența dintre 2.812 și 2.818 poate fi cauzată de variații în manuscrisele sursă sau erori de copiere.\n - Ezra a început să activeze în jurul anului 458 î.Hr., iar Neemia în jurul anului 445 î.Hr."
+      },
+      {
+        "id": 2,
+        "hint": "Posibilă actualizare: este posibil ca Neemia să fi folosit o listă mai actualizată, care să includă șase persoane suplimentare."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau fiii lui Zatu ? (Ezra 2:8, Neem. 7:13)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:8",
+        "verse": "8. fiii lui Zatu, nouă sute patruzeci şi cinci;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:13",
+        "verse": "13. fiii lui Zatu, opt sute patruzeci şi cinci;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Diferență textuală: diferența de 100 de persoane (945 vs. 845) poate fi cauzată de variații de copiere sau erori din manuscrisele vechi."
+      },
+      {
+        "id": 2,
+        "hint": "Actualizare a listelor: este posibil ca numărul din Neemia să reflecte o listă actualizată sau o situație diferită în ceea ce privește cei întorși."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau fiii lui Azgad ? (Ezra 2:12, Neem. 7:17)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:12",
+        "verse": "12. fiii lui Azgad, o mie două sute douăzeci şi doi;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:17",
+        "verse": "17. fiii lui Azgad, două mii trei sute douăzeci şi doi;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Diferența dintre 2.222 și 2.322 poate indica o actualizare a listei de către Neemia, reflectând mai mulți oameni sosiți ulterior sau variații în manuscrise."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau fiii lui Adin ? (Ezra 2:15, Neem. 7:20)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:15",
+        "verse": "15. fiii lui Adin, patru sute cincizeci şi patru;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:20",
+        "verse": "20. fiii lui Adin, şase sute cincizeci şi cinci;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Diferența dintre 454 și 655 poate indica fie o actualizare a listei de către Neemia (reflectând o creștere a numărului de persoane întoarse), fie o posibilă eroare de copiere în manuscrisele vechi."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau fiii lui Haşum ? (Ezra 2:19, Neem. 7:22)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:19",
+        "verse": "19. fiii lui Haşum, două sute douăzeci şi trei;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:22",
+        "verse": "22. fiii lui Haşum, trei sute douăzeci şi opt;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Diferența dintre 223 și 328 poate fi atribuită unei actualizări a listei în Neemia, reflectând mai multe persoane întoarse ulterior sau posibile variații în transmiterea manuscriselor."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau din Betel şi din Ai ? (Ezra 2:28, Neem. 7:32)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:28",
+        "verse": "28. oamenii din Betel şi Ai, două sute douăzeci şi trei;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:32",
+        "verse": "32. oamenii din Betel şi din Ai, o sută douăzeci şi trei;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Diferența dintre 223 și 123 poate indica fie o scădere a populației la momentul când Neemia a consemnat lista, fie o posibilă eroare de copiere a manuscriselor."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "discrepancy": "Dintre israeliții eliberați din Babilon, câți erau cântăreţi şi cântăreţe ? (Ezra 2:65, Neem. 7:67)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezra 2:65",
+        "verse": "65. afară de robii şi roabele lor, în număr de şapte mii trei sute treizeci şi şapte. Între ei se aflau două sute de cântăreţi şi cântăreţe."
+      },
+      {
+        "id": 2,
+        "stringRef": "Neem. 7:67",
+        "verse": "67. afară de robii şi roabele lor, în număr de şapte mii trei sute treizeci şi şapte. Printre ei se aflau două sute patruzeci şi cinci de cântăreţi şi cântăreţe."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Această diferență poate fi rezultatul unei actualizări a listei în timpul lui Neemia sau a unei erori de copiere a manuscriselor."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "discrepancy": "Când Isus s-a întâlnit cu Iair, fruntașul sinagogii, fata acestuia era moartă, sau trăgea să moară ? (Matei 9:18, Marcu 5:22÷23, Luca 8:41÷42)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 9:18",
+        "verse": "18. Pe când le spunea Isus aceste vorbe, iată că a venit unul din fruntaşii sinagogii, I s-a închinat şi I-a zis: „Fiica mea adineaori a murit; dar vino de pune-Ţi mâinile peste ea, şi va învia.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Marcu 5:22÷23",
+        "verse": "22. Atunci a venit unul din fruntaşii sinagogii, numit Iair. Cum L-a văzut, fruntaşul s-a aruncat la picioarele Lui\n23. şi I-a făcut următoarea rugăminte stăruitoare: „Fetiţa mea trage să moară; rogu-Te, vino de-Ţi pune mâinile peste ea, ca să se facă sănătoasă şi să trăiască.”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Luca 8:41÷42",
+        "verse": "41. Şi iată că a venit un om, numit Iair, care era fruntaş al sinagogii. El s-a aruncat la picioarele lui Isus şi L-a rugat să vină până la el acasă;\n42. pentru că avea o singură copilă, de vreo doisprezece ani, care trăgea să moară. Pe drum, Isus era îmbulzit de noroade."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Probabil că Iair, sub presiunea emoției, a rostit ambele afirmații: Marcu și Luca menționează boala ei gravă, în timp ce Matei vorbește despre moartea ei. Ca în atâtea alte locuri, fiecare scriitor a raportat doar o parte din ceea ce s-a întâmplat și a fost spus."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "discrepancy": "În al câtelea an al domniei lui Asa a murit Baeşa, regele Israelului ? (1 Regi 16:8, 2 Cron. 16:1)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Regi 16:8",
+        "verse": "8. În al douăzeci şi şaselea an al lui Asa, împăratul lui Iuda, a început să domnească Ela, fiul lui Baeşa. El a domnit peste Israel la Tirţa. A domnit doi ani."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 16:1",
+        "verse": "1. În al treizeci şi şaselea an al domniei lui Asa, Baeşa, împăratul lui Israel, s-a suit împotriva lui Iuda; şi a întărit Rama, ca să nu lase pe ai lui Asa, împăratul lui Iuda, să iasă şi să intre."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Pentru a înțelege această diferență, trebuie luat în considerare că 2 Cronici 16:1 ar putea folosi o referință diferită pentru numărarea anilor, posibil referindu-se la anii de la scindarea regatului lui Israel (nu la domnia propriu-zisă a lui Asa)."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "discrepancy": "Care era numele mamei regelui Abia ? (2 Cron. 11:20, 2 Cron. 13:1÷2)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "2 Cron. 11:20",
+        "verse": "20. După ea, a luat pe Maaca, fata lui Absalom. Ea i-a născut pe Abia, pe Atai, pe Ziza şi pe Şelomit."
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Cron. 13:1÷2",
+        "verse": "1. În al optsprezecelea an al domniei lui Ieroboam, peste Iuda a început să domnească Abia.\n2. El a domnit trei ani la Ierusalim. Mama sa se numea Micaia, fata lui Uriel din Ghibeea. Între Abia şi Ieroboam a fost război."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Maaca și Micaia sunt, probabil, aceeași persoană. Numele ar putea fi o variantă sau o formă alternativă.\nUriel din Ghibea ar putea fi ginerele lui Absalom, ceea ce înseamnă că Maaca (Micaia) era, de fapt, nepoata lui Absalom, dar purta titlul de „fiică” în sens de descendentă.\nstfel, numele mamei regelui Abia era Maaca (Micaia), fiica lui Uriel din Ghibea și descendentă a lui Absalom."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "discrepancy": "Au distrus evreii complet pe cananiți ? (Iosua 10:40, Iosua 15:63)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Iosua 10:40",
+        "verse": "40. Iosua a bătut astfel toată ţara, muntele, partea de miazăzi, câmpia şi costişele, şi a bătut pe toţi împăraţii; n-a lăsat să scape nimeni şi a nimicit cu desăvârşire tot ce avea suflare, cum poruncise Domnul Dumnezeul lui Israel."
+      },
+      {
+        "id": 2,
+        "stringRef": "Iosua 15:63",
+        "verse": "63. Fiii lui Iuda n-au putut izgoni pe iebusiţii care locuiau la Ierusalim; şi iebusiţii au locuit cu fiii lui Iuda la Ierusalim până în ziua de azi."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Iosua a cucerit mare parte din Canaan, dar distrugerea canaaniților nu a fost totală. Mulți dintre ei au continuat să trăiască în diferite zone și au coexistat cu israeliții, influențându-i în mod negativ prin practicile lor idolatre (Judc. 1:27÷36, Judc. 3:1÷5).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Judc. 1:27÷36",
+            "verse": "27. Manase n-a izgonit nici el pe locuitorii din Bet-Şean şi din satele dimprejurul lui, din Taanac şi satele lui, din Dor şi satele dimprejurul lui, din Iibleam şi satele dimprejurul lui, din Meghido şi satele dimprejurul lui; aşa încât canaaniţii au izbutit să rămână în ţara aceasta.\n28. Când Israel a fost destul de tare, a supus pe canaaniţi la un bir, dar nu i-a izgonit.\n29. Efraim n-a izgonit pe canaaniţii care locuiau la Ghezer, şi canaaniţii au locuit în mijlocul lui Efraim la Ghezer.\n30. Zabulon n-a izgonit nici el pe locuitorii din Chitron, nici pe locuitorii din Nahalol; şi canaaniţii au locuit în mijlocul lui Zabulon, dar au fost supuşi la un bir.\n31. Nici Aşer n-a izgonit pe locuitorii din Aco, nici pe locuitorii din Sidon, nici pe cei din Ahlab, din Aczib, din Helba, din Afic şi din Rehob;\n32. şi aşeriţii au locuit în mijlocul canaaniţilor, locuitorii ţării, căci nu i-au izgonit.\n33. Neftali n-a izgonit pe locuitorii din Bet-Şemeş, nici pe locuitorii din Bet-Anat şi a locuit în mijlocul canaaniţilor, locuitorii ţării; dar locuitorii din Bet-Şemeş şi din Bet-Anat au fost supuşi la un bir.\n34. Amoriţii au dat înapoi pe munte pe fiii lui Dan şi nu i-au lăsat să se coboare în câmpie.\n35. Amoriţii au izbutit să rămână la Har-Heres, la Aialon şi la Şaalbim; dar mâna casei lui Iosif a apăsat asupra lor şi au fost supuşi la un bir.\n36. Ţinutul amoriţilor se întindea de la suişul Acrabim, de la Sela şi în sus."
+          },
+          {
+            "id": 2,
+            "stringRef": "Judc. 3:1÷5",
+            "verse": "1. Iată neamurile pe care le-a lăsat Domnul ca să încerce pe Israel prin ele, pe toţi cei ce nu cunoscuseră toate războaiele Canaanului.\n2. El voia numai ca vârstele de oameni ale copiilor lui Israel să cunoască şi să înveţe războiul, şi anume cei ce nu-l cunoscuseră mai înainte.\n3. Neamurile acestea erau cei cinci domnitori ai filistenilor, toţi canaaniţii, sidoniţii şi heviţii care locuiau pe muntele Liban, de la muntele Baal-Hermon până la intrarea Hamatului.\n4. Neamurile acestea au slujit ca să pună pe Israel la încercare, pentru ca Domnul să vadă dacă vor asculta de poruncile pe care le dăduse părinţilor lor prin Moise.\n5. Şi copiii lui Israel au locuit în mijlocul canaaniţilor, hetiţilor, amoriţilor, fereziţilor, heviţilor şi iebusiţilor;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "discrepancy": "Cine era tatăl lui Iosif, bărbatul Mariei ? (Matei 1:16, Luca 3:23)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 1:16",
+        "verse": "16. Iacov a născut pe Iosif, bărbatul Mariei, din care S-a născut Isus, care Se cheamă Hristos."
+      },
+      {
+        "id": 2,
+        "stringRef": "Luca 3:23",
+        "verse": "23. Isus avea aproape treizeci de ani când a început să înveţe pe norod; şi era, cum se credea, fiul lui Iosif, fiul lui Eli,"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Genealogii diferite:\n - Matei oferă genealogia lui Iosif pe linie paternă (biologică), de la regele David prin Solomon.\n - Luca oferă, probabil, genealogia Mariei (dar prin Iosif, ca reprezentant legal al familiei), mergând înapoi prin Natan, alt fiu al lui David."
+      },
+      {
+        "id": 2,
+        "hint": "Leviratul (un frate ar fi luat soția fratelui decedat și copilul ar fi fost considerat urmașul fratelui decedat):\n - o posibilitate este că Iosif era fiul biologic al lui Iacov, dar fiul legal al lui Eli, printr-o căsătorie leviratică. Iosif este fiul biologic al lui Iacov (Matei 1:16), dar înregistrat legal ca fiul lui Eli (Luca 3:23), posibil printr-o adopție sau printr-o căsătorie leviratică.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 1:16",
+            "verse": "16. Iacov a născut pe Iosif, bărbatul Mariei, din care S-a născut Isus, care Se cheamă Hristos."
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 3:23",
+            "verse": "23. Isus avea aproape treizeci de ani când a început să înveţe pe norod; şi era, cum se credea, fiul lui Iosif, fiul lui Eli,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "discrepancy": "Argintul este folosit pentru răscumpărarea sufletelor în timpul recensământului. (Exod 30:12÷16, 1 Pet. 1:18÷19)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 30:12÷16",
+        "verse": "12. „Când vei socoti pe copiii lui Israel şi le vei face numărătoarea, fiecare din ei să dea Domnului un dar în bani, pentru răscumpărarea sufletului lui, ca să nu fie loviţi de nicio urgie, cu prilejul acestei numărători.\n13. Iată ce vor da toţi cei ce vor fi cuprinşi în numărătoarea aceasta: o jumătate de siclu, după siclul Sfântului Locaş, care este de douăzeci de ghere; o jumătate de siclu va fi darul ridicat pentru Domnul.\n14. Orice om cuprins în numărătoare, de la vârsta de douăzeci de ani în sus, va plăti darul ridicat pentru Domnul.\n15. Bogatul să nu plătească mai mult, şi săracul să nu plătească mai puţin de o jumătate de siclu, ca dar ridicat pentru Domnul, pentru răscumpărarea sufletelor.\n16. Să ridici de la copiii lui Israel argintul pentru răscumpărare şi să-l întrebuinţezi pentru slujba Cortului întâlnirii; aceasta va fi pentru copiii lui Israel o aducere aminte înaintea Domnului pentru răscumpărarea sufletelor lor.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Pet. 1:18÷19",
+        "verse": "18. căci ştiţi că nu cu lucruri pieritoare, cu argint sau cu aur, aţi fost răscumpăraţi din felul deşert de vieţuire pe care-l moşteniserăţi de la părinţii voştri,\n19. ci cu sângele scump al lui Hristos, Mielul fără cusur şi fără prihană."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În Vechiul Testament, argintul simboliza răscumpărarea temporară și materială.\nÎn Noul Testament, Hristos aduce răscumpărarea veșnică prin sângele Său, care nu poate fi înlocuit cu metale prețioase."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "ord": 1,
+    "discrepancy": "Isus spune că e una cu Tatăl (Ioan 10:30). Atunci nu cunoaște viitorul ? (Marcu 13:32)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ioan 10:30",
+        "verse": "30. Eu şi Tatăl una suntem.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Marcu 13:32",
+        "verse": "32. Cât despre ziua aceea sau ceasul acela, nu ştie nimeni, nici îngerii din ceruri, nici Fiul, ci numai Tatăl."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Isus Hristos este o singură Persoană (Fiul lui Dumnezeu), cu două naturi: divină (Dumnezeu adevărat) și umană (om adevărat). Această unire este numită uniunea ipostatică („ipostas” = persoană)."
+      },
+      {
+        "id": 2,
+        "hint": "Ce înseamnă „Eu și Tatăl una suntem”:\nAceasta se referă la unitatea de voință, natură și lucrare, nu la identitatea de rol.\nTatăl, Fiul și Duhul sunt egali în esență, dar diferă în funcție:\n- Tatăl planifică,\n- Fiul împlinește,\n- Duhul aplică.\nDeci Isus nu este „mai puțin Dumnezeu”, dar a ales să trăiască în limitele condiției umane (Filip. 2:6÷8):\nAsta se numește kenoză (auto-golire): renunțarea voluntară la exercitarea prerogativelor divine, pentru a trăi ca om autentic.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Filip. 2:6÷8",
+            "verse": "6. El, măcar că avea chipul lui Dumnezeu, totuşi n-a crezut ca un lucru de apucat să fie deopotrivă cu Dumnezeu,\n7. ci S-a dezbrăcat pe Sine însuşi şi a luat un chip de rob, făcându-Se asemenea oamenilor.\n8. La înfăţişare a fost găsit ca un om, S-a smerit şi S-a făcut ascultător până la moarte, şi încă moarte de cruce."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "În consecință în Hristos există două moduri de cunoaștere:\n- Cunoașterea divină - atotștiință: El, ca Dumnezeu, știe totul.\n- Cunoașterea umană - limitată: El, ca om, a trebuit să învețe, să crească, să afle lucruri progresiv; (Luca 2:52).\nCând Isus spune că „Fiul nu știe ziua și ceasul”, El vorbește din perspectiva naturii Sale umane, care este asumată deplin — cu toate limitele ei (fără păcat, dar cu limitările cunoașterii umane).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 2:52",
+            "verse": "52. Şi Isus creştea în înţelepciune, în statură, şi era tot mai plăcut înaintea lui Dumnezeu şi înaintea oamenilor."
+          }
+        ]
+      }
+    ]
+  }
+]

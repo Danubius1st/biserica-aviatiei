@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "tip": "Ce înseamnă să întorci obrazul ? (Matei 5:39)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 5:39",
+        "verse": "39. Dar Eu vă spun: să nu vă împotriviţi celui ce vă face rău. Ci, oricui te loveşte peste obrazul drept, întoarce-i şi pe celălalt."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În cultura evreiască a secolului I, a lovi pe cineva peste obrazul drept cu dosul palmei era un gest de insultă, nu neapărat o agresiune fizică gravă.\nIsus folosește imaginea aceasta ca simbol pentru a răspunde la insulte, umiliri sau provocări fără a răspunde cu aceeași monedă.",
+        "refs": []
+      },
+      {
+        "id": 2,
+        "hint": "Aplicarea practică:\n- La nivel personal: când cineva ne insultă, ne provoacă sau ne tratează nedrept, răspunsul creștin nu trebuie să fie răzbunarea, ci blândețea.\n- În relații interumane: se rupe ciclul urii și al escaladării conflictului.\n- În mărturia de credință, pentru a arăta caracterul lui Hristos, care a răspuns la nedreptate cu dragoste.",
+        "refs": []
+      },
+      {
+        "id": 3,
+        "hint": "Când NU înseamnă supunere totală:\n- Nu se aplică pentru a justifica tolerarea abuzului continuu (fizic sau psihic). Biblia nu cere să rămânem victime în mod pasiv.\n- Nu interzice folosirea justiției sau a mijloacelor legale pentru a opri răul. Apostolul Pavel, de exemplu, și-a apărat drepturile de cetățean roman (Fapte 22:25).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Fapte 22:25",
+            "verse": "25. Dar, pe când îl întindeau cu curelele, Pavel a zis sutașului care era de faţă: „Vă este îngăduit să bateţi pe un roman care nu este osândit?”"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Scopul spiritual:\n- A arăta că puterea lui Dumnezeu în noi este mai mare decât instinctul nostru de a răspunde răului cu rău (Rom. 12:17÷21).\n- A oferi o „contra-mărturie” față de logica lumii, în care demnitatea și caracterul se păstrează chiar și când suntem provocați.",
+        "refs": []
+      },
+      {
+        "id": 5,
+        "hint": "Principiul biblic:\n- Răzbunarea aparține lui Dumnezeu (Rom. 12:19).\n- Protecția celor vulnerabili este responsabilitatea ta (Prov. 24:11).\n- A te apăra sau a-ți apăra familia nu contrazice cuvintele lui Isus, atâta timp cât o faci fără ură și cu intenția de a opri răul, nu de a te răzbuna.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 12:19",
+            "verse": "19. Preaiubiţilor, nu vă răzbunaţi singuri; ci lăsaţi să se răzbune mânia lui Dumnezeu; căci este scris: „Răzbunarea este a Mea; Eu voi răsplăti”, zice Domnul."
+          },
+          {
+            "id": 2,
+            "stringRef": "Prov. 24:11",
+            "verse": "11. Izbăveşte pe cei târâţi la moarte şi scapă pe cei ce sunt aproape să fie înjunghiaţi."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "hint": "Apărarea legitimă în Biblie este arătată atât în VT (Exod 22:2÷3, Neem. 4:17÷18, Prov. 24:11, Ezec. 33:6), cât și în NT (Luca 22:36, Fapte 22:25, Rom. 13:4).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 22:2÷3",
+            "verse": "2. Dacă hoţul este prins spărgând şi e lovit, şi moare, cel ce l-a lovit nu va fi vinovat de omor faţă de el;\n3. dar dacă a răsărit soarele, va fi vinovat de omor faţă de el. Hoţul trebuie să dea înapoi ce este dator să dea; dacă n-are nimic, să fie vândut rob, ca despăgubire pentru furtul lui;"
+          },
+          {
+            "id": 2,
+            "stringRef": "Neem. 4:17÷18",
+            "verse": "17. Cei ce zideau zidul şi cei ce duceau sau încărcau poverile, cu o mână lucrau, iar cu alta ţineau arma.\n18. Fiecare din ei, când lucra, îşi avea sabia încinsă la mijloc. Cel ce suna din trâmbiţă stătea lângă mine."
+          },
+          {
+            "id": 3,
+            "stringRef": "Prov. 24:11",
+            "verse": "11. Izbăveşte pe cei târâţi la moarte şi scapă pe cei ce sunt aproape să fie înjunghiaţi."
+          },
+          {
+            "id": 4,
+            "stringRef": "Ezec. 33:6",
+            "verse": "6. Dacă însă străjerul va vedea venind sabia, şi nu va suna din trâmbiţă, şi dacă poporul nu va fi înştiinţat, şi va veni sabia şi va răpi viaţa vreunui om, omul acela va pieri din pricina nelegiuirii lui, dar voi cere sângele lui din mâna străjerului.”"
+          },
+          {
+            "id": 5,
+            "stringRef": "Luca 22:36",
+            "verse": "36. Şi El le-a zis: „Acum, dimpotrivă, cine are o pungă s-o ia; cine are o traistă, de asemenea, s-o ia; şi cine n-are sabie să-şi vândă haina şi să-şi cumpere o sabie."
+          },
+          {
+            "id": 6,
+            "stringRef": "Fapte 22:25",
+            "verse": "25. Dar, pe când îl întindeau cu curelele, Pavel a zis sutașului care era de faţă: „Vă este îngăduit să bateţi pe un roman care nu este osândit?”"
+          },
+          {
+            "id": 7,
+            "stringRef": "Rom. 13:4",
+            "verse": "4. El este slujitorul lui Dumnezeu pentru binele tău. Dar, dacă faci răul, teme-te, căci nu degeaba poartă sabia. El este în slujba lui Dumnezeu, ca să-L răzbune şi să pedepsească pe cel ce face rău."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tip": "Ce înseamnă să iubești pe vrăjmașii tăi ? (Matei 5:44, Luca 6:27)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 5:44",
+        "verse": "44. Dar Eu vă spun: iubiţi pe vrăjmaşii voştri, binecuvântaţi pe cei ce vă blestemă, faceţi bine celor ce vă urăsc şi rugaţi-vă pentru cei ce vă asupresc şi vă prigonesc,"
+      },
+      {
+        "id": 2,
+        "stringRef": "Luca 6:27",
+        "verse": "27. Dar Eu vă spun vouă care Mă ascultaţi: Iubiţi pe vrăjmaşii voştri, faceţi bine celor ce vă urăsc,"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Nu răspunzi cu rău la rău:\n- A iubi pe vrăjmașul tău înseamnă să refuzi să te răzbuni, chiar dacă ai ocazia. (Rom. 12:17÷21)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 12:17÷21",
+            "verse": "17.  Nu întoarceţi nimănui rău pentru rău. Urmăriţi ce este bine, înaintea tuturor oamenilor.\n18. Dacă este cu putinţă, întrucât atârnă de voi, trăiţi în pace cu toţi oamenii.\n19. Preaiubiţilor, nu vă răzbunaţi singuri; ci lăsaţi să se răzbune mânia lui Dumnezeu; căci este scris: „Răzbunarea este a Mea; Eu voi răsplăti”, zice Domnul.\n20. Dimpotrivă: dacă îi este foame vrăjmaşului tău, dă-i să mănânce; dacă-i este sete, dă-i să bea; căci dacă vei face astfel, vei îngrămădi cărbuni aprinşi pe capul lui”.\n21. Nu te lăsa biruit de rău, ci biruie răul prin bine."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Dorința de bine, nu de rău:\n- În loc să dorești pedeapsa sau distrugerea dușmanului, să cauți ca el să ajungă la pocăință și la binecuvântarea lui Dumnezeu."
+      },
+      {
+        "id": 3,
+        "hint": "Rugăciune pentru cei ce te prigonesc:\n- Isus spune direct: „rugați-vă pentru cei ce vă asupresc” (Matei 5:44). Rugăciunea nu înseamnă aprobarea răului, ci încredințarea persoanei în mâna lui Dumnezeu.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:44",
+            "verse": "44. Dar Eu vă spun: iubiţi pe vrăjmaşii voştri, binecuvântaţi pe cei ce vă blestemă, faceţi bine celor ce vă urăsc şi rugaţi-vă pentru cei ce vă asupresc şi vă prigonesc,"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Ajutor practic, dacă e nevoie:\n- Iubirea dușmanului se exprimă prin gesturi concrete de bunătate (Rom. 12:20).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 12:20",
+            "verse": "20. Dimpotrivă: dacă îi este foame vrăjmaşului tău, dă-i să mănânce; dacă-i este sete, dă-i să bea; căci dacă vei face astfel, vei îngrămădi cărbuni aprinşi pe capul lui”."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Separarea persoanei de faptele ei:\n- Urăști răul, dar nu disprețuiești persoana. Ți-ai dori ca ea să fie eliberată din robia păcatului."
+      },
+      {
+        "id": 6,
+        "hint": "De ce cere Isus asta?\n- Asemănarea cu Tatăl (Matei 5:45)\n- Puterea mărturiei: iubirea față de vrăjmași e dovada cea mai vizibilă a Evangheliei, care depășește firea omenească.\n- Biruința asupra răului: răul nu este biruit prin răzbunare, ci prin bine (Rom. 12:21).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 5:45",
+            "verse": "45. ca să fiţi fii ai Tatălui vostru care este în ceruri; căci El face să răsară soarele Său peste cei răi şi peste cei buni şi face să plouă peste cei drepţi şi peste cei nedrepţi."
+          },
+          {
+            "id": 2,
+            "stringRef": "Rom. 12:21",
+            "verse": "21. Nu te lăsa biruit de rău, ci biruie răul prin bine."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tip": "Ce este păcatul fără voie ?",
+    "refs": [],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Păcatul fără voie este o acțiune greșită comisă din neștiință, slăbiciune, neatenție sau ignoranță, fără intenția de a face rău (Ps. 19:12).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 19:12",
+            "verse": "12. Cine îşi cunoaşte greşelile făcute din neştiinţă? Iartă-mi greşelile pe care nu le cunosc!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Legea lui Moise face diferența între păcatele „din neștiință” și păcatele „cu mâna ridicată” (adică făcute cu intenție și răzvrătire).\nÎn VT (Lev. 4, Num. 15:22÷31) păcatele din neștiință aveau jertfe de ispășire prevăzute, dar pentru cele săvârșite cu voia nu exista o jertfă prescrisă, fiind considerate o sfidare directă a lui Dumnezeu.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Num. 15:22÷31",
+            "verse": "22. Dacă păcătuiţi fără voie şi nu păziţi toate poruncile pe care le-a făcut cunoscut lui Moise, Domnul,\n23. tot ce v-a poruncit Domnul prin Moise, din ziua când a dat Domnul porunci şi mai târziu din neam în neam;\n24. dacă păcatul a fost făcut fără voie şi fără să ştie adunarea, toată adunarea să aducă un viţel ca ardere de tot de un miros plăcut Domnului, împreună cu darul său de mâncare şi cu jertfa sa de băutură, după rânduielile aşezate; să mai aducă şi un ţap ca jertfă de ispăşire.\n25. Preotul să facă ispăşire pentru toată adunarea copiilor lui Israel şi li se va ierta; căci au păcătuit fără voie şi şi-au adus darul lor, o jertfă mistuită de foc în cinstea Domnului şi o jertfă de ispăşire înaintea Domnului, pentru păcatul pe care l-au săvârşit fără voie.\n26. Se va ierta întregii adunări a copiilor lui Israel şi străinului care locuieşte în mijlocul lor, căci tot poporul a păcătuit fără voie.\n27. Dacă unul singur a păcătuit fără voie, să aducă o capră de un an ca jertfă pentru păcat.\n28. Preotul să facă ispăşire pentru cel ce a păcătuit fără voie înaintea Domnului; când va face ispăşire pentru el, i se va ierta.\n29. Atât pentru băştinaşul dintre copiii lui Israel, cât şi pentru străinul care locuieşte în mijlocul lor, să fie aceeaşi lege; când va păcătui fără voie.\n30. Dar dacă cineva, fie băştinaş, fie străin, păcătuieşte cu voie, huleşte pe Domnul: acela va fi nimicit din mijlocul poporului său,\n31. căci a nesocotit cuvântul Domnului şi a călcat porunca Lui; va fi nimicit şi îşi va lua astfel pedeapsa pentru nelegiuirea lui."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Apostolul Pavel recunoaște existența păcatelor făcute „din neștiință” (1 Tim. 1:13).\nTotuși, Noul Testament subliniază că toți oamenii au nevoie de har și de iertare prin Hristos, chiar și pentru păcatele de care nu sunt pe deplin conștienți (Rom. 3:23).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Tim. 1:13",
+            "verse": "13. măcar că mai înainte eram un hulitor, un prigonitor şi batjocoritor. Dar am căpătat îndurare, pentru că lucram din neştiinţă, în necredinţă!"
+          },
+          {
+            "id": 2,
+            "stringRef": "Rom. 3:23",
+            "verse": "23. Căci toți au păcătuit şi sunt lipsiți de slava lui Dumnezeu,"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "fileName": "01 - Genesis.json",
+    "book": "Geneza",
+    "abbrev": "Gen."
+  },
+  {
+    "id": 2,
+    "fileName": "02 - Exodus.json",
+    "book": "Exod",
+    "abbrev": "Exod"
+  },
+  {
+    "id": 3,
+    "fileName": "03 - Leviticus.json",
+    "book": "Levitic",
+    "abbrev": "Lev."
+  },
+  {
+    "id": 4,
+    "fileName": "04 - Numbers.json",
+    "book": "Numeri",
+    "abbrev": "Num."
+  },
+  {
+    "id": 5,
+    "fileName": "05 - Deuteronomy.json",
+    "book": "Deuteronom",
+    "abbrev": "Deut."
+  },
+  {
+    "id": 6,
+    "fileName": "06 - Joshua.json",
+    "book": "Iosua",
+    "abbrev": "Iosua"
+  },
+  {
+    "id": 7,
+    "fileName": "07 - Judges.json",
+    "book": "Judecători",
+    "abbrev": "Judc."
+  },
+  {
+    "id": 8,
+    "fileName": "08 - Ruth.json",
+    "book": "Rut",
+    "abbrev": "Rut"
+  },
+  {
+    "id": 9,
+    "fileName": "09 - 1 Samuel.json",
+    "book": "1 Samuel",
+    "abbrev": "1 Sam."
+  },
+  {
+    "id": 10,
+    "fileName": "10 - 2 Samuel.json",
+    "book": "2 Samuel",
+    "abbrev": "2 Sam."
+  },
+  {
+    "id": 11,
+    "fileName": "11 - 1 Kings.json",
+    "book": "1 Regi",
+    "abbrev": "1 Regi"
+  },
+  {
+    "id": 12,
+    "fileName": "12 - 2 Kings.json",
+    "book": "2 Regi",
+    "abbrev": "2 Regi"
+  },
+  {
+    "id": 13,
+    "fileName": "13 - 1 Chronicles.json",
+    "book": "1 Cronici",
+    "abbrev": "1 Cron."
+  },
+  {
+    "id": 14,
+    "fileName": "14 - 2 Chronicles.json",
+    "book": "2 Cronici",
+    "abbrev": "2 Cron."
+  },
+  {
+    "id": 15,
+    "fileName": "15 - Ezra.json",
+    "book": "Ezra",
+    "abbrev": "Ezra"
+  },
+  {
+    "id": 16,
+    "fileName": "16 - Nehemiah.json",
+    "book": "Neemia",
+    "abbrev": "Neem."
+  },
+  {
+    "id": 17,
+    "fileName": "17 - Esther.json",
+    "book": "Estera",
+    "abbrev": "Est."
+  },
+  {
+    "id": 18,
+    "fileName": "18 - Job.json",
+    "book": "Iov",
+    "abbrev": "Iov"
+  },
+  {
+    "id": 19,
+    "fileName": "19 - Psalms.json",
+    "book": "Psalmi",
+    "abbrev": "Ps."
+  },
+  {
+    "id": 20,
+    "fileName": "20 - Proverbs.json",
+    "book": "Proverbe",
+    "abbrev": "Prov."
+  },
+  {
+    "id": 21,
+    "fileName": "21 - Ecclesiastes.json",
+    "book": "Eclesiastul",
+    "abbrev": "Ecl."
+  },
+  {
+    "id": 22,
+    "fileName": "22 - Song of Solomon.json",
+    "book": "Cântarea cântărilor",
+    "abbrev": "Cânt."
+  },
+  {
+    "id": 23,
+    "fileName": "23 - Isaiah.json",
+    "book": "Isaia",
+    "abbrev": "Isaia"
+  },
+  {
+    "id": 24,
+    "fileName": "24 - Jeremiah.json",
+    "book": "Ieremia",
+    "abbrev": "Ier."
+  },
+  {
+    "id": 25,
+    "fileName": "25 - Lamentations.json",
+    "book": "Plângerile lui Ieremia",
+    "abbrev": "Plâng."
+  },
+  {
+    "id": 26,
+    "fileName": "26 - Ezekiel.json",
+    "book": "Ezechiel",
+    "abbrev": "Ezec."
+  },
+  {
+    "id": 27,
+    "fileName": "27 - Daniel.json",
+    "book": "Daniel",
+    "abbrev": "Dan."
+  },
+  {
+    "id": 28,
+    "fileName": "28 - Hosea.json",
+    "book": "Osea",
+    "abbrev": "Osea"
+  },
+  {
+    "id": 29,
+    "fileName": "29 - Joel.json",
+    "book": "Ioel",
+    "abbrev": "Ioel"
+  },
+  {
+    "id": 30,
+    "fileName": "30 - Amos.json",
+    "book": "Amos",
+    "abbrev": "Amos"
+  },
+  {
+    "id": 31,
+    "fileName": "31 - Obadiah.json",
+    "book": "Obadia",
+    "abbrev": "Obad."
+  },
+  {
+    "id": 32,
+    "fileName": "32 - Jonah.json",
+    "book": "Iona",
+    "abbrev": "Iona"
+  },
+  {
+    "id": 33,
+    "fileName": "33 - Micah.json",
+    "book": "Mica",
+    "abbrev": "Mica"
+  },
+  {
+    "id": 34,
+    "fileName": "34 - Nahum.json",
+    "book": "Naum",
+    "abbrev": "Naum"
+  },
+  {
+    "id": 35,
+    "fileName": "35 - Habakkuk.json",
+    "book": "Habacuc",
+    "abbrev": "Hab."
+  },
+  {
+    "id": 36,
+    "fileName": "36 - Zephaniah.json",
+    "book": "Ţefania",
+    "abbrev": "Țef."
+  },
+  {
+    "id": 37,
+    "fileName": "37 - Haggai.json",
+    "book": "Hagai",
+    "abbrev": "Hagai"
+  },
+  {
+    "id": 38,
+    "fileName": "38 - Zechariah.json",
+    "book": "Zaharia",
+    "abbrev": "Zah."
+  },
+  {
+    "id": 39,
+    "fileName": "39 - Malachi.json",
+    "book": "Maleahi",
+    "abbrev": "Mal."
+  },
+  {
+    "id": 40,
+    "fileName": "40 - Matthew.json",
+    "book": "Matei",
+    "abbrev": "Matei"
+  },
+  {
+    "id": 41,
+    "fileName": "41 - Mark.json",
+    "book": "Marcu",
+    "abbrev": "Marcu"
+  },
+  {
+    "id": 42,
+    "fileName": "42 - Luke.json",
+    "book": "Luca",
+    "abbrev": "Luca"
+  },
+  {
+    "id": 43,
+    "fileName": "43 - John.json",
+    "book": "Ioan",
+    "abbrev": "Ioan"
+  },
+  {
+    "id": 44,
+    "fileName": "44 - Acts.json",
+    "book": "Faptele Apostolilor",
+    "abbrev": "Fapte"
+  },
+  {
+    "id": 45,
+    "fileName": "45 - Romans.json",
+    "book": "Romani",
+    "abbrev": "Rom."
+  },
+  {
+    "id": 46,
+    "fileName": "46 - 1 Corinthians.json",
+    "book": "1 Corinteni",
+    "abbrev": "1 Cor."
+  },
+  {
+    "id": 47,
+    "fileName": "47 - 2 Corinthians.json",
+    "book": "2 Corinteni",
+    "abbrev": "2 Cor."
+  },
+  {
+    "id": 48,
+    "fileName": "48 - Galatians.json",
+    "book": "Galateni",
+    "abbrev": "Gal."
+  },
+  {
+    "id": 49,
+    "fileName": "49 - Ephesians.json",
+    "book": "Efeseni",
+    "abbrev": "Efes."
+  },
+  {
+    "id": 50,
+    "fileName": "50 - Philippians.json",
+    "book": "Filipeni",
+    "abbrev": "Filip."
+  },
+  {
+    "id": 51,
+    "fileName": "51 - Colossians.json",
+    "book": "Coloseni",
+    "abbrev": "Col."
+  },
+  {
+    "id": 52,
+    "fileName": "52 - 1 Thessalonians.json",
+    "book": "1 Tesaloniceni",
+    "abbrev": "1 Tes."
+  },
+  {
+    "id": 53,
+    "fileName": "53 - 2 Thessalonians.json",
+    "book": "2 Tesaloniceni",
+    "abbrev": "2 Tes."
+  },
+  {
+    "id": 54,
+    "fileName": "54 - 1 Timothy.json",
+    "book": "1 Timotei",
+    "abbrev": "1 Tim."
+  },
+  {
+    "id": 55,
+    "fileName": "55 - 2 Timothy.json",
+    "book": "2 Timotei",
+    "abbrev": "2 Tim."
+  },
+  {
+    "id": 56,
+    "fileName": "56 - Titus.json",
+    "book": "Tit",
+    "abbrev": "Tit"
+  },
+  {
+    "id": 57,
+    "fileName": "57 - Philemon.json",
+    "book": "Filimon",
+    "abbrev": "Filim."
+  },
+  {
+    "id": 58,
+    "fileName": "58 - Hebrews.json",
+    "book": "Evrei",
+    "abbrev": "Evrei"
+  },
+  {
+    "id": 59,
+    "fileName": "59 - James.json",
+    "book": "Iacov",
+    "abbrev": "Iacov"
+  },
+  {
+    "id": 60,
+    "fileName": "60 - 1 Peter.json",
+    "book": "1 Petru",
+    "abbrev": "1 Pet."
+  },
+  {
+    "id": 61,
+    "fileName": "61 - 2 Peter.json",
+    "book": "2 Petru",
+    "abbrev": "2 Pet."
+  },
+  {
+    "id": 62,
+    "fileName": "62 - 1 John.json",
+    "book": "1 Ioan",
+    "abbrev": "1 Ioan"
+  },
+  {
+    "id": 63,
+    "fileName": "63 - 2 John.json",
+    "book": "2 Ioan",
+    "abbrev": "2 Ioan"
+  },
+  {
+    "id": 64,
+    "fileName": "64 - 3 John.json",
+    "book": "3 Ioan",
+    "abbrev": "3 Ioan"
+  },
+  {
+    "id": 65,
+    "fileName": "65 - Jude.json",
+    "book": "Iuda",
+    "abbrev": "Iuda"
+  },
+  {
+    "id": 66,
+    "fileName": "66 - Revelation.json",
+    "book": "Apocalipsa lui Ioan",
+    "abbrev": "Apoc."
+  }
+]

@@ -1,0 +1,28 @@
+interface Props {
+  color?: string;
+};
+
+export const ExecuteAddSVG = ({ color = '#766852' }: Props) => {
+  return (
+    <svg
+      width='64px'
+      height='64px'
+      viewBox='0 0 100 100'
+      xmlns='http://www.w3.org/2000/svg'
+      version='1.1'
+      fill='#000000'
+      style={{ color }}
+    >
+      <g>
+        <path
+          className='fill-indian-khaki-700 stroke-[#222222] stroke-[1.5px]'
+          d='m 43,2 -2,10 -11,5 -8,-6 -10,10 6,9 -4,11 -11,2 0,13 11,2 4,10 -6,10 10,10 9,-6 10,4 2,11 14,0 2,-12 8,-4 10,7 L 87,79 80,68 85,59 97,57 97,43 85,41 82,31 88,21 78,11 69,17 58,12 56,2 z m 6,20 C 63,22 75,34 75,48 75,63 63,74 49,74 35,74 23,63 23,48 23,34 35,22 49,22 z'
+        ></path>
+        <path
+          className='fill-[#5E9FCE] stroke-[#041E31] stroke-4 opacity-100'
+          d='m 67,24 -16,0 0,26 -26,0 0,15 26,0 0,26 16,0 0,-26 25,0 0,-15 -25,0 z'
+        ></path>
+      </g>
+    </svg>
+  );
+};

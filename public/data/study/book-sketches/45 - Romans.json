@@ -1,0 +1,157 @@
+{
+  "id": 45,
+  "book": "Romani",
+  "sketches": [
+    {
+      "id": 1,
+      "sketch": "Introducere (Rom. 1:1÷17)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Salutul apostolic și chemarea la apostolat (Rom. 1:1÷7)"
+        },
+        {
+          "id": 2,
+          "hint": "Pavel își exprimă dorința de a vizita Roma (Rom. 1:8÷15)"
+        },
+        {
+          "id": 3,
+          "hint": "Evanghelia - puterea lui Dumnezeu pentru mântuirea tuturor oamenilor (Rom. 1:16÷17)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sketch": "Nevoia universală de mântuire (Rom. 1:18 ÷ 3:20)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Mânia lui Dumnezeu împotriva nelegiuirii păgânilor (Rom. 1:18÷32)"
+        },
+        {
+          "id": 2,
+          "hint": "Judecata dreaptă a lui Dumnezeu asupra celor religioși (Rom. 2:1÷29)"
+        },
+        {
+          "id": 3,
+          "hint": "Concluzia: toți oamenii sunt sub păcat (Rom. 3:1÷20)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sketch": "Îndreptățirea prin credință (Rom. 3:21 ÷ 5:21)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Neprihănirea lui Dumnezeu prin credință, nu prin Lege (Rom. 3:21÷31)"
+        },
+        {
+          "id": 2,
+          "hint": "Exemplul lui Avraam: socotit neprihănit prin credință (Rom. 4:1÷25)"
+        },
+        {
+          "id": 3,
+          "hint": "Roadele îndreptățirii: pace, nădejde, dragoste (Rom. 5:1÷11)"
+        },
+        {
+          "id": 4,
+          "hint": "Contrastul dintre Adam și Hristos (Rom. 5:12÷21)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sketch": "Sfințirea - viața nouă în Hristos (Rom. 6:1 ÷ 8:39)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Moarte față de păcat, viață nouă cu Hristos (Rom. 6:1÷23)"
+        },
+        {
+          "id": 2,
+          "hint": "Eliberarea de Lege prin moartea cu Hristos (Rom. 7:1÷6)"
+        },
+        {
+          "id": 3,
+          "hint": "Lupta omului cu păcatul (Rom. 7:7÷25)"
+        },
+
+        {
+          "id": 4,
+          "hint": "Viața prin Duhul Sfânt (Rom. 8:1÷17)"
+        },
+        {
+          "id": 5,
+          "hint": "Nădejdea viitoare și biruința în suferințe (Rom. 8:18÷39)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sketch": "Alegerea suverană a lui Dumnezeu (Rom. 9:1 ÷ 11:36)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Dorința lui Pavel pentru mântuirea poporului său (Rom. 9:1÷5)"
+        },
+        {
+          "id": 2,
+          "hint": "Alegerea lui Dumnezeu și răspunderea omului (Rom. 9:6÷29)"
+        },
+        {
+          "id": 3,
+          "hint": "Necredința lui Israel și primirea neamurilor (Rom. 9:30 ÷ 10:21)"
+        },
+        {
+          "id": 4,
+          "hint": "Rămășița aleasă prin har, planul lui Dumnezeu cu Israel (Rom. 11:1÷36)"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sketch": "Aplicarea practică a Evangheliei (Rom. 12:1 ÷ 15:13)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viața creștină: închinare, slujire, dragoste (Rom. 12:1÷21)"
+        },
+        {
+          "id": 2,
+          "hint": "Relația cu autoritățile civile (13:1÷7)"
+        },
+        {
+          "id": 3,
+          "hint": "Datoria dragostei și trezirea spirituală (Rom. 13:8÷14)"
+        },
+        {
+          "id": 4,
+          "hint": "Acceptarea fraților slabi în credință (Rom. 14:1 ÷ 15:13)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sketch": "Concluzii și salutări (15:14 ÷ 16:27)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Planuri de misiune și dorința de a vizita Roma (Rom. 15:14÷33)"
+        },
+        {
+          "id": 2,
+          "hint": "Salutări către credincioșii din Roma (Rom. 16:1÷16)"
+        },
+        {
+          "id": 3,
+          "hint": "Avertizare împotriva dezbinărilor (Rom. 16:17÷20)"
+        },
+        {
+          "id": 4,
+          "hint": "Saluturi finale și doxologie (Rom. 16:25÷27)"
+        }
+      ]
+    }
+  ]
+}

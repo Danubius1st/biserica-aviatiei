@@ -1,0 +1,10 @@
+export enum buttonOps {
+  ADD,
+  DB_ADD,
+  DELETE,
+  EXECUTE_ADD,
+  EXECUTE_SEARCH,
+  SELECT,
+  SELECT_UPDATE,
+  UPDATE
+}

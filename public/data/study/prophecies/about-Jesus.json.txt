@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "prophecy": "Va veni un Răscumpărător (Isaia 59:20)",
+    "history": "Profetul Isaia a trăit în perioada 766÷686 î.Hr. (Wikipedia, https://ro.wikipedia.org/wiki/Isaia)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 59:20",
+        "verse": "20. „Da, va veni un Răscumpărător pentru Sion, pentru cei ai lui Iacov care se vor întoarce de la păcatele lor”, zice Domnul."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Rom. 11:26÷27",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 11:26÷27",
+            "verse": "26. Şi atunci tot Israelul va fi mântuit, după cum este scris: „Izbăvitorul va veni din Sion şi va îndepărta toate nelegiuirile de la Iacov.\n27. Acesta va fi legământul pe care-l voi face cu ei, când le voi şterge păcatele.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "prophecy": "Nașterea din fecioară (Isaia 7:14)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 7:14",
+        "verse": "14. De aceea, Domnul însuşi vă va da un semn: „Iată, fecioara va rămâne însărcinată, va naşte un Fiu şi-I va pune numele Emanuel."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Luca 1:26÷38",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 1:26÷38",
+            "verse": "26. În luna a şasea, îngerul Gabriel a fost trimis de Dumnezeu într-o cetate din Galileea, numită Nazaret,\n27. la o fecioară logodită cu un bărbat, numit Iosif, din casa lui David. Numele fecioarei era Maria.\n28. Îngerul a intrat la ea şi a zis: „Plecăciune, ţie, căreia ţi s-a făcut mare har; Domnul este cu tine, binecuvântată eşti tu între femei!”\n29. Tulburată foarte mult de cuvintele acestea, Maria se întreba singură ce putea să însemne urarea aceasta.\n30. Îngerul i-a zis: „Nu te teme, Marie; căci ai căpătat îndurare înaintea lui Dumnezeu.\n31. Şi iată că vei rămâne însărcinată şi vei naşte un Fiu, căruia Îi vei pune numele Isus.\n32. El va fi mare şi va fi chemat Fiul Celui Preaînalt; şi Domnul Dumnezeu Îi va da scaunul de domnie al tatălui Său David.\n33. Va împărăţi peste casa lui Iacov în veci, şi Împărăţia Lui nu va avea sfârşit.”\n34. Maria a zis îngerului: „Cum se va face lucrul acesta, fiindcă eu nu ştiu de bărbat?”\n35. Îngerul i-a răspuns: „Duhul Sfânt Se va coborî peste tine, şi puterea Celui Preaînalt te va umbri. De aceea Sfântul care Se va naşte din tine, va fi chemat Fiul lui Dumnezeu.\n36. Iată că Elisabeta, rudenia ta, a zămislit şi ea un fiu la bătrâneţe; şi ea, căreia i se zicea stearpă, este acum în a şasea lună.\n37. Căci niciun cuvânt de la Dumnezeu nu este lipsit de putere”.\n38. Maria a zis: „Iată, roaba Domnului; facă-mi-se după cuvintele tale!” Şi îngerul a plecat de la ea."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "prophecy": "Nașterea în Betleem (Mica 5:2)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Mica 5:2",
+        "verse": "2. „Şi tu, Betleeme Efrata, măcar că eşti prea mic între cetăţile de căpetenie ale lui Iuda, totuşi din tine Îmi va ieşi Cel ce va stăpâni peste Israel şi a cărui obârşie se suie până în vremuri străvechi, până în zilele veşniciei.”"
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 2:1",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 2:1",
+            "verse": "1. După ce S-a născut Isus în Betleemul din Iudeea, în zilele împăratului Irod, iată că au venit nişte magi din răsărit la Ierusalim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "prophecy": "Fuga în Egipt (Osea 11:1)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Osea 11:1",
+        "verse": "1. „Când era tânăr Israel, îl iubeam şi am chemat pe fiul Meu din Egipt."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 2:13÷15",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 2:13÷15",
+            "verse": "13. După ce au plecat magii, un înger al Domnului se arată în vis lui Iosif şi-i zice: „Scoală-te, ia Pruncul şi pe mama Lui, fugi în Egipt şi rămâi acolo până îţi voi spune eu; căci Irod are să caute Pruncul, ca să-L omoare.”\n14. Iosif s-a sculat, a luat Pruncul şi pe mama Lui, noaptea, şi a plecat în Egipt.\n15. Acolo a rămas până la moartea lui Irod, ca să se împlinească ce fusese vestit de Domnul prin prorocul care zice: „Am chemat pe Fiul Meu din Egipt.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "prophecy": "Uciderea pruncilor (Ier. 31:15)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ier. 31:15",
+        "verse": "15. Aşa vorbeşte Domnul: „Un ţipăt se aude la Rama, plângeri şi lacrimi amare: Rahela îşi plânge copiii; şi nu vrea să se mângâie pentru copiii ei, căci nu mai sunt!”"
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 2:16",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 2:16",
+            "verse": "16. Atunci Irod, când a văzut că fusese înşelat de magi, s-a mâniat foarte tare şi a trimis să omoare pe toţi pruncii de parte bărbătească, de la doi ani în jos, care erau în Betleem şi în toate împrejurimile lui, potrivit cu vremea pe care o aflase întocmai de la magi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "prophecy": "Va fi din tribul lui Iuda (Gen. 49:10)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 49:10",
+        "verse": "10. Toiagul de domnie nu se va depărta din Iuda, nici toiagul de cârmuire dintre picioarele lui, până va veni Şilo, şi de El vor asculta popoarele."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Luca 3:23÷33",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 3:23÷33",
+            "verse": "23. Isus avea aproape treizeci de ani când a început să înveţe pe norod; şi era, cum se credea, fiul lui Iosif, fiul lui Eli,\n24. fiul lui Matat, fiul lui Levi, fiul lui Melhi, fiul lui Ianai, fiul lui Iosif,\n25. fiul lui Matatia, fiul lui Amos, fiul lui Naum, fiul lui Esli, fiul lui Nagai,\n26. fiul lui Maat, fiul lui Matatia, fiul lui Semei, fiul lui Ioseh, fiul lui Ioda,\n27. fiul lui Ioanan, fiul lui Resa, fiul lui Zorobabel, fiul lui Salatiel, fiul lui Neri,\n28. fiul lui Melhi, fiul lui Adi, fiul lui Cosam, fiul lui Elmadam, fiul lui Er,\n29. fiul lui Isus, fiul lui Eliezer, fiul lui Iorim, fiul lui Matat, fiul lui Levi,\n30. fiul lui Simeon, fiul lui Iuda, fiul lui Iosif, fiul lui Ionam, fiul lui Eliachim,\n31. fiul lui Melea, fiul lui Mena, fiul lui Matata, fiul lui Natan, fiul lui David,\n32. fiul lui Iese, fiul lui Iobed, fiul lui Booz, fiul lui Salmon, fiul lui Naason,\n33. fiul lui Aminadab, fiul lui Admin, fiul lui Arni, fiul lui Esrom, fiul lui Fares, fiul lui Iuda,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "prophecy": "Se va numi Emanuel (Isaia 7:14)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 7:14",
+        "verse": "14. De aceea, Domnul însuşi vă va da un semn: „Iată, fecioara va rămâne însărcinată, va naşte un Fiu şi-I va pune numele Emanuel."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 1:20÷23",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 1:20÷23",
+            "verse": "20. Dar, pe când se gândea el la aceste lucruri, i s-a arătat în vis un înger al Domnului şi i-a zis: „Iosife, fiul lui David, nu te teme să iei la tine pe Maria, nevasta ta, căci ce S-a zămislit în ea este de la Duhul Sfânt.\n21. Ea va naşte un Fiu, şi-I vei pune numele Isus, pentru că El va mântui pe poporul Lui de păcatele sale.”\n22. Toate aceste lucruri s-au întâmplat ca să se împlinească ce vestise Domnul prin prorocul care zice:\n23. „Iată, fecioara va fi însărcinată, va naşte un Fiu, şi-I vor pune numele Emanuel” care, tălmăcit, înseamnă: „Dumnezeu este cu noi.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "prophecy": "Predicare în Galileea (Isaia 9:1÷2)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 9:1÷2",
+        "verse": "1. Totuşi întunericul nu va împărăţi veşnic pe pământul în care acum este necaz. După cum în vremurile trecute a acoperit cu ocară ţara lui Zabulon şi ţara lui Neftali, în vremurile viitoare va acoperi cu slavă ţinutul de lângă mare, ţara de dincolo de Iordan, Galileea neamurilor.\n2. Poporul care umbla în întuneric vede o mare lumină; peste cei ce locuiau în ţara umbrei morţii răsare o lumină."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 4:12÷16",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 4:12÷16",
+            "verse": "13. A părăsit Nazaretul şi a venit de a locuit în Capernaum, lângă mare, în ţinutul lui Zabulon şi Neftali,\n14. ca să se împlinească ce fusese vestit prin prorocul Isaia, care zice:\n15. „Ţara lui Zabulon şi ţara lui Neftali, înspre mare, dincolo de Iordan, Galileea Neamurilor,\n16. norodul acesta, care zăcea în întuneric, a văzut o mare lumină; şi peste cei ce zăceau în ţinutul şi în umbra morţii a răsărit lumina.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "prophecy": "Intrare trimfală în Ierusalim (Zah. 9:9)",
+    "history": "Profetul Zaharia, fiul lui Berechia, fiul lui Ido, ar fi trăit în timpul domniei lui Darius I, regele Perșilor (domnie: 521÷486 î. Hr.).",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Zah. 9:9",
+        "verse": "9. Saltă de veselie, fiica Sionului! Strigă de bucurie, fiica Ierusalimului! Iată că Împăratul tău vine la tine; El este neprihănit şi biruitor, smerit şi călare pe un măgar, pe un mânz, pe mânzul unei măgăriţe."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 21:1÷11",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 21:1÷11",
+            "verse": "1. Când s-au apropiat de Ierusalim şi au ajuns la Betfaghe, înspre Muntele Măslinilor, Isus a trimis doi ucenici\n2. şi le-a zis: „Duceţi-vă în satul dinaintea voastră: în el veţi găsi îndată o măgăriţă legată şi un măgăruş împreună cu ea; dezlegaţi-i şi aduceţi-i la Mine.\n3. Dacă vă va zice cineva ceva, să spuneţi că Domnul are trebuinţă de ei. Şi îndată îi va trimite.”\n4. Dar toate aceste lucruri s-au întâmplat ca să se împlinească ce fusese vestit prin prorocul care zice:\n5. \"Spuneţi fiicei Sionului: „Iată, Împăratul tău vine la tine, blând şi călare pe un măgar, pe un măgăruş, mânzul unei măgăriţe.”\"\n6. Ucenicii s-au dus şi au făcut cum le poruncise Isus.\n7. Au adus măgăriţa şi măgăruşul, şi-au pus hainele peste ei, şi El a şezut deasupra.\n8. Cei mai mulţi din norod îşi aşterneau hainele pe drum; alţii tăiau ramuri din copaci şi le presărau pe drum.\n9. Noroadele care mergeau înaintea lui Isus şi cele ce veneau în urmă, strigau: „Osana, Fiul lui David! Binecuvântat este Cel ce vine în Numele Domnului! Osana în cerurile preaînalte!”\n10. Când a intrat în Ierusalim, toată cetatea s-a pus în mişcare, şi fiecare zicea: „Cine este Acesta?”\n11. „Este Isus, Prorocul din Nazaretul Galileii”, răspundeau noroadele."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "prophecy": "Trădat de un prieten (Ps. 41:9)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 41:9",
+        "verse": "9. Chiar şi acela cu care trăiam în pace, în care îmi puneam încrederea şi care mânca din pâinea mea, ridică şi el călcâiul împotriva mea."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 26:20÷25",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 26:20÷25",
+            "verse": "20. Seara, Isus a şezut la masă cu cei doisprezece ucenici ai Săi.\n21. Pe când mâncau, El a zis: „Adevărat vă spun că unul din voi Mă va vinde.”\n22. Ei s-au întristat foarte mult şi au început să-I zică unul după altul: „Nu cumva sunt eu, Doamne?”\n23. Drept răspuns, El le-a zis: „Cel ce a întins cu Mine mâna în blid acela Mă va vinde.\n24. Negreşit, Fiul omului Se duce după cum este scris despre El. Dar vai de omul acela prin care este vândut Fiul omului! Mai bine ar fi fost pentru el să nu se fi născut!”\n25. Iuda, vânzătorul, a luat cuvântul şi I-a zis: „Nu cumva sunt eu, Învăţătorule?” „Da”, i-a răspuns Isus, „tu eşti!”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "prophecy": "Vândut pentru 30 de arginți (Zah. 11:12)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Zah. 11:12",
+        "verse": "12. Eu le-am zis: „Dacă găsiţi cu cale, daţi-mi plata; dacă nu, nu mi-o daţi!” Şi mi-au cântărit ca plată, treizeci de arginţi."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 26:14÷15",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 26:14÷15",
+            "verse": "14. Atunci unul din cei doisprezece, numit Iuda Iscarioteanul, s-a dus la preoţii cei mai de seamă\n15. şi le-a zis: „Ce vreţi să-mi daţi, şi-L voi da în mâinile voastre?” Ei i-au cântărit treizeci de arginţi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "prophecy": "Banii au fost folosiți ca să cumpere câmpul olarului (Zah. 11:12÷13)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Zah. 11:12÷13",
+        "verse": "12. Eu le-am zis: „Dacă găsiţi cu cale, daţi-mi plata; dacă nu, nu mi-o daţi!” Şi mi-au cântărit ca plată, treizeci de arginţi.\n13. Dar Domnul mi-a zis: „Aruncă olarului preţul acesta scump cu care m-au preţuit!” Şi am luat cei treizeci de arginţi şi i-am aruncat în Casa Domnului pentru olar."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 27:6÷7",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 27:6÷7",
+            "verse": "6. Preoţii cei mai de seamă au strâns arginţii şi au zis: „Nu este îngăduit să-i punem în vistieria Templului, fiindcă sunt preţ de sânge.”\n7. Şi după ce s-au sfătuit, au cumpărat cu banii aceia „Ţarina olarului” ca loc pentru îngroparea străinilor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "prophecy": "Respins de evrei (Isaia 53:3)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 53:3",
+        "verse": "3. Dispreţuit şi părăsit de oameni, Om al durerii şi obişnuit cu suferinţa, era aşa de dispreţuit, că îţi întorceai faţa de la El, şi noi nu L-am băgat în seamă."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Ioan 1:11",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 1:11",
+            "verse": "11. A venit la ai Săi, şi ai Săi nu L-au primit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "prophecy": "Acuzat pe nedrept (Ps. 35:11)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 35:11",
+        "verse": "11. Nişte martori mincinoşi se ridică şi mă întreabă de ceea ce nu ştiu."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 26:59÷68",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 26:59÷68",
+            "verse": "59. Preoţii cei mai de seamă, bătrânii şi tot soborul căutau vreo mărturie mincinoasă împotriva lui Isus, ca să-L poată omorî.\n60. Dar n-au găsit niciuna, măcar că s-au înfăţişat mulţi martori mincinoşi. La urmă au venit doi\n61. şi au spus: \"Acesta a zis: „Eu pot să stric Templul lui Dumnezeu şi să-l zidesc iarăşi în trei zile.”\n62. Marele preot s-a sculat în picioare şi I-a zis: „Nu răspunzi nimic? Ce mărturisesc aceştia împotriva Ta?”\n63. Isus tăcea. Şi marele preot a luat cuvântul şi I-a zis: „Te jur, pe Dumnezeul cel Viu, să ne spui dacă eşti Hristosul, Fiul lui Dumnezeu.”\n64. „Da”, i-a răspuns Isus, „sunt! Ba mai mult, vă spun că de acum încolo veţi vedea pe Fiul omului şezând la dreapta puterii lui Dumnezeu şi venind pe norii cerului.”\n65. Atunci marele preot şi-a rupt hainele şi a zis: „A hulit! Ce nevoie mai avem de martori? Iată că acum aţi auzit hula Lui.\n66. Ce credeţi?” Ei au răspuns: „Este vinovat, să fie pedepsit cu moartea.”\n67. Atunci L-au scuipat în faţă, L-au bătut cu pumnii şi L-au pălmuit,\n68. zicând: „Hristoase, proroceşte-ne cine Te-a lovit?”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "prophecy": "A rămas tăcut când a fost acuzat (Isaia 53:7)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 53:7",
+        "verse": "7. Când a fost chinuit şi asuprit, n-a deschis gura deloc, ca un miel pe care-l duci la măcelărie şi ca o oaie mută înaintea celor ce o tund: n-a deschis gura."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 27:12÷14",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 27:12÷14",
+            "verse": "12. Dar n-a răspuns nimic la învinuirile preoţilor celor mai de seamă şi bătrânilor.\n13. Atunci Pilat I-a zis: „N-auzi de câte lucruri Te învinuiesc ei?”\n14. Isus nu i-a răspuns la niciun cuvânt, aşa că se mira foarte mult dregătorul."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "prophecy": "A fost lovit și scuipat (Isaia 50:6)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 50:6",
+        "verse": "6. Mi-am dat spatele înaintea celor ce Mă loveau, şi obrajii, înaintea celor ce-Mi smulgeau barba; nu Mi-am ascuns faţa de ocări şi de scuipări."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Marcu 14:65",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Marcu 14:65",
+            "verse": "65. Şi unii au început să-L scuipe, să-I acopere faţa, să-L bată cu pumnii şi să-I zică: „Proroceşte!” Iar aprozii L-au primit în palme."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "prophecy": "A suferit pentru noi (Isaia 53:4÷5)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 53:4÷5",
+        "verse": "4. Totuşi El suferinţele noastre le-a purtat, şi durerile noastre le-a luat asupra Lui, şi noi am crezut că este pedepsit, lovit de Dumnezeu şi smerit.\n5. Dar El era străpuns pentru păcatele noastre, zdrobit pentru fărădelegile noastre. Pedeapsa care ne dă pacea a căzut peste El, şi prin rănile Lui suntem tămăduiţi."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 8:16÷17",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 8:16÷17",
+            "verse": "16. Seara, au adus la Isus pe mulţi îndrăciţi. El, prin cuvântul Lui, a scos din ei duhurile necurate şi a tămăduit pe toţi bolnavii,\n17. ca să se împlinească ce fusese vestit prin prorocul Isaia, care zice: „El a luat asupra Lui neputinţele noastre şi a purtat bolile noastre.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "prophecy": "Crucificat cu tâlharii (Isaia 53:12)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 53:12",
+        "verse": "12. De aceea, Îi voi da partea Lui la un loc cu cei mari, şi va împărţi prada cu cei puternici, pentru că S-a dat pe Sine însuşi la moarte şi a fost pus în numărul celor fărădelege, pentru că a purtat păcatele multora şi S-a rugat pentru cei vinovaţi."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 27:38",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 27:38",
+            "verse": "38. Împreună cu El au fost răstigniţi doi tâlhari: unul la dreapta, şi celălalt la stânga Lui."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "prophecy": "Mîinile și picioarele I-au fost străpunse (Ps. 22:16)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 22:16",
+        "verse": "16. Căci nişte câini mă înconjoară, o ceată de nelegiuiţi dau târcoale împrejurul meu, mi-au străpuns mâinile şi picioarele:"
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Ioan 20:25",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 20:25",
+            "verse": "25. Ceilalţi ucenici i-au zis deci: „Am văzut pe Domnul!” Dar el le-a răspuns: „Dacă nu voi vedea în mâinile Lui semnul cuielor şi dacă nu voi pune degetul meu în semnul cuielor şi dacă nu voi pune mâna mea în coasta Lui, nu voi crede.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "prophecy": "Oasele nu au fost zdrobite (Ps. 34:20)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 34:20",
+        "verse": "20. Toate oasele i le păzeşte, ca niciunul din ele să nu i se sfărâme."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Ioan 19:33",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 19:33",
+            "verse": "33. Când au venit la Isus şi au văzut că murise, nu I-au zdrobit fluierele picioarelor;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "prophecy": "I-au împărțit hainele și I-au tras la sorți cămașa (Ps. 22:18)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 22:18",
+        "verse": "18. îşi împart hainele mele între ei şi trag la sorţi pentru cămaşa mea."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Ioan 19:23÷24",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 19:23÷24",
+            "verse": "23. Ostaşii, după ce au răstignit pe Isus, I-au luat hainele şi le-au făcut patru părţi, câte o parte pentru fiecare ostaş. I-au luat şi cămaşa, care n-avea nicio cusătură, ci era dintr-o singură ţesătură de sus până jos.\n24. Şi au zis între ei: „Să n-o sfâşiem, ci să tragem la sorţi a cui să fie.” Aceasta s-a întâmplat ca să se împlinească Scriptura care zice: „Şi-au împărţit hainele Mele între ei, şi pentru cămaşa Mea au tras la sorţi.” Iată ce au făcut ostaşii."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "prophecy": "Însetat pe cruce (Ps. 22:15)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 22:15",
+        "verse": "15. Mi se usucă puterea ca lutul şi mi se lipeşte limba de cerul gurii: m-ai adus în ţărâna morţii."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Ioan 19:28",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "19:28",
+            "verse": "28. După aceea Isus, care ştia că acum totul s-a sfârşit, ca să împlinească Scriptura, a zis: „Mi-e sete.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "prophecy": "I s-a dat să bea oțet (Ps. 69:21)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 69:21",
+        "verse": "21. Ei îmi pun fiere în mâncare, şi, când mi-e sete, îmi dau să beau oţet."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Ioan 19:29",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 19:29",
+            "verse": "29. Acolo era un vas plin cu oţet. Ostaşii au pus într-o ramură de isop un burete plin cu oţet şi I l-au dus la gură."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "prophecy": "„Dumnezeul Meu, Dumnezeul Meu, pentru ce M-ai părăsit?” (Ps. 22:1)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 22:1",
+        "verse": "1. ... Dumnezeule! Dumnezeule! Pentru ce m-ai părăsit şi pentru ce Te depărtezi fără să-mi ajuţi şi fără s-asculţi plângerile mele?"
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 27:46",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 27:46",
+            "verse": "46. Şi pe la ceasul al nouălea, Isus a strigat cu glas tare: „Eli, Eli, lama sabactani?”, adică: „Dumnezeul Meu, Dumnezeul Meu, pentru ce M-ai părăsit?”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "prophecy": "Îngropat în mormântul unui om bogat (Isaia 53:9)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Isaia 53:9",
+        "verse": "9. Groapa Lui a fost pusă între cei răi, şi mormântul Lui, la un loc cu cel bogat, măcar că nu săvârşise nicio nelegiuire şi nu se găsise niciun vicleşug în gura Lui."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 27:57÷60",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 27:57÷60",
+            "verse": "57. Spre seară, a venit un om bogat din Arimateea, numit Iosif, care era şi el ucenic al lui Isus.\n58. El s-a dus la Pilat şi a cerut trupul lui Isus. Pilat a poruncit să i-L dea.\n59. Iosif a luat trupul, L-a înfăşurat într-o pânză curată de in\n60. şi L-a pus într-un mormânt nou, al lui însuşi, pe care-l săpase în stâncă. Apoi a prăvălit o piatră mare la uşa mormântului şi a plecat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "prophecy": "Învierea (Ps. 16:10)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 16:10",
+        "verse": "10. Căci nu vei lăsa sufletul meu în Locuinţa morţilor, nu vei îngădui ca preaiubitul Tău să vadă putrezirea."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Matei 28:9",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 28:9",
+            "verse": "9. Dar iată că le-a întâmpinat Isus şi le-a zis: „Bucuraţi-vă!” Ele s-au apropiat să-I cuprindă picioarele şi I s-au închinat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "prophecy": "Înălțarea (Ps. 68:18)",
+    "history": "",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ps. 68:18",
+        "verse": "18. Te-ai suit pe înălţime, ai luat prinşi de război, ai luat în dar oameni; cei răzvrătiţi vor locui şi ei lângă Domnul Dumnezeu."
+      }
+    ],
+    "answers": [
+      {
+        "id": 1,
+        "answerRef": "Luca 24:50÷51",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 24:50÷51",
+            "verse": "50. El i-a dus afară până spre Betania. Şi-a ridicat mâinile şi i-a binecuvântat.\n51. Pe când îi binecuvânta, S-a despărţit de ei şi a fost înălţat la cer."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+services:
+  # app:
+  #   build:
+  #     context: .
+  #   container_name: aviatiei_app_container
+  #   ports:
+  #     - 3100:3100
+  #   restart: unless-stopped
+  #   init: true
+  #   environment:
+  #     NODE_ENV: production
+  #   depends_on:
+  #     - database
+
+  database:
+    image: mysql:lts
+    container_name: biserica-aviatiei-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      # MYSQL_USER: root
+      MYSQL_DATABASE: aviatiei
+    ports:
+      - 3306:3306
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+      # - ./my.cnf:/etc/mysql/conf.d/my.cnf
+    command: >
+      --character-set-server=utf8mb4
+      --collation-server=utf8mb4_unicode_ci
+
+volumes:
+  mysql_data:
+    name: biserica-aviatiei-data
+#     driver: local
+# networks:
+#   default:
+#     driver: bridge
+
+# docker-compose up --build
+# docker-compose up -d
+# docker-compose stop
+# docker-compose down
+# docker volume rm biserica-aviatiei-data
+##-------------------------------------------------------------
+## docker volume restore (pwsh):
+# type ..\biserica-aviatiei-backups\database-structure_2025.07.08.sql | docker exec -i biserica-aviatiei-mysql mysql -uroot -p1234 aviatiei
+##-------------------------------------------------------------
+## docker volume backup (pwsh):
+# [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+# docker exec biserica-aviatiei-mysql `
+  # mysqldump --default-character-set=utf8mb4 `
+  # -u root -p1234 `
+  # aviatiei > "backup_$(Get-Date -Format 'yyyy.MM.dd').sql"
+
+# docker exec -it c7b sh
+# mysql -u root -p aviatiei
+# show databases;
+# show tables;
+# select * from BibleBook;
+#-------------------------------------------------------------
+## add tables to volume (pwsh):
+# docker ps
+# type ..\biserica-aviatiei-backups\aviatiei-data\aviatiei.Quote-schema.sql | docker exec -i 9c2 mysql -uroot -p1234 aviatiei
+# or:
+# npx prisma db push

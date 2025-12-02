@@ -1,0 +1,890 @@
+//  1. datasource db: provider = "sqlite"
+//  2. comment  @db.Text
+//  3. npx prisma migrate dev --create-only --name rename
+//  replace:
+//    ALTER TABLE <MyTable> DROP COLUMN <oldName>,
+//    ADD COLUMN <newName> INTEGER;
+//  with
+//    ALTER TABLE <MyTable> RENAME COLUMN <oldName> TO <newName>;
+//  or replace
+//    DROP TABLE <oldName>;
+//    CREATE TABLE <newName> (...);
+//  with
+//    ALTER TABLE <oldName> RENAME TO <newName>;
+//    RENAME TABLE <oldName> TO <newName>;
+//  3. npx prisma migrate dev --name rename
+//
+//  4. datasource db: provider = "mysql"
+//  5. uncomment  @db.Text
+// otherwise:
+// The provided value for the column is too long for the column"s type. Column: =
+
+//  6. url = env("DATABASE_DEV_URL")
+//  7. npx prisma db push
+//
+//  8. pscale deploy-request create aviatiei dev --into main
+//  9. url = env("ACCELERATE_URL")
+// 10. npx prisma studio
+//
+// mysqldump --host aws.connect.psdb.cloud --port --user <user> --password <pass> > backup.sql
+
+generator appClient {
+  provider = "prisma-client-js"
+  // engineType = "dataproxy"
+  output   = "../generated/prisma-db-app/client"
+  // Error: EPERM: operation not permitted, scandir:
+  // 'C:\Users\adria\Application Data'
+  // 'C:\Users\adria\Cookies'
+  // 'C:\Users\adria\AppData'
+  // 'C:\Users\adria\Local Settings'
+}
+
+generator pothos {
+  provider = "prisma-pothos-types"
+  // previewFeatures = ["tracing"]
+  output   = "../generated/pothos-app-types.ts"
+}
+
+// generator erd {
+//   provider                  = "prisma-erd-generator"
+//   includeRelationFromFields = true
+//   erdDebug                  = true
+//   output                    = "../db-app.svg"
+//   theme                     = "forest"
+// }
+
+// datasource db {
+//   provider = "sqlite"
+//   url      = "file:./dev.db"
+// }
+
+datasource db {
+  provider = "mysql"
+  // url          = env("DATABASE_DEV_URL")
+  // url          = env("ACCELERATE_URL")
+  // directUrl    = env("DATABASE_DEV_URL")
+  // url          = env("APP_DATABASE_LOCAL_URL")
+  // directUrl    = env("APP_DATABASE_LOCAL_URL")
+  // relationMode = "prisma"
+  url      = env("APP_DATABASE_LOCAL_URL")
+}
+
+enum Testament {
+  NewTestament
+  OldTestament
+}
+
+model Adultery {
+  id       Int           @id @default(autoincrement())
+  adultery String        @db.Text
+  refs     AdulteryRef[]
+}
+
+model AdulteryRef {
+  id         Int             @id @default(autoincrement())
+  stringRef  String?
+  adulteryId Int
+  adultery   Adultery?       @relation(fields: [adulteryId], references: [id], onDelete: Cascade)
+  refIds     AdulteryRefId[]
+
+  @@index([adulteryId])
+}
+
+model AdulteryRefId {
+  id            Int          @id @default(autoincrement())
+  adulteryRefId Int
+  bibleVerseId  Int
+  adulteryRef   AdulteryRef? @relation(fields: [adulteryRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse    BibleVerse?  @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([adulteryRefId])
+}
+
+model BibleBook {
+  id       Int          @id @default(autoincrement())
+  book     String       @unique
+  abbrev   String       @unique
+  verses   BibleVerse[]
+  sketches BookSketch[]
+  // userIds User[]
+}
+
+model BibleRef {
+  id           Int         @id @default(autoincrement())
+  bibleVerseId Int
+  bibleVerse   BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+  // userIds      User[]
+
+  @@index([bibleVerseId])
+}
+
+model BibleTip {
+  id    Int            @id @default(autoincrement())
+  tip   String         @db.Text
+  refs  BibleTipRef[]
+  hints BibleTipHint[]
+}
+
+model BibleTipHint {
+  id         Int               @id @default(autoincrement())
+  hint       String            @db.Text
+  bibleTipId Int
+  bibleTip   BibleTip?         @relation(fields: [bibleTipId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refs       BibleTipHintRef[]
+
+  @@index([bibleTipId])
+}
+
+model BibleTipHintRef {
+  id             Int                 @id @default(autoincrement())
+  stringRef      String?
+  bibleTipHintId Int
+  bibleTipHint   BibleTipHint?       @relation(fields: [bibleTipHintId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds         BibleTipHintRefId[]
+
+  @@index([bibleTipHintId])
+}
+
+model BibleTipHintRefId {
+  id                Int              @id @default(autoincrement())
+  bibleTipHintRefId Int
+  bibleVerseId      Int
+  bibleTipHintRef   BibleTipHintRef? @relation(fields: [bibleTipHintRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse        BibleVerse?      @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([bibleTipHintRefId])
+}
+
+model BibleTipRef {
+  id         Int             @id @default(autoincrement())
+  stringRef  String?
+  bibleTipId Int
+  bibleTip   BibleTip?       @relation(fields: [bibleTipId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds     BibleTipRefId[]
+
+  @@index([bibleTipId])
+}
+
+model BibleTipRefId {
+  id            Int          @id @default(autoincrement())
+  bibleTipRefId Int
+  bibleVerseId  Int
+  bibleTipRef   BibleTipRef? @relation(fields: [bibleTipRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse    BibleVerse?  @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([bibleTipRefId])
+}
+
+model BibleVerse {
+  id                             Int                             @id @default(autoincrement())
+  bibleBookId                    Int
+  chapterId                      Int
+  verseId                        Int
+  verse                          String                          @db.Text
+  bibleBook                      BibleBook?                      @relation(fields: [bibleBookId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleRefs                      BibleRef[]
+  adulteryRefIds                 AdulteryRefId[]
+  bibleTipRefIds                 BibleTipRefId[]
+  bibleTipHintRefIds             BibleTipHintRefId[]
+  conceptHintRefIds              ConceptHintRefId[]
+  conceptRefIds                  ConceptRefId[]
+  covenantRefIds                 CovenantRefId[]
+  desireRefIds                   DesireRefId[]
+  discrepancyHintRefIds          DiscrepancyHintRefId[]
+  discrepancyRefIds              DiscrepancyRefId[]
+  educationRefIds                EducationRefId[]
+  godCelebrationRefs             GodCelebrationRefId[]
+  godCelebrationRefIds           GodCelebrationRef[]
+  godNameRefIds                  GodNameRefId[]
+  godPromiseRefIds               GodPromiseRefId[]
+  godUniquenessRefIds            GodUniquenessRefId[]
+  heresyHintRefIds               HeresyHintRefId[]
+  idConfirmationRefIds           IdConfirmationRefId[]
+  miracleRefIds                  MiracleRefId[]
+  mosesLawRefIds                 MosesLawRefId[]
+  parableRefIds                  ParableRefId[]
+  prophecyRefIds                 ProphecyRefId[]
+  prophecyAboutJesusRefIds       ProphecyAboutJesusRefId[]
+  prophecyAboutJesusAnswerRefIds ProphecyAboutJesusAnswerRefId[]
+  questionHintRefIds             QuestionHintRefId[]
+  questionRefIds                 QuestionRefId[]
+  quoteRefGroupIds               QuoteRefGroupId[]
+  symbolRefIds                   SymbolHintRefId[]
+  // userIds               User[]
+
+  @@unique([bibleBookId, chapterId, verseId], name: "uniqueVerse")
+}
+
+model BookSketch {
+  id           Int              @id @default(autoincrement())
+  bookSketchId Int
+  bookSketch   String           @db.Text
+  bibleBook    BibleBook        @relation(fields: [bookSketchId], references: [id])
+  hints        BookSketchHint[]
+
+  @@index([bookSketchId])
+}
+
+model BookSketchHint {
+  id               Int        @id @default(autoincrement())
+  bookSketchHintId Int
+  hint             String     @db.Text
+  bookSketch       BookSketch @relation(fields: [bookSketchHintId], references: [id])
+
+  @@index([bookSketchHintId])
+}
+
+model Concept {
+  id      Int           @id @default(autoincrement())
+  concept String        @unique
+  refs    ConceptRef[]
+  hints   ConceptHint[]
+  // userIds User[]
+}
+
+model ConceptHint {
+  id        Int              @id @default(autoincrement())
+  hint      String           @db.Text
+  conceptId Int
+  concept   Concept?         @relation(fields: [conceptId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refs      ConceptHintRef[]
+
+  @@index([conceptId])
+}
+
+model ConceptHintRef {
+  id            Int                @id @default(autoincrement())
+  stringRef     String?
+  conceptHintId Int
+  conceptHint   ConceptHint?       @relation(fields: [conceptHintId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds        ConceptHintRefId[]
+
+  @@index([conceptHintId])
+}
+
+model ConceptHintRefId {
+  id               Int             @id @default(autoincrement())
+  conceptHintRefId Int
+  bibleVerseId     Int
+  conceptHintRef   ConceptHintRef? @relation(fields: [conceptHintRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse       BibleVerse?     @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([conceptHintRefId])
+}
+
+model ConceptRef {
+  id        Int            @id @default(autoincrement())
+  stringRef String?
+  conceptId Int
+  concept   Concept?       @relation(fields: [conceptId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds    ConceptRefId[]
+  // userIds   User[]
+
+  @@index([conceptId])
+}
+
+model ConceptRefId {
+  id           Int         @id @default(autoincrement())
+  conceptRefId Int
+  bibleVerseId Int
+  conceptRef   ConceptRef? @relation(fields: [conceptRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse   BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+  // userIds      User[]
+
+  @@index([bibleVerseId])
+  @@index([conceptRefId])
+}
+
+model Covenant {
+  id        Int             @id @default(autoincrement())
+  stringRef String?
+  refIds    CovenantRefId[]
+}
+
+model CovenantRefId {
+  id            Int         @id @default(autoincrement())
+  covenantRefId Int
+  bibleVerseId  Int
+  covenant      Covenant?   @relation(fields: [covenantRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse    BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([covenantRefId])
+}
+
+model Desire {
+  id     Int         @id @default(autoincrement())
+  desire String      @db.Text
+  refs   DesireRef[]
+}
+
+model DesireRef {
+  id        Int           @id @default(autoincrement())
+  stringRef String?
+  desireId  Int
+  desire    Desire?       @relation(fields: [desireId], references: [id], onDelete: Cascade)
+  refIds    DesireRefId[]
+
+  @@index([desireId])
+}
+
+model DesireRefId {
+  id           Int         @id @default(autoincrement())
+  desireRefId  Int
+  bibleVerseId Int
+  desireRef    DesireRef?  @relation(fields: [desireRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse   BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([desireRefId])
+}
+
+model Dictionary {
+  id          Int     @id @default(autoincrement())
+  word        String  @unique
+  translation String  @db.Text
+  explanation String? @db.Text
+}
+
+model Discrepancy {
+  id          Int               @id @default(autoincrement())
+  discrepancy String            @db.Text
+  refs        DiscrepancyRef[]
+  hints       DiscrepancyHint[]
+}
+
+model DiscrepancyHint {
+  id            Int                  @id @default(autoincrement())
+  hint          String               @db.Text
+  discrepancyId Int?
+  discrepancy   Discrepancy?         @relation(fields: [discrepancyId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refs          DiscrepancyHintRef[]
+
+  @@index([discrepancyId])
+}
+
+model DiscrepancyHintRef {
+  id                Int                    @id @default(autoincrement())
+  stringRef         String?
+  discrepancyHintId Int
+  discrepancyHint   DiscrepancyHint?       @relation(fields: [discrepancyHintId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds            DiscrepancyHintRefId[]
+
+  @@index([discrepancyHintId])
+}
+
+model DiscrepancyHintRefId {
+  id                   Int                 @id @default(autoincrement())
+  discrepancyHintRefId Int
+  bibleVerseId         Int
+  discrepancyHintRef   DiscrepancyHintRef? @relation(fields: [discrepancyHintRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse           BibleVerse?         @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([discrepancyHintRefId])
+}
+
+model DiscrepancyRef {
+  id            Int                @id @default(autoincrement())
+  stringRef     String?
+  discrepancyId Int
+  discrepancy   Discrepancy?       @relation(fields: [discrepancyId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds        DiscrepancyRefId[]
+
+  @@index([discrepancyId])
+}
+
+model DiscrepancyRefId {
+  id               Int             @id @default(autoincrement())
+  discrepancyRefId Int
+  bibleVerseId     Int
+  discrepancyRef   DiscrepancyRef? @relation(fields: [discrepancyRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse       BibleVerse?     @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([discrepancyRefId])
+}
+
+model Education {
+  id        Int            @id @default(autoincrement())
+  education String         @db.Text
+  refs      EducationRef[]
+}
+
+model EducationRef {
+  id          Int              @id @default(autoincrement())
+  stringRef   String?
+  educationId Int
+  education   Education?       @relation(fields: [educationId], references: [id], onDelete: Cascade)
+  refIds      EducationRefId[]
+
+  @@index([educationId])
+}
+
+model EducationRefId {
+  id             Int           @id @default(autoincrement())
+  educationRefId Int
+  bibleVerseId   Int
+  educationRef   EducationRef? @relation(fields: [educationRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse     BibleVerse?   @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([educationRefId])
+}
+
+model GodCelebration {
+  id              Int                   @id @default(autoincrement())
+  celebrationName String
+  stringRef       String?
+  refs            GodCelebrationRef[]
+  refIds          GodCelebrationRefId[]
+}
+
+model GodCelebrationRef {
+  id               Int             @id @default(autoincrement())
+  godCelebrationId Int
+  bibleVerseId     Int
+  godCelebration   GodCelebration? @relation(fields: [godCelebrationId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse       BibleVerse      @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([godCelebrationId])
+}
+
+model GodCelebrationRefId {
+  id                  Int             @id @default(autoincrement())
+  godCelebrationRefId Int
+  bibleVerseId        Int
+  godCelebration      GodCelebration? @relation(fields: [godCelebrationRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse          BibleVerse      @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([godCelebrationRefId])
+}
+
+model GodName {
+  id          Int          @id @default(autoincrement())
+  nameOfGod   String       @unique
+  translation String       @db.Text
+  refs        GodNameRef[]
+}
+
+model GodNameRef {
+  id        Int            @id @default(autoincrement())
+  stringRef String?
+  godNameId Int
+  godName   GodName?       @relation(fields: [godNameId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds    GodNameRefId[]
+
+  @@index([godNameId])
+}
+
+model GodNameRefId {
+  id           Int         @id @default(autoincrement())
+  godNameRefId Int
+  bibleVerseId Int
+  godNameRef   GodNameRef? @relation(fields: [godNameRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse   BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([godNameRefId])
+}
+
+model GodPromise {
+  id        Int               @id @default(autoincrement())
+  stringRef String?
+  refIds    GodPromiseRefId[]
+}
+
+model GodPromiseRefId {
+  id              Int         @id @default(autoincrement())
+  godPromiseRefId Int
+  bibleVerseId    Int
+  godPromise      GodPromise? @relation(fields: [godPromiseRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse      BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([godPromiseRefId])
+}
+
+model GodUniqueness {
+  id          Int                @id @default(autoincrement())
+  description String             @db.Text
+  refs        GodUniquenessRef[]
+}
+
+model GodUniquenessRef {
+  id              Int                  @id @default(autoincrement())
+  stringRef       String?
+  godUniquenessId Int
+  godUniqueness   GodUniqueness?       @relation(fields: [godUniquenessId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds          GodUniquenessRefId[]
+
+  @@index([godUniquenessId])
+}
+
+model GodUniquenessRefId {
+  id                 Int               @id @default(autoincrement())
+  godUniquenessRefId Int
+  bibleVerseId       Int
+  godUniquenessRef   GodUniquenessRef? @relation(fields: [godUniquenessRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse         BibleVerse?       @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([godUniquenessRefId])
+}
+
+model Heresy {
+  id     Int          @id @default(autoincrement())
+  heresy String       @db.Text
+  hints  HeresyHint[]
+}
+
+model HeresyHint {
+  id       Int             @id @default(autoincrement())
+  hint     String          @db.Text
+  heresyId Int
+  refs     HeresyHintRef[]
+  heresy   Heresy?         @relation(fields: [heresyId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+
+  @@index([heresyId])
+}
+
+model HeresyHintRef {
+  id           Int               @id @default(autoincrement())
+  stringRef    String?
+  heresyHintId Int
+  refIds       HeresyHintRefId[]
+  heresyHint   HeresyHint?       @relation(fields: [heresyHintId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+
+  @@index([heresyHintId])
+}
+
+model HeresyHintRefId {
+  id              Int            @id @default(autoincrement())
+  heresyHintRefId Int
+  bibleVerseId    Int
+  heresyHintRef   HeresyHintRef? @relation(fields: [heresyHintRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse      BibleVerse?    @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([heresyHintRefId])
+}
+
+model IdConfirmation {
+  id    Int                 @id @default(autoincrement())
+  event String
+  refs  IdConfirmationRef[]
+}
+
+model IdConfirmationRef {
+  id               Int                   @id @default(autoincrement())
+  stringRef        String?
+  idConfirmationId Int
+  idConfirmation   IdConfirmation?       @relation(fields: [idConfirmationId], references: [id], onDelete: Cascade)
+  refIds           IdConfirmationRefId[]
+
+  @@index([idConfirmationId])
+}
+
+model IdConfirmationRefId {
+  id                  Int                @id @default(autoincrement())
+  idConfirmationRefId Int
+  bibleVerseId        Int
+  idConfirmationRef   IdConfirmationRef? @relation(fields: [idConfirmationRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse          BibleVerse?        @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([idConfirmationRefId])
+}
+
+model Log {
+  id        Int      @id @default(autoincrement())
+  op        String
+  createdAt DateTime @default(now()) @db.DateTime(2)
+}
+
+model Miracle {
+  id      Int          @id @default(autoincrement())
+  miracle String
+  refs    MiracleRef[]
+}
+
+model MiracleRef {
+  id        Int            @id @default(autoincrement())
+  stringRef String?
+  miracleId Int
+  miracle   Miracle?       @relation(fields: [miracleId], references: [id], onDelete: Cascade)
+  refIds    MiracleRefId[]
+
+  @@index([miracleId])
+}
+
+model MiracleRefId {
+  id           Int         @id @default(autoincrement())
+  miracleRefId Int
+  bibleVerseId Int
+  miracleRef   MiracleRef? @relation(fields: [miracleRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse   BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([miracleRefId])
+}
+
+model MosesLaw {
+  id        Int             @id @default(autoincrement())
+  stringRef String?
+  refIds    MosesLawRefId[]
+}
+
+model MosesLawRefId {
+  id            Int         @id @default(autoincrement())
+  mosesLawRefId Int
+  bibleVerseId  Int
+  mosesLaw      MosesLaw?   @relation(fields: [mosesLawRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse    BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([mosesLawRefId])
+}
+
+model Parable {
+  id      Int          @id @default(autoincrement())
+  parable String
+  refs    ParableRef[]
+}
+
+model ParableRef {
+  id        Int            @id @default(autoincrement())
+  stringRef String?
+  parableId Int
+  parable   Parable?       @relation(fields: [parableId], references: [id], onDelete: Cascade)
+  refIds    ParableRefId[]
+
+  @@index([parableId])
+}
+
+model ParableRefId {
+  id           Int         @id @default(autoincrement())
+  parableRefId Int
+  bibleVerseId Int
+  parableRef   ParableRef? @relation(fields: [parableRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse   BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([parableRefId])
+}
+
+model Prophecy {
+  id        Int             @id @default(autoincrement())
+  fulfilled Boolean         @default(true)
+  history   String?         @db.Text
+  stringRef String?
+  refIds    ProphecyRefId[]
+}
+
+model ProphecyRefId {
+  id            Int         @id @default(autoincrement())
+  prophecyRefId Int
+  bibleVerseId  Int
+  prophecy      Prophecy?   @relation(fields: [prophecyRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse    BibleVerse? @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([prophecyRefId])
+}
+
+model ProphecyAboutJesus {
+  id       Int                           @id @default(autoincrement())
+  prophecy String                        @db.Text
+  history  String?                       @db.Text
+  refs     ProphecyAboutJesusRef[]
+  answers  ProphecyAboutJesusAnswerRef[]
+}
+
+model ProphecyAboutJesusAnswerRef {
+  id                   Int                             @id @default(autoincrement())
+  stringRef            String?
+  prophecyAboutJesusId Int
+  prophecyAboutJesus   ProphecyAboutJesus?             @relation(fields: [prophecyAboutJesusId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds               ProphecyAboutJesusAnswerRefId[]
+
+  @@index([prophecyAboutJesusId])
+}
+
+model ProphecyAboutJesusAnswerRefId {
+  id                            Int                          @id @default(autoincrement())
+  prophecyAboutJesusAnswerRefId Int
+  bibleVerseId                  Int
+  prophecyAboutJesusAnswerRef   ProphecyAboutJesusAnswerRef? @relation(fields: [prophecyAboutJesusAnswerRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse                    BibleVerse?                  @relation(fields: [bibleVerseId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+
+  @@index([bibleVerseId])
+  @@index([prophecyAboutJesusAnswerRefId])
+}
+
+model ProphecyAboutJesusRef {
+  id                   Int                       @id @default(autoincrement())
+  stringRef            String?
+  prophecyAboutJesusId Int
+  prophecyAboutJesus   ProphecyAboutJesus?       @relation(fields: [prophecyAboutJesusId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds               ProphecyAboutJesusRefId[]
+
+  @@index([prophecyAboutJesusId])
+}
+
+model ProphecyAboutJesusRefId {
+  id                      Int                    @id @default(autoincrement())
+  prophecyAboutJesusRefId Int
+  bibleVerseId            Int
+  prophecyAboutJesusRef   ProphecyAboutJesusRef? @relation(fields: [prophecyAboutJesusRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse              BibleVerse?            @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([prophecyAboutJesusRefId])
+}
+
+model Question {
+  id       Int            @id @default(autoincrement())
+  ord      Int            @default(1)
+  question String         @db.Text
+  refs     QuestionRef[]
+  hints    QuestionHint[]
+}
+
+model QuestionHint {
+  id         Int               @id @default(autoincrement())
+  hint       String            @db.Text
+  questionId Int?
+  question   Question?         @relation(fields: [questionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refs       QuestionHintRef[]
+
+  @@index([questionId])
+}
+
+model QuestionHintRef {
+  id             Int                 @id @default(autoincrement())
+  stringRef      String?
+  questionHintId Int
+  questionHint   QuestionHint?       @relation(fields: [questionHintId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds         QuestionHintRefId[]
+
+  @@index([questionHintId])
+}
+
+model QuestionHintRefId {
+  id                Int              @id @default(autoincrement())
+  questionHintRefId Int
+  bibleVerseId      Int
+  questionHintRef   QuestionHintRef? @relation(fields: [questionHintRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse        BibleVerse?      @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([questionHintRefId])
+}
+
+model QuestionRef {
+  id         Int             @id @default(autoincrement())
+  stringRef  String?
+  questionId Int
+  question   Question?       @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  refIds     QuestionRefId[]
+
+  @@index([questionId])
+}
+
+model QuestionRefId {
+  id            Int          @id @default(autoincrement())
+  questionRefId Int
+  bibleVerseId  Int
+  question      QuestionRef? @relation(fields: [questionRefId], references: [id], onDelete: Cascade)
+  bibleVerse    BibleVerse?  @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([questionRefId])
+}
+
+model Quote {
+  id    Int             @id @default(autoincrement())
+  short String
+  refs  QuoteRefGroup[]
+}
+
+model QuoteRefGroup {
+  quoteId   Int
+  testament Testament
+  stringRef String?
+  quote     Quote?            @relation(fields: [quoteId], references: [id], onDelete: Cascade)
+  refIds    QuoteRefGroupId[]
+
+  @@id([quoteId, testament])
+  @@index([quoteId, testament])
+}
+
+model QuoteRefGroupId {
+  id           Int            @id @default(autoincrement())
+  refGroupId   Int
+  bibleVerseId Int
+  testament    Testament
+  refGroup     QuoteRefGroup? @relation(fields: [refGroupId, testament], references: [quoteId, testament])
+  bibleVerse   BibleVerse?    @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([refGroupId, testament])
+}
+
+model Symbol {
+  id     Int          @id @default(autoincrement())
+  symbol String
+  hints  SymbolHint[]
+}
+
+model SymbolHint {
+  id       Int             @id @default(autoincrement())
+  hint     String          @db.Text
+  symbolId Int
+  symbol   Symbol?         @relation(fields: [symbolId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refs     SymbolHintRef[]
+
+  @@index([symbolId])
+}
+
+model SymbolHintRef {
+  id           Int               @id @default(autoincrement())
+  stringRef    String?
+  symbolHintId Int?
+  symbolHint   SymbolHint?       @relation(fields: [symbolHintId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  refIds       SymbolHintRefId[]
+
+  @@index([symbolHintId])
+}
+
+model SymbolHintRefId {
+  id              Int           @id @default(autoincrement())
+  symbolHintRefId Int
+  bibleVerseId    Int
+  symbolRef       SymbolHintRef @relation(fields: [symbolHintRefId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bibleVerse      BibleVerse?   @relation(fields: [bibleVerseId], references: [id])
+
+  @@index([bibleVerseId])
+  @@index([symbolHintRefId])
+}
+
+// model User {
+//   id     Int @id @default(autoincrement())
+//   userId Int
+// bibleBook    BibleBook?    @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: Cascade, map: "UserToBibleBook")
+// bibleRef     BibleRef?     @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: Cascade, map: "UserToBibleRef")
+// bibleVerse   BibleVerse?   @relation(fields: [userId], references: [id], map: "UserToBibleVerse")
+// concept      Concept?      @relation(fields: [userId], references: [id], map: "UserToConcept")
+// conceptRef   ConceptRef?   @relation(fields: [userId], references: [id], map: "UserToConceptRef")
+// conceptRefId ConceptRefId? @relation(fields: [userId], references: [id], map: "UserToConceptRefId")
+
+//   @@index([userId])
+// }
+
+// https://planetscale.com/docs/learn/operating-without-foreign-key-constraints

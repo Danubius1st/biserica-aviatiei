@@ -1,0 +1,400 @@
+{
+  "id": 24,
+  "book": "Isaia",
+  "sketches": [
+    {
+      "id": 1,
+      "sketch": "Prolog: condamnarea generală a lui Iuda (Isaia 1)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Rebeliunea națiunii (Isaia 1:1÷20)"
+        },
+        {
+          "id": 2,
+          "hint": "Simbolul curățirii Ierusalimului (Isaia 1:21÷31)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sketch": "Viziuni despre Ziua Domnului și judecata asupra mândriei (Isaia 2:1 ÷ 4:6)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziunea escatologică a păcii universale (Isaia 2:1÷4)"
+        },
+        {
+          "id": 2,
+          "hint": "Ziua Domnului - mânia împotriva mândriei omenești (Isaia 2:5÷22)"
+        },
+        {
+          "id": 3,
+          "hint": "Judecata asupra Ierusalimului și a lui Iuda (Isaia 3:1 ÷ 4:1)"
+        },
+        {
+          "id": 4,
+          "hint": "Restaurarea Ierusalimului și a lui Iuda (Isaia 4:2 ÷ 6)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sketch": "Cântarea viei (Isaia 5:1÷30)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Pilda viei (Isaia 5:1÷7)"
+        },
+        {
+          "id": 2,
+          "hint": "Judecata lui Dumnezeu (Isaia 5:8÷30)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sketch": "Chemarea lui Isaia și misiunea sa (Isaia 6:1÷13)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziunea lui Dumnezeu (Isaia 6:1÷4)"
+        },
+        {
+          "id": 2,
+          "hint": "Chemarea lui Isaia (Isaia 6:5÷8)"
+        },
+        {
+          "id": 3,
+          "hint": "Mesajul lui Isaia pentru popor (Isaia 6:9÷13)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sketch": "Cartea lui Emanuel (Isaia 7:1 ÷ 12:6)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Amenințarea siriano-efraimită și semnul „fecioarei” (Isaia 7)"
+        },
+        {
+          "id": 2,
+          "hint": "Judecata prin Asiria, dar și promisiuni mesianice (Isaia 8 ÷ 10)"
+        },
+        {
+          "id": 3,
+          "hint": "Mesia ca vlăstar din tulpina lui Isai (Isaia 11)"
+        },
+        {
+          "id": 4,
+          "hint": "Imn de laudă pentru izbăvirea lui Dumnezeu (Isaia 12)"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sketch": "Judecata asupra națiunilor (Isaia 13 ÷ 23)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Judecata asupra Babilonului (Isaia 13:1 ÷ 14:23)"
+        },
+        {
+          "id": 2,
+          "hint": "Judecata asupra Asiriei (Isaia 14:24÷27)"
+        },
+        {
+          "id": 3,
+          "hint": "Judecata asupra Filistenilor (Isaia 14:28÷32)"
+        },
+        {
+          "id": 4,
+          "hint": "Judecata asupra Moabului (Isaia 15 ÷ 16)"
+        },
+        {
+          "id": 5,
+          "hint": "Judecata asupra Siriei (Isaia 17)"
+        },
+        {
+          "id": 6,
+          "hint": "Judecata asupra Etiopiei (Isaia 18)"
+        },
+        {
+          "id": 7,
+          "hint": "Judecata asupra Egiptului (Isaia 19 ÷ 20)"
+        },
+        {
+          "id": 8,
+          "hint": "Judecata asupra Babilonului și a Asiriei (Isaia 21:1 ÷ 10)"
+        },
+        {
+          "id": 9,
+          "hint": "Judecata asupra Edomului și a Arabiei (Isaia 21:11 ÷ 22:25)"
+        },
+        {
+          "id": 10,
+          "hint": "Judecata asupra Tirului (Isaia 23)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sketch": "Viziuni despre judecata universală (Isaia 24 ÷ 27)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Judecata universală (Isaia 24)"
+        },
+        {
+          "id": 2,
+          "hint": "Cântări ale izbăvirii (Isaia 25)"
+        },
+        {
+          "id": 3,
+          "hint": "Restaurarea teocratică a popoarelor. Învierea morților (Isaia 26)"
+        },
+        {
+          "id": 4,
+          "hint": "Victoria finală a lui Dumnezeu (Isaia 27)"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sketch": "Alte viziuni și lecții istorice (Isaia 28 ÷ 35)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziuni despre restaurarea lui Israel (Isaia 28)"
+        },
+        {
+          "id": 2,
+          "hint": "Lecții din istoria lui Israel (Isaia 29)"
+        },
+        {
+          "id": 3,
+          "hint": "Viziuni despre viitorul lui Israel (Isaia 30)"
+        },
+        {
+          "id": 4,
+          "hint": "Judecata finală asupra națiunilor (Isaia 31)"
+        },
+        {
+          "id": 5,
+          "hint": "Restaurarea lui Israel (Isaia 32)"
+        },
+        {
+          "id": 6,
+          "hint": "Viziuni despre Mesia (Isaia 33)"
+        },
+        {
+          "id": 7,
+          "hint": "Lecții din suferințele lui Israel (Isaia 34)"
+        },
+        {
+          "id": 8,
+          "hint": "Viziuni despre gloria lui Dumnezeu (Isaia 35)"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sketch": "Narațiune istorică: Ezechia și invazia asiriană (Isaia 36 ÷ 39)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Invazia asiriană și răspunsul lui Ezechia (Isaia 36)"
+        },
+        {
+          "id": 2,
+          "hint": "Răspunsul lui Ezechia la amenințarea asiriană (Isaia 37)"
+        },
+        {
+          "id": 3,
+          "hint": "Vindecarea lui Ezechia și semnul de la Dumnezeu [soarele s-a dat înapoi cu 10 trepte] (Isaia 38)"
+        },
+        {
+          "id": 4,
+          "hint": "Vizita ambasadorilor babilonieni. Profeție despre robia babiloniană (Isaia 39)"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "sketch": "Chemare la mângâiere și revelația lui Dumnezeu (Isaia 40)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Pregătirea căii Domnului (Isaia 40:1÷9)"
+        },
+        {
+          "id": 2,
+          "hint": "Puterea și mângâierea lui Dumnezeu (Isaia 40:10÷31)"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sketch": "Controversa cu idolatria și proclamarea unicității lui Dumnezeu (Isaia 41 ÷ 44)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Dumnezeul lui Israel este suveran peste istorie (Isaia 41)\n- Dumnezeu cheamă popoarele la judecată și le arată că El este Cel ce cheamă „din răsărit” pe cuceritorul (posibil Cirus) (Isaia 41:1÷9)\n- Dumnezeu îl susține pe „robul Meu Iacov” și promite izbăvire și reînnoire (Isaia 41:10÷28)\n- În contrast, idolii sunt neputincioși să prevadă viitorul sau să influențeze istoria (Isaia 41:29)"
+        },
+        {
+          "id": 2,
+          "hint": "Prima „Cântare a Robului Domnului” începe (Isaia 42:1÷9):\n- Robul este descris ca blând, dar puternic, trimis să aducă dreptate neamurilor.\n- Este ales de Dumnezeu și sprijinit de Duhul Său\n- Un verset-cheie împotriva idolatriei: „Slava Mea n-o voi da altuia, nici cinstea Mea idolilor.” (Isaia 42:8)"
+        },
+        {
+          "id": 3,
+          "hint": "Cântări de laudă și apeluri la întoarcere (Isaia 42:10÷25):\n- O chemare universală la laudă, urmată de o critică severă a surzeniei și orbirii spirituale a poporului\n- Dumnezeu este prezentat ca un războinic, dar și ca un mângâietor, care suferă alături de poporul Său"
+        },
+        {
+          "id": 4,
+          "hint": "Asigurări ale mântuirii și polemică anti-idolatră (Isaia 43):\n- Tema centrală: „Nu te teme, căci Eu te-am răscumpărat” (Isaia 43:1)\n- Dumnezeu își reafirmă rolul de Singurul Mântuitor (Isaia 43:11)\n- Apel la Israel să fie „martorul” Său în fața națiunilor"
+        },
+        {
+          "id": 5,
+          "hint": "Ridiculizarea idolilor și proclamarea iertării (Isaia 44):\n- Descriere satirică a idolului făcut din lemn: o parte e folosită pentru foc, iar restul pentru „zeu”\n- Dumnezeu își reafirmă statutul: „Eu sunt Cel dintâi și Cel de pe urmă” (Isaia 44:6)\n - Ironia profetică subliniază absurditatea închinării la creație\n - Cirus, unsul Domnului, ca instrument al restaurării (Isaia 44:28)"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "sketch": "Supremația lui Dumnezeu și eliberarea prin Cirus (Isaia 45 ÷ 48)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Cirus - Unsul Domnului (Isaia 45):\n- Cirus, regele persan, este numit „unsul” (mașiah) al Domnului, deși este un păgân (Isaia 45:1)\n - Dumnezeu își declară suveranitatea absolută: „Eu sunt Domnul și nu este altul” (Isaia 45:5)\n - Se dezvoltă o teologie a istoriei în care Dumnezeu folosește conducători neevrei pentru planul Său mântuitor"
+        },
+        {
+          "id": 2,
+          "hint": "Dumnezeu și absurditatea idolatriei (Isaia 46):\n- Idolii sunt descriși ca fiind incapabili să salveze sau să prezică viitorul (Isaia 46:1÷7)\n - Contrastul între idolii care sunt purtați pe umeri și Dumnezeul care poartă poporul Său (Isaia 46:3÷4)\n - Dumnezeu își reafirmă suveranitatea și puterea de a aduce mântuirea. Dumnezeu cunoaște sfârșitul de la început (Isaia 46:10)"
+        },
+        {
+          "id": 3,
+          "hint": "Judecata asupra Babilonului (Isaia 47):\n- O descriere a căderii Babilonului și a judecății divine (Isaia 47:1÷15)\n- Promisiunea că Dumnezeu va răscumpăra poporul Său din robie\n - Babilonul este prezentat ca o femeie răsfățată și arogantă, care va fi umilită și distrusă"
+        },
+        {
+          "id": 4,
+          "hint": "Chemarea la ascultare și avertismentul împotriva idolatriei (Isaia 48):\n- Dumnezeu își cheamă poporul să asculte și să nu se încreadă în idoli (Isaia 48:1÷11)\n- Promisiunea că Dumnezeu va aduce eliberarea prin Cirus (Isaia 48:14÷20)"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "sketch": "Cântările Robului Domnului (Isaia 42:1÷9, 49:1÷13, 50:4÷11, 52:13 ÷ 53:12)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Robul - lumină pentru neamuri (Isaia 49):\n- Robul este chemat să aducă mântuirea nu doar pentru Israel, ci și pentru neamuri (Isaia 49:6)"
+        },
+        {
+          "id": 2,
+          "hint": "Robul - suferință și glorificare (Isaia 50):\n- Robul suferă pentru păcatele poporului, dar prin suferința sa aduce mântuirea (Isaia 50:4÷11)"
+        },
+        {
+          "id": 3,
+          "hint": "Robul - suferința și răscumpărarea (Isaia 52:13 ÷ 53:12):\n- Cea mai cunoscută cântare, care prezintă suferința și moartea Robului ca mijloc de răscumpărare pentru păcatele poporului\n- „El a fost străpuns pentru păcatele noastre” (Isaia 53:5)"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "sketch": "Restaurarea lui Israel (Isaia 54 ÷ 55)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Promisiunea de restaurare (Isaia 54:1÷10):\n- O chemare la bucurie pentru cei sterpi, deoarece Dumnezeu va aduce o nouă naștere spirituală\n- Imaginea unei soții părăsite, dar care va fi din nou primită de soțul ei"
+        },
+        {
+          "id": 2,
+          "hint": "Invitația la apă și la viață (Isaia 55:1÷5):\n- O chemare universală la cei însetați să vină la ape\n- Promisiunea că cei care caută pe Domnul vor găsi viață și mântuire"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "sketch": "Chemare la dreptate și incluziune (Isaia 56:1÷12)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Dreptatea și mântuirea sunt oferite tuturor, inclusiv străinilor (Isaia 56:1÷8):\n- O chemare la respectarea sabatului și la faptele de dreptate\n- Promisiunea că străinii care se alătură poporului lui Dumnezeu vor fi acceptați"
+        },
+        {
+          "id": 2,
+          "hint": "Critica liderilor corupți și a poporului leneș (Isaia 56:9÷12):\n- O acuzație împotriva păstorilor care nu își îndeplinesc datoria\n- Imaginea unui popor care se bucură de lenevire și de plăceri, ignorând chemarea lui Dumnezeu"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "sketch": "Denunțarea păcatului colectiv și promisiunea de vindecare (Isaia 57 ÷ 59)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Păcatul colectiv și idolatria (Isaia 57:1÷13):\n- O acuzație împotriva poporului care se închină la idoli și care își neglijează datoria față de Dumnezeu\n- Promisiunea că cei care se întorc la Dumnezeu vor fi vindecați"
+        },
+        {
+          "id": 2,
+          "hint": "Separarea dintre Dumnezeu și popor din cauza păcatului (Isaia 59:1÷15):\n- Păcatele poporului au creat o prăpastie între ei și Dumnezeu\n- Profeția despre Mântuitorul (Isaia 59:20)\n- Dumnezeu promite să aducă mântuire, dar și judecată asupra celor răi (Isaia 59:16÷21)"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "sketch": "Slavă viitoare a Ierusalimului (Isaia 60 ÷ 62)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Promisiunea de slavă viitoare a Ierusalimului (Isaia 60:1÷11)\n- Națiunile vor veni la lumina Sionului"
+        },
+        {
+          "id": 2,
+          "hint": "Restaurarea Ierusalimului și a poporului (Isaia 61)"
+        },
+        {
+          "id": 3,
+          "hint": "Nunta simbolică a Ierusalimului (Isaia 62)\n- Promisiunea că Ierusalimul va fi numit „Dorita” și „Cetatea Neabandonată”"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "sketch": "Ziua răzbunării și mântuirea (Isaia 63 ÷ 64)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Ziua răzbunării (Isaia 63:1÷6)\n- Promisiunea de răscumpărare pentru păcatele poporului (Isaia 63:7)"
+        },
+        {
+          "id": 2,
+          "hint": "Mântuirea și judecata (Isaia 63:8÷19)\n- O descriere a mântuirii aduse de Dumnezeu\n- O recunoaștere a păcatelor poporului și a nevoii de pocăință"
+        },
+        {
+          "id": 3,
+          "hint": "O rugăciune a poporului pentru intervenția lui Dumnezeu în mijlocul suferinței și păcatului (Isaia 64)"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "sketch": "Judecata finală și ceruri noi (Isaia 65 ÷ 66)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Judecata finală (Isaia 65:1÷16)\n- O descriere a judecății lui Dumnezeu asupra celor răi\n- Promisiunea că cei drepți vor fi răsplătiți"
+        },
+        {
+          "id": 2,
+          "hint": "Ceruri noi și un pământ nou (Isaia 65:17÷25)\n- Promisiunea unui nou început pentru poporul lui Dumnezeu\n- O viziune a păcii și a armoniei în creație"
+        },
+        {
+          "id": 3,
+          "hint": "Închinarea în noul Ierusalim (Isaia 66:1÷24)"
+        }
+      ]
+    }
+  ]
+}

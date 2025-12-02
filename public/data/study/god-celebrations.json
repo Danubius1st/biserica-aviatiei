@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "celebrationName": "Sabatul",
+    "verse": "3. Şase zile să lucraţi; dar ziua a şaptea este Sabatul, ziua de odihnă, cu o adunare sfântă. Să nu faceţi nicio lucrare în timpul ei: este Sabatul Domnului, în toate locuinţele voastre.",
+    "stringRef": "Lev. 23:3"
+  },
+  {
+    "id": 2,
+    "celebrationName": "Paştile Domnului",
+    "verse": "5. În luna întâi, în a paisprezecea zi a lunii, între cele două seri, va fi Paştile Domnului.",
+    "stringRef": "Lev. 23:5"
+  },
+  {
+    "id": 3,
+    "celebrationName": "sărbătoarea Azimelor",
+    "verse": "6. Şi în a cincisprezecea zi a lunii acesteia, va fi sărbătoarea Azimelor în cinstea Domnului; şapte zile să mâncaţi azime.",
+    "stringRef": "Lev. 23:6"
+  },
+  {
+    "id": 4,
+    "celebrationName": "sărbătoarea celor dintâi roade",
+    "verse": "10. „Vorbeşte copiilor lui Israel şi spune-le: „Când veţi intra în ţara pe care v-o dau şi când veţi secera semănăturile, să aduceţi preotului un snop, ca pârgă a secerişului vostru.\n11. El să legene snopul într-o parte şi într-alta înaintea Domnului, ca să fie primit: preotul să-l legene într-o parte şi într-alta, a doua zi după Sabat.\n12. În ziua când veţi legăna snopul, să aduceţi, ca ardere de tot Domnului, un miel de un an fără cusur;\n13. să adăugaţi la el două zecimi de efă din floarea făinii frământată cu untdelemn, ca dar de mâncare mistuit de foc, de un miros plăcut Domnului; şi să aduceţi o jertfă de băutură de un sfert de hin de vin.\n14. Să nu mâncaţi nici pâine, nici spice prăjite sau pisate, până în ziua aceasta, când veţi aduce un dar de mâncare Dumnezeului vostru. Aceasta este o lege veşnică pentru urmaşii voştri, în toate locurile în care veţi locui.",
+    "stringRef": "Lev. 23:10÷14"
+  },
+  {
+    "id": 5,
+    "celebrationName": "Cincizecimea, sărbătoarea Săptămânilor",
+    "verse": "16. Să număraţi cincizeci de zile până în ziua care vine după al şaptelea Sabat; şi atunci să aduceţi Domnului un nou dar de mâncare.",
+    "stringRef": "Lev. 23:16"
+  },
+  {
+    "id": 6,
+    "celebrationName": "sărbătoarea Trâmbițelor",
+    "verse": "24. „Vorbeşte copiilor lui Israel şi spune-le: «În luna a şaptea, în cea dintâi zi a lunii, să aveţi o zi de odihnă, vestită cu sunet de trâmbiţe, şi o adunare sfântă.\n25. Atunci să nu faceţi nicio lucrare de slugă şi să aduceţi Domnului jertfe mistuite de foc.»",
+    "stringRef": "Lev. 23:24÷25"
+  },
+  {
+    "id": 7,
+    "celebrationName": "ziua Ispăşirii, Yom Kippur",
+    "verse": "27. „În ziua a zecea a acestei a şaptea luni, va fi ziua Ispăşirii: atunci să aveţi o adunare sfântă, să vă smeriţi sufletele şi să aduceţi Domnului jertfe mistuite de foc.\n28. Să nu faceţi nicio lucrare în ziua aceea, căci este ziua Ispăşirii, când trebuie făcută ispăşire pentru voi înaintea Domnului Dumnezeului vostru.\n29. Oricine nu se va smeri în ziua aceea va fi nimicit din poporul lui.\n30. Pe oricine va face în ziua aceea vreo lucrare oarecare îl voi nimici din mijlocul poporului lui.\n31. Să nu faceţi nicio lucrare atunci. Aceasta este o lege veşnică pentru urmaşii voştri, în toate locurile în care veţi locui.\n32. Aceasta să fie pentru voi o zi de Sabat, o zi de odihnă, şi să vă smeriţi sufletele în ziua aceasta; din seara zilei a noua până în seara următoare, să prăznuiţi Sabatul vostru.”",
+    "stringRef": "Lev. 23:27÷32"
+  },
+  {
+    "id": 8,
+    "celebrationName": "sărbătoarea Corturilor",
+    "verse": "34. „Vorbeşte copiilor lui Israel şi spune-le: «În a cincisprezecea zi a acestei a şaptea luni, va fi sărbătoarea Corturilor în cinstea Domnului, timp de şapte zile.\n35. În ziua întâi să fie o adunare sfântă: să nu faceţi nicio lucrare de slugă în timpul ei.\n36. Timp de şapte zile, să aduceţi Domnului jertfe mistuite de foc. A opta zi, să aveţi o adunare sfântă şi să aduceţi Domnului jertfe mistuite de foc; aceasta să fie o adunare de sărbătoare: să nu faceţi nicio lucrare de slugă în timpul ei.",
+    "stringRef": "Lev. 23:34÷36"
+  }
+]

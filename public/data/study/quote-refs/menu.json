@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "description": "Isus",
+    "href": "/quote-refs/jesus"
+  },
+  {
+    "id": 2,
+    "description": "Matei",
+    "href": "/quote-refs/matthew"
+  },
+  {
+    "id": 3,
+    "description": "Marcu",
+    "href": "/quote-refs/mark"
+  },
+  {
+    "id": 4,
+    "description": "Luca",
+    "href": "/quote-refs/luke"
+  },
+  {
+    "id": 5,
+    "description": "Ioan",
+    "href": "/quote-refs/john"
+  }
+]

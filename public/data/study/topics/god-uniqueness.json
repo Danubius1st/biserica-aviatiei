@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "description": "Vechiul Testament (Deut. 4:35, Deut. 6:4, Deut. 32:39, 2 Sam. 7:22, 1 Regi 8:60, Ps. 86:10, Isaia 40:25, Isaia 43:10÷11, Isaia 44:6, Isaia 45:5, Isaia 45:21÷22)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Deut. 4:35",
+        "verse": "35. Numai tu ai fost martor la aceste lucruri, ca să cunoşti că numai Domnul este Dumnezeu şi că nu este alt Dumnezeu afară de El."
+      },
+      {
+        "id": 2,
+        "stringRef": "Deut. 6:4",
+        "verse": "4. Ascultă, Israele: Domnul Dumnezeul nostru este singurul Domn."
+      },
+      {
+        "id": 3,
+        "stringRef": "Deut. 32:39",
+        "verse": "39. Să ştiţi, dar, că Eu sunt Dumnezeu şi că nu este alt dumnezeu afară de Mine; Eu dau viaţă şi Eu omor, Eu rănesc şi Eu tămăduiesc, şi nimeni nu poate scoate pe cineva din mâna Mea."
+      },
+      {
+        "id": 4,
+        "stringRef": "2 Sam. 7:22",
+        "verse": "22. Ce mare eşti Tu, Doamne Dumnezeule! Căci nimeni nu este ca Tine şi nu este alt Dumnezeu afară de Tine, după tot ce am auzit cu urechile noastre."
+      },
+      {
+        "id": 5,
+        "stringRef": "1 Regi 8:60",
+        "verse": "60. pentru ca toate popoarele pământului să poată cunoaşte că Domnul este Dumnezeu şi că nu este alt Dumnezeu afară de El!"
+      },
+      {
+        "id": 6,
+        "stringRef": "Ps. 86:10",
+        "verse": "10. Căci Tu eşti mare şi faci minuni, numai Tu eşti Dumnezeu!"
+      },
+      {
+        "id": 7,
+        "stringRef": "Isaia 40:25",
+        "verse": "25. „Cu cine Mă veţi asemăna, ca să fiu deopotrivă cu el?” - zice Cel Sfânt."
+      },
+      {
+        "id": 8,
+        "stringRef": "Isaia 43:10÷11",
+        "verse": "10. „Voi sunteţi martorii Mei” - zice Domnul - „voi şi Robul Meu pe care L-am ales, ca să ştiţi, ca să Mă credeţi şi să înţelegeţi că Eu sunt: înainte de Mine n-a fost niciun dumnezeu, şi după Mine nu va fi.\n11. Eu, Eu sunt Domnul, şi afară de Mine nu este niciun mântuitor!"
+      },
+      {
+        "id": 9,
+        "stringRef": "Isaia 44:6",
+        "verse": "6. Aşa vorbeşte Domnul, Împăratul lui Israel şi Răscumpărătorul lui, Domnul oştirilor: „Eu sunt Cel dintâi şi Cel de pe Urmă, şi afară de Mine, nu este alt Dumnezeu."
+      },
+      {
+        "id": 10,
+        "stringRef": "Isaia 45:5",
+        "verse": "5. Eu sunt Domnul, şi nu mai este altul, afară de Mine nu este Dumnezeu. Eu te-am încins, înainte ca tu să Mă cunoşti."
+      },
+      {
+        "id": 11,
+        "stringRef": "Isaia 45:21÷22",
+        "verse": "21. Spuneţi-le şi aduceţi-i încoace, ca să se sfătuiască unii cu alţii! Cine a prorocit aceste lucruri de la început şi le-a vestit demult? Oare nu Eu, Domnul? Nu este alt Dumnezeu decât Mine, Eu sunt singurul Dumnezeu drept şi mântuitor, alt Dumnezeu afară de Mine nu este.\n22. Întoarceţi-vă la Mine, şi veţi fi mântuiţi toţi cei ce sunteţi la marginile pământului! Căci Eu sunt Dumnezeu, şi nu altul."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "Noul Testament (Marcu 12:29, Ioan 17:3, Rom. 3:29÷30, 1 Cor. 8:4÷6, Efes. 4:5÷6, 1 Tim. 1:17, 1 Tim. 2:5, Iacov 2:19)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Marcu 12:29",
+        "verse": "29. Isus i-a răspuns: „Cea dintâi este aceasta: «Ascultă Israele! Domnul Dumnezeul nostru este un singur Domn»;"
+      },
+      {
+        "id": 2,
+        "stringRef": "Ioan 17:3",
+        "verse": "3. Şi viaţa veşnică este aceasta: să Te cunoască pe Tine, singurul Dumnezeu adevărat, şi pe Isus Hristos pe care L-ai trimis Tu."
+      },
+      {
+        "id": 3,
+        "stringRef": "Rom. 3:29÷30",
+        "verse": "29. Sau, poate, Dumnezeu este numai Dumnezeul iudeilor? Nu este şi al Neamurilor? Da, este şi al Neamurilor;\n30. deoarece Dumnezeu este Unul singur, şi El va socoti neprihăniţi, prin credinţă, pe cei tăiaţi împrejur, şi tot prin credinţă şi pe cei netăiaţi împrejur."
+      },
+      {
+        "id": 4,
+        "stringRef": "1 Cor. 8:4÷6",
+        "verse": "4. Deci, cât despre mâncarea lucrurilor jertfite idolilor, ştim că în lume un idol este totuna cu nimic şi că nu este decât un singur Dumnezeu.\n5. Căci chiar dacă ar fi aşa numiţi „dumnezei” fie în cer, fie pe pământ (cum şi sunt în adevăr mulţi „dumnezei” şi mulţi „domni”),\n6. totuşi pentru noi nu este decât un singur Dumnezeu: Tatăl, de la care vin toate lucrurile şi pentru care trăim şi noi, şi un singur Domn: Isus Hristos, prin care sunt toate lucrurile, şi prin El şi noi."
+      },
+      {
+        "id": 5,
+        "stringRef": "Efes. 4:5÷6",
+        "verse": "5. Este un singur Domn, o singură credinţă, un singur botez.\n6. Este un singur Dumnezeu şi Tată al tuturor, care este mai presus de toţi, care lucrează prin toţi şi care este în toţi."
+      },
+      {
+        "id": 6,
+        "stringRef": "1 Tim. 1:17",
+        "verse": "17. Împăratului veacurilor, nemuritorului, nevăzutului, singurului Dumnezeu, să fie cinstea şi slava în vecii vecilor! Amin."
+      },
+      {
+        "id": 7,
+        "stringRef": "1 Tim. 2:5",
+        "verse": "5. Căci este un singur Dumnezeu şi un singur mijlocitor între Dumnezeu şi oameni: omul Isus Hristos,"
+      },
+      {
+        "id": 8,
+        "stringRef": "Iacov 2:19",
+        "verse": "19. Tu crezi că Dumnezeu este unul şi bine faci; dar şi dracii cred… şi se înfioară!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "Inexistența altor dumnezei - VT (Deut. 4:35, Deut. 32:39, Isaia 43:10÷11, Isaia 44:6, Isaia 44:8, Isaia 45:5÷6, Isaia 45:18, Isaia 45:21÷22)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Deut. 4:35",
+        "verse": "35. Numai tu ai fost martor la aceste lucruri, ca să cunoşti că numai Domnul este Dumnezeu şi că nu este alt Dumnezeu afară de El."
+      },
+      {
+        "id": 2,
+        "stringRef": "Deut. 32:39",
+        "verse": "10. „Voi sunteţi martorii Mei - zice Domnul - voi şi Robul Meu pe care L-am ales, ca să ştiţi, ca să Mă credeţi şi să înţelegeţi că Eu sunt: înainte de Mine n-a fost niciun dumnezeu, şi după Mine nu va fi.\n11. Eu, Eu sunt Domnul, şi afară de Mine nu este niciun mântuitor!"
+      },
+      {
+        "id": 3,
+        "stringRef": "Isaia 43:10÷11",
+        "verse": "10. „Voi sunteţi martorii Mei” - zice Domnul - „voi şi Robul Meu pe care L-am ales, ca să ştiţi, ca să Mă credeţi şi să înţelegeţi că Eu sunt: înainte de Mine n-a fost niciun dumnezeu, şi după Mine nu va fi.\n11. Eu, Eu sunt Domnul, şi afară de Mine nu este niciun mântuitor!"
+      },
+      {
+        "id": 4,
+        "stringRef": "Isaia 44:6",
+        "verse": "6. Aşa vorbeşte Domnul, Împăratul lui Israel şi Răscumpărătorul lui, Domnul oştirilor: „Eu sunt Cel dintâi şi Cel de pe Urmă, şi afară de Mine, nu este alt Dumnezeu."
+      },
+      {
+        "id": 5,
+        "stringRef": "Isaia 44:8",
+        "verse": "8. Nu vă temeţi şi nu tremuraţi; căci nu ţi-am vestit şi nu ţi-am spus Eu demult lucrul acesta? Voi Îmi sunteţi martori! Este oare un alt Dumnezeu afară de Mine? Nu este altă Stâncă, nu cunosc alta!”"
+      },
+      {
+        "id": 6,
+        "stringRef": "Isaia 45:5÷6",
+        "verse": "5. Eu sunt Domnul, şi nu mai este altul, afară de Mine nu este Dumnezeu. Eu te-am încins, înainte ca tu să Mă cunoşti.\n6. Ca să se ştie, de la răsăritul soarelui până la apusul soarelui, că afară de Mine nu este Dumnezeu: Eu sunt Domnul, şi nu este altul."
+      },
+      {
+        "id": 7,
+        "stringRef": "Isaia 45:18",
+        "verse": "18. Căci aşa vorbeşte Domnul, Făcătorul cerurilor, singurul Dumnezeu care a întocmit pământul, l-a făcut şi l-a întărit, l-a făcut nu ca să fie pustiu, ci l-a întocmit ca să fie locuit: ”Eu sunt Domnul, şi nu este altul!"
+      },
+      {
+        "id": 8,
+        "stringRef": "Isaia 45:21÷22",
+        "verse": "21. Spuneţi-le şi aduceţi-i încoace, ca să se sfătuiască unii cu alţii! Cine a prorocit aceste lucruri de la început şi le-a vestit demult? Oare nu Eu, Domnul? Nu este alt Dumnezeu decât Mine, Eu sunt singurul Dumnezeu drept şi mântuitor, alt Dumnezeu afară de Mine nu este.\n22. Întoarceţi-vă la Mine, şi veţi fi mântuiţi toţi cei ce sunteţi la marginile pământului! Căci Eu sunt Dumnezeu, şi nu altul."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "description": "Inexistența altor dumnezei - NT (1 Cor. 8:4, 1 Cor. 10:19÷20, Gal. 4:8)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Cor. 8:4",
+        "verse": "4. Deci, cât despre mâncarea lucrurilor jertfite idolilor, ştim că în lume un idol este totuna cu nimic şi că nu este decât un singur Dumnezeu."
+      },
+      {
+        "id": 2,
+        "stringRef": "1 Cor. 10:19÷20",
+        "verse": "19. Deci ce zic eu? Că un lucru jertfit idolilor este ceva? Sau că un idol este ceva?\n20. Dimpotrivă, eu zic că ce jertfesc Neamurile jertfesc dracilor, şi nu lui Dumnezeu. Şi eu nu vreau ca voi să fiţi în împărtăşire cu dracii."
+      },
+      {
+        "id": 3,
+        "stringRef": "Gal. 4:8",
+        "verse": "8. Odinioară, când nu cunoşteaţi pe Dumnezeu, eraţi robiţi celor ce din firea lor nu sunt dumnezei."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "Idolii sunt considerați deșertăciune, lucrare omenească, fără putere - VT (Deut. 4:28, Deut. 32:17, Ps. 96:5, Ps. 115:4÷8, Isaia 40:18÷20, Isaia 41:21÷24, Isaia 44:9÷10, Isaia 46:5÷7, Ier. 10:3÷5, Ier. 10:10÷11, Ier. 51:17÷18, Hab. 2:18÷19)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Deut. 4:28",
+        "verse": "28. Şi acolo veţi sluji unor dumnezei, care sunt o lucrare făcută de mâini omeneşti, de lemn şi de piatră, care nu pot nici să vadă, nici să audă, nici să mănânce, nici să miroasă."
+      },
+      {
+        "id": 2,
+        "stringRef": "Deut. 32:17",
+        "verse": "17. au adus jertfe dracilor, unor idoli care nu sunt dumnezei, unor dumnezei pe care nu-i cunoşteau, dumnezei noi, veniţi de curând, de care nu se temuseră părinţii voştri."
+      },
+      {
+        "id": 3,
+        "stringRef": "Ps. 96:5",
+        "verse": "5. Căci toţi dumnezeii popoarelor sunt nişte idoli, dar Domnul a făcut cerurile."
+      },
+      {
+        "id": 4,
+        "stringRef": "Ps. 115:4÷8",
+        "verse": "4. Idolii lor sunt argint şi aur, făcuţi de mâini omeneşti.\n5. Au gură, dar nu vorbesc, au ochi, dar nu văd,\n6. au urechi, dar n-aud, au nas, dar nu miros,\n7. au mâini, dar nu pipăie, picioare, dar nu merg; nu scot niciun sunet din gâtlejul lor.\n8. Ca ei sunt cei ce-i fac, toţi cei ce se încred în ei."
+      },
+      {
+        "id": 5,
+        "stringRef": "Isaia 40:18÷20",
+        "verse": "18. Cu cine voiţi să asemănaţi pe Dumnezeu? Şi cu ce asemănare Îl veţi asemăna?\n19. Meşterul toarnă idolul, şi argintarul îl îmbracă cu aur şi-i toarnă lănţişoare de argint.\n20. Iar cine este sărac alege ca dar un lemn care nu putrezeşte; îşi caută un meşter iscusit, ca să facă un idol care să nu se clatine."
+      },
+      {
+        "id": 6,
+        "stringRef": "Isaia 41:21÷24",
+        "verse": "21. Apăraţi-vă pricina - zice Domnul - arătaţi-vă dovezile cele mai tari, zice Împăratul lui Iacov.\n22. Să le arate şi să ne spună ce are să se întâmple; care sunt prorociile pe care le-aţi făcut vreodată? Spuneţi, ca să luăm seama la ele şi să le vedem împlinirea; sau vestiţi-ne viitorul.\n23. Spuneţi-ne ce se va întâmpla mai târziu, ca să ştim că sunteţi dumnezei, faceţi măcar ceva bun sau rău, ca să vedem şi să privim cu toţii.\n24. Iată că nu sunteţi nimic, şi lucrarea voastră este nimic; o scârbă este cine vă alege pe voi."
+      },
+      {
+        "id": 7,
+        "stringRef": "Isaia 44:9÷10",
+        "verse": "9. Cei ce fac idoli, toţi sunt deşertăciune, şi cele mai frumoase lucrări ale lor nu slujesc la nimic. Ele însele mărturisesc lucrul acesta: n-au nici vedere, nici pricepere, tocmai ca să rămână de ruşine.\n10. Cine este acela care să fi făcut un dumnezeu sau să fi turnat un idol, şi să nu fi tras niciun folos din el?"
+      },
+      {
+        "id": 8,
+        "stringRef": "Isaia 46:5÷7",
+        "verse": "5. Cu cine Mă veţi pune alături ca să Mă asemănaţi? Cu cine Mă veţi asemăna şi Mă veţi potrivi?\n6. Ei varsă aurul din pungă şi cântăresc argintul în cumpănă; tocmesc un argintar să facă un dumnezeu din ele şi se închină şi îngenunchează înaintea lui.\n7. Îl poartă, îl iau pe umăr, îl pun la locul lui; acolo rămâne, şi nu se mişcă din locul lui. Apoi strigă la el, dar nu răspunde, nici nu-i scapă din nevoie."
+      },
+      {
+        "id": 9,
+        "stringRef": "Ier. 10:3÷5",
+        "verse": "3. Căci obiceiurile popoarelor sunt deşarte. Taie un lemn din pădure; mâna meşterului îl lucrează cu securea;\n4. îl împodobeşte cu argint şi aur, şi ei îl ţintuiesc cu cuie şi ciocane ca să nu se clatine.\n5. Dumnezeii aceştia sunt ca o sperietoare de păsări într-un ogor de castraveţi şi nu vorbesc; sunt duşi de alţii, pentru că nu pot să meargă. Nu vă temeţi de ei, căci nu pot să facă niciun rău şi nu sunt în stare să facă niciun bine.”"
+      },
+      {
+        "id": 10,
+        "stringRef": "Ier. 10:10÷11",
+        "verse": "10. Dar Domnul este Dumnezeu cu adevărat, este un Dumnezeu viu şi un Împărat veşnic. Pământul tremură de mânia Lui, şi neamurile nu pot să sufere urgia Lui.\n11. Aşa să le vorbiţi: „Dumnezeii care n-au făcut nici cerurile, nici pământul vor pieri de pe pământ şi de sub ceruri."
+      },
+      {
+        "id": 11,
+        "stringRef": "Ier. 51:17÷18",
+        "verse": "17. Atunci orice om se vede cât este de prost cu ştiinţa lui, orice argintar rămâne ruşinat de chipurile lui cioplite; căci idolii lui nu sunt decât minciună şi n-au nicio suflare în ei!\n18. Sunt o nimica toată şi o lucrare de râs: când le vine pedeapsa, pier cu desăvârşire!"
+      },
+      {
+        "id": 12,
+        "stringRef": "Hab. 2:18÷19",
+        "verse": "18. La ce ar putea folosi un chip cioplit, pe care-l ciopleşte lucrătorul? La ce ar putea folosi un chip turnat care învaţă pe oameni minciuni, pentru ca lucrătorul care l-a făcut să-şi pună încrederea în el, pe când el făureşte numai nişte idoli muţi?\n19. Vai de cel ce zice lemnului: „Scoală-te”, şi unei pietre mute: „Trezeşte-te!” Poate ea să dea învăţătură? Iată că este împodobită cu aur şi argint, dar în ea nu este un duh care s-o însufleţească."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "Idolii sunt considerați deșertăciune, lucrare omenească, fără putere - NT (Fapte 14:15, Fapte 17:29, Efes. 2:12, 1 Tes. 1:9)",
+    "refs": [
+      {
+        "id": 13,
+        "stringRef": "Fapte 14:15",
+        "verse": "15. „Oamenilor, de ce faceţi lucrul acesta? Şi noi suntem oameni de aceeaşi fire cu voi; noi vă aducem o veste bună, ca să vă întoarceţi de la aceste lucruri deşarte la Dumnezeul cel Viu, care a făcut cerul, pământul şi marea şi tot ce este în ele."
+      },
+      {
+        "id": 14,
+        "stringRef": "Fapte 17:29",
+        "verse": "29. Astfel, dar, fiindcă suntem de neam din Dumnezeu, nu trebuie să credem că Dumnezeirea este asemenea aurului sau argintului sau pietrei cioplite cu meşteşugirea şi iscusinţa omului."
+      },
+      {
+        "id": 15,
+        "stringRef": "Efes. 2:12",
+        "verse": "12. aduceţi-vă aminte că în vremea aceea eraţi fără Hristos, fără drept de cetăţenie în Israel, străini de legămintele făgăduinţei, fără nădejde şi fără Dumnezeu în lume."
+      },
+      {
+        "id": 16,
+        "stringRef": "1 Tes. 1:9",
+        "verse": "9. Căci ei înşişi istorisesc ce primire ne-aţi făcut şi cum de la idoli v-aţi întors la Dumnezeu, ca să slujiţi Dumnezeului celui viu şi adevărat"
+      }
+    ]
+  }
+]

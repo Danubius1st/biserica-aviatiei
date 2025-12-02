@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "description": "Despre unicitatea lui Dumnezeu",
+    "href": "/admin-topics/god-uniqueness"
+  },
+  {
+    "id": 2,
+    "description": "Despre pofte",
+    "href": "/admin-topics/desires"
+  },
+  {
+    "id": 3,
+    "description": "Despre curvie și preacurvie",
+    "href": "/admin-topics/adultery"
+  },
+  {
+    "id": 4,
+    "description": "Despre disciplinarea copiilor",
+    "href": "/admin-topics/education"
+  },
+  {
+    "id": 5,
+    "description": "Despre cum să-ți trăiești viața",
+    "href": "/admin-topics/bible-tips"
+  }
+]

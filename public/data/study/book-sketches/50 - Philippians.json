@@ -1,0 +1,104 @@
+{
+  "id": 50,
+  "book": "Filipeni",
+  "sketches": [
+    {
+      "id": 1,
+      "sketch": "Salutări și mulțumiri pentru parteneriatul evanghelic (Filip. 1:1÷11)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Salutul lui Pavel (Filip. 1:1÷2)"
+        },
+        {
+          "id": 2,
+          "hint": "Mulțumirea lui Pavel pentru parteneriatul în Evanghelie (Filip. 1:3÷5)"
+        },
+        {
+          "id": 3,
+          "hint": "Rugăciunea lui Pavel pentru creșterea spirituală (Filip. 1:6÷11)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sketch": "Înaintarea Evangheliei și suferințele lui Pavel (Filip. 1:12÷30)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Împrejurările suferinței apostolice au contribuit la progresul Evangheliei (Filip. 1:12÷14)"
+        },
+        {
+          "id": 2,
+          "hint": "Predicarea lui Hristos: din motivații diverse, dar cu rezultate reale (Filip. 1:15÷18)"
+        },
+        {
+          "id": 3,
+          "hint": "Tensiunea între dorința de a fi cu Hristos și misiunea de a rămâne în trup (Filip. 1:19÷26)"
+        },
+        {
+          "id": 4,
+          "hint": "Chemare la o viață vrednică de Evanghelie, indiferent de persecuție (Filip. 1:27÷30)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sketch": "Modelul lui Hristos și chemarea la unitate (Filip. 2:1÷30)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Îndemn la umilință și unitate în comunitatea credincioșilor (Filip. 2:1÷4)"
+        },
+        {
+          "id": 2,
+          "hint": "Imnul cristologic - umilirea și înălțarea lui Hristos (Filip. 2:5÷11)"
+        },
+        {
+          "id": 3,
+          "hint": "Mântuirea lucrată „cu frică și cutremur” - sinergia harului și responsabilității (Filip. 2:12÷18)"
+        },
+        {
+          "id": 4,
+          "hint": "Exemple de slujire devotată: Timotei și Epafrodit (Filip. 2:19÷30)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sketch": "Avertisment împotriva iudaizării (Filip. 3:1÷21)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Renunțarea la meritele personale în favoarea cunoașterii lui Hristos (Filip. 3:1÷11)"
+        },
+        {
+          "id": 2,
+          "hint": "Pavel - exemplu de perseverență în alergarea spre ținta chemării cerești (Filip. 3:12÷16)"
+        },
+        {
+          "id": 3,
+          "hint": "Cetățenia cerească și așteptarea transformării finale (Filip. 3:17÷21)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sketch": "Îndemnuri finale și mulțumire pentru generozitate (Filip. 4:1÷23)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Îndemnuri la unitate, bucurie, blândețe și rugăciune (Filip. 4:1÷9)"
+        },
+        {
+          "id": 2,
+          "hint": "Pavel, independent de circumstanțe, dar recunoscător pentru sprijinul filipenilor (Filip. 4:10÷20)"
+        },
+        {
+          "id": 3,
+          "hint": "Îndemn la generozitate și mulțumire pentru darurile primite (Filip. 4:21÷23)"
+        }
+      ]
+    }
+  ]
+}

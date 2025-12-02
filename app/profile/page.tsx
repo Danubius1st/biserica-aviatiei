@@ -1,0 +1,105 @@
+import { auth } from '@/lib/auth/auth';
+import { headers } from 'next/headers';
+import { SignOutButton } from '@/components/ui/auth/sign-out-button';
+import { ReturnButton } from '@/components/ui/custom/return-button';
+import { redirect } from 'next/navigation';
+import { Button } from '@/components/ui/button';
+import Link from 'next/link';
+import Image from 'next/image';
+import { landingPath, loginPath } from '@/middleware/routes';
+import { ChangePasswordForm } from '@/components/auth/change-password-form';
+import { UpdateUserForm } from '@/components/auth/update-user-form';
+
+export default async function Page() {
+  const headersList = await headers();
+  const session = await auth.api.getSession({
+    headers: headersList
+  });
+  // console.log({ session });
+
+  if (!session) {
+    // return <p className='text-destructive'>Unauthorized</p>;
+    redirect(loginPath);
+  }
+
+  const FULL_POST_ACCESS = await auth.api.userHasPermission({
+    headers: headersList,
+    body: {
+      userId: session.user.id,
+      permission: {
+        posts: ['update', 'delete']
+      }
+    }
+  });
+
+  return (
+    <div className='px-8 py-16 container mx-auto max-w-5xl space-y-8'>
+      <SignOutButton />
+
+      <div className='space-y-8'>
+        <ReturnButton
+          href={landingPath}
+          label='Home'
+        />
+        <h1 className='text-3xl font-bold'>Profile</h1>
+      </div>
+
+      {/*
+       <div className='flex items-center gap-2'>
+        {session.user.role === 'ADMIN' && (
+          <Button
+            size='sm'
+            asChild
+          >
+            <Link href='/admin/dashboard'>
+              Admin Dashboard
+            </Link>
+          </Button>
+        )}
+        <SignOutButton />
+      </div>
+*/}
+
+      <div className='text-2x font-bold'>
+        Permissions
+      </div>
+
+      <div className='space-x-4'>
+        <Button size='sm'>MANAGE OWN POSTS</Button>
+        <Button size='sm' disabled={!FULL_POST_ACCESS.success}>MANAGE ALL POSTS</Button>
+      </div>
+
+      {session.user.image
+        ? <Image
+          src={session.user.image}
+          alt='user image'
+          width={32}
+          height={32}
+          className='size-32 border border-primary rounded-md object-cover'
+        />
+        : <div className='flex items-center justify-center size-24 border border-primary rounded-md bg-primary text-primary-foreground'>
+          <span className='uppercase text-lg font-bold'>
+            {session.user.name.slice(0, 2)}
+          </span>
+        </div>}
+
+      <pre className='text-sm overflow-clip'>
+        {JSON.stringify(session, null, 2)}
+      </pre>
+
+      <div className='space-y-4 p-4 rounded-b-md border border-t-8 border-blue-600'>
+        <h2 className='text-2xl font-bold'>Update User</h2>
+
+        <UpdateUserForm
+          name={session.user.name}
+          image={session.user.image ?? ''} />
+      </div>
+
+      <div className='space-y-4 p-4 rounded-b-md border border-t-8 border-red-600'>
+        <h2 className='text-2xl font-bold'>Change Password</h2>
+
+        <ChangePasswordForm />
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "author": "David",
+    "title": "Doamne, Dumnezeul nostru, cât de minunat este Numele Tău",
+    "number": 8,
+    "category": "Laudă",
+    "subcategory": null
+  },
+  {
+    "id": 2,
+    "author": "David",
+    "title": "Cerurile spun slava lui Dumnezeu",
+    "number": 19,
+    "category": "Laudă",
+    "subcategory": null
+  },
+  {
+    "id": 3,
+    "author": "David",
+    "title": "Te înalț, Doamne, căci m-ai ridicat",
+    "number": 30,
+    "category": "Mulțumire",
+    "subcategory": null
+  },
+  {
+    "id": 4,
+    "author": "David",
+    "title": "Voi binecuvânta pe Domnul în orice vreme",
+    "number": 34,
+    "category": "Mulțumire",
+    "subcategory": null
+  },
+  {
+    "id": 5,
+    "author": "David",
+    "title": "Ai milă de mine, Dumnezeule",
+    "number": 51,
+    "category": "Pocăință",
+    "subcategory": null
+  },
+  {
+    "id": 6,
+    "author": "David",
+    "title": "Doamne, ascultă rugăciunea mea",
+    "number": 143,
+    "category": "Pocăință",
+    "subcategory": null
+  },
+  {
+    "id": 7,
+    "author": "David",
+    "title": "Domnul este Păstorul meu",
+    "number": 23,
+    "category": "Încredere",
+    "subcategory": null
+  },
+  {
+    "id": 8,
+    "author": "Moise",
+    "title": "Cel ce stă sub ocrotirea Celui Preaînalt",
+    "number": 91,
+    "category": "Încredere",
+    "subcategory": null
+  },
+  {
+    "id": 9,
+    "author": "David",
+    "title": "Doamne, de ce m-ai uitat?",
+    "number": 13,
+    "category": "Lamentație",
+    "subcategory": "Individuală"
+  },
+  {
+    "id": 10,
+    "author": "necunoscut",
+    "title": "O, Dumnezeule, de ce ne-ai părăsit?",
+    "number": 44,
+    "category": "Lamentație",
+    "subcategory": "Colectivă"
+  },
+  {
+    "id": 11,
+    "author": "David",
+    "title": "Tu ești Fiul Meu",
+    "number": 2,
+    "category": "Regal / Mesianic",
+    "subcategory": null
+  },
+  {
+    "id": 12,
+    "author": "David",
+    "title": "Ferice de omul care nu se duce la sfatul celor răi",
+    "number": 1,
+    "category": "Înțelepciune / Didactic",
+    "subcategory": null
+  },
+  {
+    "id": 13,
+    "author": "Asaf",
+    "title": "Amintește-ți, Doamne, de poporul Tău",
+    "number": 78,
+    "category": "Istoric",
+    "subcategory": null
+  },
+  {
+    "id": 14,
+    "author": "fiii lui Core",
+    "title": "O, cât de binecuvântat este cel ce se încrede în Domnul",
+    "number": 84,
+    "category": "Liturgic / Pelerinaj",
+    "subcategory": null
+  },
+  {
+    "id": 15,
+    "author": "David",
+    "title": "Doamne, lovește-i pe cei răi",
+    "number": 35,
+    "category": "Imprecator / Judecată",
+    "subcategory": null
+  }
+]

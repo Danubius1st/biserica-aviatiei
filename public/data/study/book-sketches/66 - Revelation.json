@@ -1,0 +1,425 @@
+{
+  "id": 66,
+  "book": "Apocalipsa",
+  "sketches": [
+    {
+      "id": 1,
+      "sketch": "Introducere și fundament pentru viziunile ulterioare (Apoc. 1)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Prolog - prezentarea scopului (dezvăluirea lui Isus Hristos) și binecuvântarea pentru cei care citesc și păzesc cuvintele cărții. (Apoc. 1:1÷3)"
+        },
+        {
+          "id": 2,
+          "hint": "Salutul adresat celor șapte biserici din Asia Mică, cu referire la Trinitate. (Apoc. 1:4÷8)"
+        },
+        {
+          "id": 3,
+          "hint": "Viziunea lui Ioan despre Hristos glorificat, descrierea aspectului Său și mesajul adresat bisericilor. (Apoc. 1:9÷20)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sketch": "Mesaje distincte către patru biserici (Apoc. 2)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Mesaj către biserica din Efes. (Apoc. 2:1÷7), Smirna (Apoc. 2:8÷11), Pergam (Apoc. 2:12÷17), Tiatira (Apoc. 2:18÷24)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sketch": "Mesaje distincte către alte trei biserici (Apoc. 3)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Mesaj către biserica din Sardes. (Apoc. 3:1÷6), Filadelfia (Apoc. 3:7÷13), Laodicea (Apoc. 3:14÷22)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sketch": "Viziune a tronului ceresc (Apoc. 4)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziunea tronului lui Dumnezeu și a celor 24 de bătrâni. (Apoc. 4:1÷11)"
+        },
+        {
+          "id": 2,
+          "hint": "Viziunea celor patru făpturi vii: leu, vițel, om și vultur (Apoc. 4:6÷8), care reflectă atributele creației (putere, slujire, rațiune, spiritualitate)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sketch": "Deschiderea sulului cu cele șapte peceți (Apoc. 5)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziunea Mielului care ia cartea cu cele șapte peceți. (Apoc. 5:1÷7)"
+        },
+        {
+          "id": 2,
+          "hint": "Reacția celor 24 de bătrâni și a celor patru făpturi vii. (Apoc. 5:8÷14)"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sketch": "Deschiderea primelor șase peceți ale sulului (Apoc. 6)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Deschiderea primei peceți - calul alb (Apoc. 6:1÷2). Introducerea judecăților divine prin acțiunea Mielului."
+        },
+        {
+          "id": 2,
+          "hint": "Deschiderea celei de-a doua peceți - calul roșu (Apoc. 6:3÷4). Simbol al războiului și al conflictului, reflectând haosul social."
+        },
+        {
+          "id": 3,
+          "hint": "Deschiderea celei de-a treia peceți - calul negru (Apoc. 6:5÷6). Simbol al foametei și al crizei economice, cu restricții severe asupra resurselor."
+        },
+        {
+          "id": 4,
+          "hint": "Deschiderea celei de-a patra peceți - calul gălbui (Apoc. 6:7÷8). Simbol al morții și al distrugerii, aducând o atmosferă de teroare."
+        },
+        {
+          "id": 5,
+          "hint": "Deschiderea celei de-a cincea peceți - sufletele celor uciși (Apoc. 6:9÷11). Simbol al martirilor creștini, reflectând suferința Bisericii și speranța răscumpărării."
+        },
+        {
+          "id": 6,
+          "hint": "Deschiderea celei de-a șasea peceți - cutremurul și semnele din cer (Apoc. 6:12÷17), o viziune a sfârșitului timpului. Evenimentele afectează întregul univers, subliniind suveranitatea divină (Isaia 13:10, Matei 24:29)."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sketch": "Sigilarea celor 144.000 de slujitori ai lui Dumnezeu (Apoc. 7)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziunea celor patru îngeri și pecetluirea robilor lui Dumnezeu (Apoc. 7:1÷8):\n- Patru îngeri stau la colțurile pământului, împiedicând vânturile (simbol al judecății); indică o amânare temporară a catastrofei, pentru a permite pecetluirea."
+        },
+        {
+          "id": 2,
+          "hint": "Un alt înger vine de la răsărit, purtând „pecetea Dumnezeului celui viu”, ca să nu vatăme pământul până ce robii lui Dumnezeu nu vor fi pecetluiți pe frunte."
+        },
+        {
+          "id": 3,
+          "hint": "Numărul celor pecetluiți este de 144.000 din cele 12 triburi ale lui Israel (câte 12.000 din fiecare)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sketch": "Viziunea mulțimii nenumărate din toate neamurile (Apoc. 7:9÷17)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Caracteristicile mulțimii (Apoc. 7:9÷10):\n- O mulțime mare\n- Din toate neamurile, semințiile, popoarele și limbile\n- Îmbrăcați în haine albe (simbolul purității, mântuirii)\n- Țin ramuri de finic (simbol al biruinței și sărbătorii)\n- strigă cu glas tare, proclamând mântuirea care vine de la Dumnezeu și de la Miel."
+        },
+        {
+          "id": 2,
+          "hint": "Reacția corului ceresc (Apoc. 7:11÷12):\n- Îngerii, bătrânii și cele patru făpturi vii se închină lui Dumnezeu.\n- Proclamă lauda, slava, înţelepciunea, mulţumirile, cinstea, puterea şi tăria lui Dumnezeu pentru totdeauna."
+        },
+        {
+          "id": 3,
+          "hint": "Dialogul cu unul dintre bătrâni (Apoc. 7:13÷14):\n- Unul dintre bătrâni întreabă cine sunt aceștia și de unde vin. Răspunsul este că sunt cei care au trecut prin mare necaz și și-au spălat veșmintele în sângele Mielului."
+        },
+        {
+          "id": 4,
+          "hint": "Statutul și binecuvântarea mulțimii (Apoc. 7:15÷17):\n- Aceștia slujesc lui Dumnezeu zi și noapte în templul Său și vor locui în prezența Sa pentru totdeauna, fiind protejați de orice suferință."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sketch": "Deschiderea celei de-a șaptea peceți (Apoc. 8)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Deschiderea celei de-a șaptea peceți - tăcerea din cer (Apoc. 8:1). O pauză solemnă înainte de judecățile finale."
+        },
+        {
+          "id": 2,
+          "hint": "Șapte îngeri stau înaintea lui Dumnezeu, pregătindu-se să anunțe judecățile (Apoc. 8:2)."
+        },
+        {
+          "id": 3,
+          "hint": "Îngerul cu cădelnița de aur primește tămâie pentru a o adăuga rugăciunilor sfinților (Apoc. 8:3÷4)."
+        },
+        {
+          "id": 4,
+          "hint": "Îngerul aruncă tămâia pe pământ, provocând fulgere, voci și cutremure (Apoc. 8:5)."
+        },
+        {
+          "id": 5,
+          "hint": "Cei șapte îngeri se pregătesc să sune (Apoc. 8:6)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "sketch": "Primele patru trâmbițe (Apoc. 8:7÷12)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Prima trâmbiță (Apoc. 8:7):\n- Grindină și foc amestecat cu sânge.\n- O treime din pământ, copaci și iarbă arse."
+        },
+        {
+          "id": 2,
+          "hint": "A doua trâmbiță (Apoc. 8:8÷9):\n- Un munte de foc aruncat în mare.\n- O treime din mare devine sânge.\n- O treime din viețuitoarele marine și corăbii distruse."
+        },
+        {
+          "id": 3,
+          "hint": "A treia trâmbiță (Apoc. 8:10÷11):\n- O stea mare cade din cer numită „Absint” (greacă)/„Pelin”.\n- O treime din ape devin amare, mulți oameni mor."
+        },
+        {
+          "id": 4,
+          "hint": "A patra trâmbiță (Apoc. 8:12):\n- O treime din soare, lună și stele este lovită.\n- Ziua devine întunecată."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sketch": "Anunțul celor trei vaiuri (Apoc. 8:13)",
+      "hints": []
+    },
+    {
+      "id": 12,
+      "sketch": "A cincea trâmbiță - lăcustele apocaliptice (Apoc. 9:1÷12)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "O stea/înger (Isaia 14:12; Luca 10:18) cade din cer și i se dă cheia fântânii Adâncului (Apoc. 9:1)."
+        },
+        {
+          "id": 2,
+          "hint": "Deschiderea Adâncului eliberează fum (Apoc. 9:2). Simbol al haosului și al puterii demonice."
+        },
+        {
+          "id": 3,
+          "hint": "Lăcustele apocaliptice (Apoc. 9:3÷10).\n- Ieșite din fum, au puterea de a răni oamenii care nu au pecetea lui Dumnezeu pe frunte (Apoc. 9:4).\n- Nu le este dată puterea de a ucide, ci de a chinui timp de cinci luni (Apoc. 9:5)."
+        },
+        {
+          "id": 4,
+          "hint": "Împăratul lăcustelor (Apoc. 9:11): Abaddon (în ebraică) / Apolion (în greacă) = „nimicitorul”."
+        },
+        {
+          "id": 5,
+          "hint": "Se termină prima nenorocire (Apoc. 9:12)."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "sketch": "A șasea trâmbiță - armata de 200 de milioane (Apoc. 9:13÷21)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Al șaselea înger sună; patru îngeri legați la râul Eufrat sunt dezlegați. (Apoc. 9:13÷14)."
+        },
+        {
+          "id": 2,
+          "hint": "Misiunea îngerilor dezlegați: uciderea unei treimi din oameni (Apoc. 9:14)."
+        },
+        {
+          "id": 3,
+          "hint": "Eliberarea celor patru îngeri legați la Râul Eufrat (Apoc. 9:14÷15)."
+        },
+        {
+          "id": 4,
+          "hint": "O armată de 200 de milioane de călăreți (Apoc. 9:16).\n- Fiecare călăreț are un cal roșu, negru sau alb.\n- Puterea lor constă în coarnele și coifurile lor de foc, fum și pucioasă."
+        },
+        {
+          "id": 5,
+          "hint": "Efectele armatei asupra omenirii (Apoc. 9:17÷19).\n- O treime din oameni sunt uciși prin aceste mijloace."
+        },
+        {
+          "id": 6,
+          "hint": "Reacția oamenilor rămași (Apoc. 9:20÷21).\n- Nu se pocăiesc, continuând să se închine idolilor și să comită păcate."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "sketch": "Viziunea unui înger puternic și a sulului mic (Apoc. 10)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Descrierea îngerului (Apoc. 10:1)"
+        },
+        {
+          "id": 2,
+          "hint": "Îngerul ține în mână un sul mic (Apoc. 10:2)"
+        },
+        {
+          "id": 3,
+          "hint": "Strigătul puternic și cei șapte tunete (Apoc. 10:3÷4)"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "sketch": "Jurământul îngerului (Apoc. 10:5÷7)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Îngerul ridică mâna spre cer (gest de jurământ solemn)."
+        },
+        {
+          "id": 2,
+          "hint": "Jură pe „Cel ce trăiește în vecii vecilor, care a făcut cerul, pământul și marea”."
+        },
+        {
+          "id": 3,
+          "hint": "Jură că nu va mai fi timp (sau întârziere), adică planul lui Dumnezeu ajunge la împlinire."
+        },
+        {
+          "id": 4,
+          "hint": "Jură că „în zilele în care îngerul al şaptelea va suna din trâmbiţa lui, se va sfârşi taina lui Dumnezeu” (Apoc. 10:7) cum a vestit prin slujitorii Săi, prorocii (Amos 3:7, Daniel 2:28÷30, Rom. 16:25÷26, Efes. 1:9÷10, Efes. 3:3÷6, Col. 1:26÷27, Apoc. 11:15, Apoc. 1:20).\n- „Taina lui Dumnezeu” - planul ascuns al mântuirii și al judecății, acum adus la lumină."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "sketch": "Ioan mănâncă sulul mic (Apoc. 10:8÷11)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Porunca îngerului către Ioan de a mânca sulul mic (Apoc. 10:8)"
+        },
+        {
+          "id": 2,
+          "hint": "Mâncarea sulului este dulce în gură, dar amară în stomac (Apoc. 10:9).\n- Simbolizează bucuria și privilegiul de a primi revelația lui Dumnezeu, dar și durerea și responsabilitatea de a o transmite lumii."
+        },
+        {
+          "id": 3,
+          "hint": "Porunca îngerului către Ioan de a profeți din nou (Apoc. 10:10÷11).\n- Indică faptul că Ioan are un rol continuu în comunicarea mesajului divin, în ciuda dificultăților și opoziției."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "sketch": "Măsurarea templului (Apoc. 11:1÷2)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Ioan primește o trestie ca toiag de măsurat."
+        },
+        {
+          "id": 2,
+          "hint": "Trebuie să măsoare templul lui Dumnezeu, altarul și pe cei ce se închină în el.\n- Act de protecție și delimitare:\n- În VT profetul măsoară templul viitor, ca simbol al prezenței și ordinii divine (Ezec. 40÷48)\n- Ierusalimul e măsurat pentru a arăta că e sub protecția lui Dumnezeu (Zah. 2:1÷5)."
+        },
+        {
+          "id": 3,
+          "hint": "Curtea de afară a templului este lăsată ne-măsurată, fiind dată neamurilor un timp de 42 de luni.\n- Simbolizează faptul că neamurile vor avea un rol limitat în planul lui Dumnezeu (Dan. 9:27; Mat. 24:15) și al al persecuției poporului lui Dumnezeu pentru o perioadă limitată."
+        },
+        {
+          "id": 4,
+          "hint": "Curtea de afară.\nTemplul avea:\n- Sfânta și Sfânta Sfintelor - acces rezervat preoților.\n - Curtea interioară - pentru israeliți.\n- Curtea de afară (sau a neamurilor) - unde păgânii aveau acces, dar nu în locurile sfinte."
+        },
+        {
+          "id": 5,
+          "hint": "Cele 42 de luni 42 de luni = 3 ani și jumătate = 1.260 zile (Dan. 7:25, Dan. 12:7, Apoc. 11:2÷3, Apoc. 12:6, Apoc. 12:14)\n- Perioada de persecuție și încercare pentru poporul lui Dumnezeu.\nDumnezeu permite o perioadă de persecuție, dar este protejat în dimensiunea spirituală (credința și mântuirea lor)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "sketch": "Cei doi martori, îmbrăcaţi în saci (Apoc. 11:3÷14)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Misiunea lor (Apoc. 11:3÷6):\n- Primesc putere să prorocească 1.260 de zile (42 de luni / 3 ani și jumătate).\n- Descriși ca „doi măslini și doi sfeșnice” (Zah. 4:2÷14).\n- Puteri profetice asemănătoare cu Moise (apele prefăcute în sânge, plăgi) și Ilie (închiderea cerului, foc care mistuie dușmanii)."
+        },
+        {
+          "id": 2,
+          "hint": "Moartea lor (Apoc. 11:7÷10):\n- Fiara care se ridică din Adânc îi va birui și ucide.\n- Trupurile lor zac pe strada cetății mari (simbolic numită Sodoma și Egipt, unde a fost răstignit și Domnul).\n- Locuitorii pământului se bucură și își trimit daruri unii altora - o parodie a sărbătorii."
+        },
+        {
+          "id": 3,
+          "hint": "Învierea și înălțarea lor (Apoc. 11:11÷12):\n- După trei zile și jumătate, Duhul vieții de la Dumnezeu intră în ei\n- Se ridică în picioare; oamenii sunt cuprinși de groază.\n- O voce cerească îi cheamă, iar ei se înalță la cer într-un nor."
+        },
+        {
+          "id": 4,
+          "hint": "Reacția cerului și a pământului (Apoc. 11:13÷14):\n- Un cutremur mare lovește cetatea, ucigând 7.000 de oameni.\n- Cei rămași se înfricoșează și slăvesc pe Dumnezeu.\n- Se termină a doua nenorocire."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "sketch": "A șaptea trâmbiță - proclamarea împărăției lui Dumnezeu (Apoc. 11:15÷19)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Sunetul celei de-a șaptea trâmbițe (Apoc. 11:15):\n- Anunță că împărăția lumii a devenit împărăția Domnului și a Hristosului Său.\n- Reflectă triumful final al lui Dumnezeu asupra răului și instaurarea domniei Sale veșnice."
+        },
+        {
+          "id": 2,
+          "hint": "Reacția celor din cer (Apoc. 11:16÷18):\n- Cei douăzeci și patru de bătrâni se închină lui Dumnezeu, recunoscând suveranitatea Sa.\n- Mulțumesc pentru judecata asupra celor morți și pentru răsplătirea celor ce Îl slujesc."
+        },
+        {
+          "id": 3,
+          "hint": "Deschiderea templului ceresc (Apoc. 11:19):\n- Arca legământului este văzută în templul ceresc, simbolizând prezența și credincioșia lui Dumnezeu față de poporul Său.\n- Semn al legământului continuu între Dumnezeu și poporul Său, în ciuda judecăților care au avut loc."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "sketch": "Semnul femeii și nașterea copilului (Apoc. 12:1÷6)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Femeia (Apoc. 12:1÷2): simbolizează poporul lui Dumnezeu (Israelul mesianic, apoi Biserica)."
+        },
+        {
+          "id": 2,
+          "hint": "Balaurul (Apoc. 12:3÷4): simbolizează puterea satanică care se opune poporului lui Dumnezeu.\n- Trage a treia parte din stelele cerului și le aruncă pe pământ (simbol al îngerilor căzuți)."
+        },
+        {
+          "id": 3,
+          "hint": "Copilul (Apoc. 12:5÷6): simbolizează nașterea lui Isus Hristos, Mântuitorul lumii.\n- Copilul este răpit la Dumnezeu și la tronul Său (simbol al înălțării și glorificării lui Hristos).\n - Femeia fuge în pustie, unde este protejată de Dumnezeu pentru 1.260 de zile (simbol al protecției divine asupra poporului Său în vremuri de încercare)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "sketch": "Războiul în cer (Apoc. 12:7÷12)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Lupta îngerilor (Apoc. 12:7÷9):\n- Mihail, arhanghelul, conduce o luptă împotriva balaurului (Satan) și a îngerilor săi căzuți.\n- Balaurul este învins și aruncat pe pământ, simbolizând înfrângerea puterilor răului."
+        },
+        {
+          "id": 2,
+          "hint": "Cântarea victoriei (Apoc. 12:10÷12):\n- O voce cerească proclamă mântuirea, puterea și împărăția lui Dumnezeu.\n- Satana, „pârâșul fraților noștri”, este doborât.\n- Credincioșii au biruit „prin sângele Mielului și prin cuvântul mărturisirii lor”.\n- Cerul se bucură, dar pământul este avertizat: Satana a coborât cu mânie mare, știind că are puțină vreme."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "sketch": "Urmărirea femeii (Apoc. 12:13÷17)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Persecuția femeii (Apoc. 13÷14):\n- Balaurul o urmărește pe femeie după ce a pierdut lupta din cer."
+        },
+        {
+          "id": 2,
+          "hint": "Atacul apei (Apoc. 15÷16)"
+        },
+        {
+          "id": 3,
+          "hint": "Răzbunarea balaurului (Apoc. 17)"
+        }
+      ]
+    }
+  ]
+}

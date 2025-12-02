@@ -1,0 +1,2911 @@
+[
+  {
+    "id": 1,
+    "ord": 1,
+    "question": "Dacă Dumnezeu este bun, de ce este atâta rău în lume ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Oamenii au folosit libertatea de alegere în scopuri păcătoase, deși au cunoscut legea lui Dumnezeu. Răul din lume este consecința păcatului. Oamenii și-au construit propriul cod moral și au ignorat legea lui Dumnezeu."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ord": 1,
+    "question": "Predestinare sau alegere liberă ? (Rom. 8:29÷30, Efes.1:4÷6, Mal. 1:2÷3, Rom. 9:13)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Rom. 8:29÷30",
+        "verse": "29. Căci pe aceia pe care i-a cunoscut mai dinainte, i-a şi hotărât mai dinainte să fie asemenea chipului Fiului Său, pentru ca El să fie Cel întâi născut dintre mai mulţi fraţi.\n30. Şi pe aceia pe care i-a hotărât mai dinainte, i-a şi chemat; şi pe aceia pe care i-a chemat, i-a şi socotit neprihăniţi; iar pe aceia pe care i-a socotit neprihăniţi, i-a şi proslăvit."
+      },
+      {
+        "id": 2,
+        "stringRef": "Efes.1:4÷6",
+        "verse": "4. În El, Dumnezeu ne-a ales înainte de întemeierea lumii, ca să fim sfinţi şi fără prihană înaintea Lui, după ce, în dragostea Lui,\n5. ne-a rânduit mai dinainte să fim înfiaţi prin Isus Hristos, după buna plăcere a voii Sale,\n6. spre lauda slavei harului Său pe care ni l-a dat în Preaiubitul Lui."
+      },
+      {
+        "id": 3,
+        "stringRef": "Mal. 1:2÷3",
+        "verse": "2. „V-am iubit”, zice Domnul! Şi voi ziceţi: „Cu ce ne-ai iubit?” Nu este Esau frate cu Iacov? - zice Domnul; totuşi am iubit pe Iacov,\n3. şi am urât pe Esau, i-am prefăcut munţii într-o pustietate, şi moştenirea lui am dat-o şacalilor din pustiu."
+      },
+      {
+        "id": 4,
+        "stringRef": "Rom. 9:13",
+        "verse": "13. după cum este scris: „Pe Iacov l-am iubit, iar pe Esau l-am urât.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Într-o lume creată de Dumnezeu putem funcționa după legile lui Dumnezeu (1 Cor. 6:12).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 6:12",
+            "verse": "12. Toate lucrurile îmi sunt îngăduite, dar nu toate sunt de folos; toate lucrurile îmi sunt îngăduite, dar nimic nu trebuie să pună stăpânire pe mine."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Putem alege să și respingem legile lui Dumnezeu, dar asta are ca urmare propria condamnare (1 Cor. 10:23).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 10:23",
+            "verse": "23. Toate lucrurile sunt îngăduite, dar nu toate sunt de folos. Toate lucrurile sunt îngăduite, dar nu toate zidesc."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Isus vede cu regret alegerea geșită a oamenilor (Matei 23:37)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 23:37",
+            "verse": "37. Ierusalime, Ierusalime, care omori pe proroci şi ucizi cu pietre pe cei trimişi la tine! De câte ori am vrut să strâng pe copiii tăi cum îşi strânge găina puii sub aripi, şi n-aţi vrut!"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Isus a făcut primul pas spre oameni (Ioan 3:20).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 3:20",
+            "verse": "20. Iată Eu stau la uşă şi bat. Dacă aude cineva glasul Meu şi deschide uşa, voi intra la el, voi cina cu el, şi el cu Mine."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Ucenicia la Domnul Isus este benevolă (Matei 16:24).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 16:24",
+            "verse": "24. Atunci Isus a zis ucenicilor Săi: „Dacă voieşte cineva să vină după Mine, să se lepede de sine, să-şi ia crucea şi să Mă urmeze.”"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "hint": "Dacă omul n-ar fi înzestrat cu voință liberă, atunci n-ar avea nici un rost și nici un înțeles toate sfaturile, îndemnurile, poruncile și legile ce i se dau. N-ar putea fi vorba nici de virtute, nici de păcat, nici de răsplată, nici de pedeapsă și nici de răspundere. Căci cum i s-ar putea cere omului socoteală pentru o faptă pe care el n-ar fi avut libertatea să o facă ? Răspundere are omul numai pentru faptele pe care le-a săvârșit în deplină libertate și conștiință, și nicidecum pentru cele pe care le-a săvârșit din constrângere (Deut. 30:19÷20).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 30:19÷20",
+            "verse": "19. Iau azi cerul şi pământul martori împotriva voastră că ţi-am pus înainte viaţa şi moartea, binecuvântarea şi blestemul. Alege viaţa, ca să trăieşti, tu şi sămânţa ta,\n20. iubind pe Domnul Dumnezeul tău, ascultând de glasul Lui şi lipindu-te de El: căci de aceasta atârnă viaţa ta şi lungimea zilelor tale, şi numai aşa vei putea locui în ţara pe care a jurat Domnul că o va da părinţilor tăi, lui Avraam, Isaac şi Iacov."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "hint": "Totuși vointa omului nu e liberă să întreprindă nimic contrar scopurilor lui Dumnezeu (Prov. 16:9).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 16:9",
+            "verse": "9. Inima omului se gândeşte pe ce cale să meargă, dar Domnul îi îndreaptă paşii."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "hint": "Omul nu-și poate decide soarta (Ier. 10:23).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ier. 10:23",
+            "verse": "23. Ştiu, Doamne, că soarta omului nu este în puterea lui; nici nu stă în puterea omului, când umblă să-şi îndrepte paşii spre ţintă."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ord": 1,
+    "question": "Dacă Isus și tatăl sunt una, de ce se roagă Isus ? (Matei 26:39, Ioan 11:41÷42, Marcu 14:32, Luca 11:1)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 26:39",
+        "verse": "Tată, dacă este cu putinţă, depărtează de la Mine paharul acesta! Totuşi nu cum voiesc Eu, ci cum voieşti Tu."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ioan 11:41÷42",
+        "verse": "Tată, Îţi mulţumesc că M-ai ascultat.\n42. Ştiam că totdeauna Mă asculţi"
+      },
+      {
+        "id": 3,
+        "stringRef": "Marcu 14:32",
+        "verse": "32. S-au dus apoi într-un loc îngrădit, numit Ghetsimani. Şi Isus a zis ucenicilor Săi: „Şedeţi aici până Mă voi ruga.”"
+      },
+      {
+        "id": 4,
+        "stringRef": "Luca 11:1",
+        "verse": "1. Într-o zi, Isus Se ruga într-un loc anumit. Când a isprăvit rugăciunea, unul din ucenicii Lui I-a zis: „Doamne, învaţă-ne să ne rugăm, cum a învăţat şi Ioan pe ucenicii lui.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Isus Hristos este o singură Persoană (Fiul lui Dumnezeu) cu două naturi doctrina uniunii ipostatice - «unio hypostatica»:\n- divină, desăvârșită, eternă (Dumnezeu adevărat),\n- umană, desăvârșită, asumată prin întrupare (om adevărat).\nAșadar, atunci când Isus se roagă, El face acest lucru în natura Sa umană, nu pentru că ar fi inferior lui Dumnezeu, ci pentru că trăiește real condiția omenească în ascultare și dependență față de Tatăl."
+      },
+      {
+        "id": 2,
+        "hint": "Rugăciunea lui Isus: expresia dependenței Sale omenești. Isus, ca om:\n- a flămânzit, a obosit, a suferit, a murit;\n- a fost ispitit „în toate ca și noi, dar fără păcat” (Evrei 4:15);\n- și, în același fel, s-a rugat. (Matei 26:39, Marcu 1:35)\nPrin rugăciune, Isus arată ascultarea perfectă a Fiului întrupat față de Tatăl, în contrast cu neascultarea lui Adam. El trăiește ca om desăvârșit, modelul deplin al comuniunii cu Dumnezeu.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 4:15",
+            "verse": "15. Căci n-avem un Mare Preot care să n-aibă milă de slăbiciunile noastre, ci Unul care în toate lucrurile a fost ispitit ca şi noi, dar fără păcat."
+          },
+          {
+            "id": 2,
+            "stringRef": "Matei 26:39",
+            "verse": "39. Apoi a mers puţin mai înainte, a căzut cu faţa la pământ şi S-a rugat, zicând: „Tată, dacă este cu putinţă, depărtează de la Mine paharul acesta! Totuşi nu cum voiesc Eu, ci cum voieşti Tu.”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Marcu 1:35",
+            "verse": "35. A doua zi dimineaţa, pe când era încă întuneric de tot, Isus S-a sculat, a ieşit şi S-a dus într-un loc pustiu. Şi Se ruga acolo."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Rugăciunea lui Isus are și rol reprezentativ. Ca Mijlocitor între Dumnezeu și oameni (1 Tim. 2:5), Isus se roagă:\n- pentru El însuși, ca om care duce ascultarea până la capăt (Evrei 5:7÷9),\n- pentru ucenici (Ioan 17:9),\n- pentru toți credincioșii (Ioan 17:21).\nAstfel, rugăciunea Lui nu arată slăbiciune, ci funcția Sa de Mare Preot.\nEl se identifică cu oamenii pe care îi mântuiește și duce în prezența Tatălui. (Evrei 7:25)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Tim. 2:5",
+            "verse": "5. Căci este un singur Dumnezeu şi este un singur mijlocitor dintre Dumnezeu şi oameni: Omul Isus Hristos,"
+          },
+          {
+            "id": 2,
+            "stringRef": "Evrei 5:7÷9",
+            "verse": "7. El este Acela care, în zilele vieţii Sale pământeşti, aducând rugăciuni şi cereri cu strigăte mari şi cu lacrimi către Cel ce putea să-L izbăvească de la moarte, şi fiind ascultat, din pricina evlaviei Lui,\n8. măcar că era Fiu, a învăţat să asculte prin lucrurile pe care le-a suferit.\n9. Şi, după ce a fost făcut desăvârşit, S-a făcut, pentru toţi cei ce-L ascultă, urzitorul unei mântuiri veşnice,"
+          },
+          {
+            "id": 3,
+            "stringRef": "Ioan 17:9",
+            "verse": "9. Pentru ei Mă rog. Nu Mă rog pentru lume, ci pentru aceia pe care Mi i-ai dat Tu; pentru că sunt ai Tăi:"
+          },
+          {
+            "id": 4,
+            "stringRef": "Ioan 17:21",
+            "verse": "21. Mă rog ca toţi să fie una, cum Tu, Tată, eşti în Mine, şi Eu în Tine; ca şi ei să fie una în Noi, pentru ca lumea să creadă că Tu M-ai trimis."
+          },
+          {
+            "id": 5,
+            "stringRef": "Evrei 7:25",
+            "verse": "25. De aceea şi poate să mântuiască în chip desăvârşit pe cei ce se apropie de Dumnezeu prin El, pentru că trăieşte pururi ca să mijlocească pentru ei."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Rugăciunea este modalitatea de comunicare cu Dumnezeu. Isus a abandonat voluntar atributele dumnezeiești și s-a întrupat ca om, calitate în care s-a rugat (Ioan 11:42).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 11:42",
+            "verse": "vorbesc astfel pentru norodul care stă împrejur, ca să creadă că Tu M-ai trimis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ord": 1,
+    "question": "Dacă există un singur mijlocitor, de ce se roagă Duhul Sfânt cu suspine negrăite ? (1 Tim. 2:5)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Tim. 2:5",
+        "verse": "5. Căci este un singur Dumnezeu şi este un singur mijlocitor între Dumnezeu şi oameni: Omul Isus Hristos"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Dumnezeu Tatăl, Isus și Duhul Sfânt sunt într-o unitate funcțională de natură divină, în care există o ierarhie: Tatăl a trimis pe Isus (Gal. 4:4÷5).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gal. 4:4÷5",
+            "verse": "4. Dar, când a venit împlinirea vremii, Dumnezeu a trimis pe Fiul Său, născut din femeie, născut sub Lege,\n5. ca să răscumpere pe cei ce erau sub Lege, pentru ca să căpătăm înfierea."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Tatăl L-a trimis și pe Duhul Sfânt (Ioan 14:16).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 14:16",
+            "verse": "16. Şi Eu voi ruga pe Tatăl, şi El vă va da un alt Mângâietor, care să rămână cu voi în veac;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "ord": 1,
+    "question": "De ce L-a înviat Dumnezeu pe Isus ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "A dispărut motivația (Rom. 4:25).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 4:25",
+            "verse": "25... a înviat din pricină că am fost socotiţi neprihăniţi."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Isus a fost înviat pentru că și-a ispășit păcatele (preluate de la omenire) și moartea (ca om) îl eliberează de păcat (Rom. 6:7).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 6:7",
+            "verse": "7. căci cine a murit, de drept, este izbăvit de păcat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "ord": 1,
+    "question": "Dacă moartea ne izbăvește de păcat, atunci putem trăi după bunul plac și avem mântuire ? (Rom. 6:7)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Rom. 6:7",
+        "verse": "7. căci cine a murit, de drept, este izbăvit de păcat."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Evident că nu. Isus când a murit a ridicat păcatele lumii, dar nu și consecința păcatului, care este programarea morții fizice. (Precizare: Isus a murit ca om, pentru că nu putea muri ca Dumnezeu.) Oamenii sfinți mor din cauza păcatului adamic. Dar Isus nu a fost născut din păcat, deci pe El nu-l include această programare. Moartea păcătoșilor este pedeapsa pentru păcatele proprii, nu pentru păcatul adamic ridicat de Isus."
+      },
+      {
+        "id": 2,
+        "hint": "Pavel vorbește cu credincioșii și nu se referă de moartea fizică, ci de moartea față de păcat prin unirea cu moartea lui Hristos. Prin botez, credinciosul fiind considerat mort față de viața veche (Rom. 6:3÷4).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 6:3÷4",
+            "verse": "3. Nu ştiţi că toţi câţi am fost botezaţi în Isus Hristos, am fost botezaţi în moartea Lui?\n4. Noi deci, prin botezul în moartea Lui, am fost îngropaţi împreună cu El, pentru ca, după cum Hristos a înviat din morţi, prin slava Tatălui, tot aşa şi noi să trăim o viaţă nouă."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "ord": 1,
+    "question": "Poate Dumnezeu să-l ispitească pe om ? (Matei 6:13, Luca 11:4)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 6:13",
+        "verse": "13. şi nu ne duce în ispită, ci izbăveşte-ne de cel rău. Căci a Ta este Împărăţia şi puterea şi slava în veci. Amin!"
+      },
+      {
+        "id": 2,
+        "stringRef": "Luca 11:4",
+        "verse": "4. şi ne iartă nouă păcatele noastre, fiindcă şi noi iertăm oricui ne este dator; şi nu ne duce în ispită, ci izbăveşte-ne de cel rău."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În calitatea de creator Dumnezeu poate face orice. Totuși caracterul lui Dumnezeu nu este compatibil cu ispita (Iacov 1:13).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Iacov 1:13",
+            "verse": "13. Nimeni, când este ispitit, să nu zică: „Sunt ispitit de Dumnezeu.” Căci Dumnezeu nu poate fi ispitit ca să facă rău, şi El însuşi nu ispiteşte pe nimeni."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Dumnezeu nu doar că nu ispitește, dar nu permite nici diavolului să ne ispitească peste puteri (1 Cor. 10:13).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 10:13",
+            "verse": "13. Nu v-a ajuns nicio ispită care să nu fi fost potrivită cu puterea omenească. Şi Dumnezeu, care este credincios, nu va îngădui să fiţi ispitiţi peste puterile voastre; ci, împreună cu ispita, a pregătit şi mijlocul să ieşiţi din ea, ca s-o puteţi răbda."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ord": 1,
+    "question": "După legea omenească, dacă ai cunoștință despre o infracțiune și o ascunzi ești considerat părtaș. Mai mult, Dumnezeu chiar permite Satanei să facă rău. Este Dumnezeu părtaș la rău ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În lume judecătorul este deasupra făptașilor. Pe Dumnezeu cine Îl poate judeca ?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "ord": 1,
+    "question": "Pentru unii milă (pentru alții dreptate) ? (Exod 33:19, Rom. 9:15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 33:19",
+        "verse": "19. Domnul a răspuns: „Voi face să treacă pe dinaintea ta toată frumuseţea Mea şi voi chema Numele Domnului înaintea ta; Eu Mă îndur de cine vreau să Mă îndur şi am milă de cine vreau să am milă!”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Rom. 9:15",
+        "verse": "15. Căci El a zis lui Moise: „Voi avea milă de oricine-Mi va plăcea să am milă; şi Mă voi îndura de oricine-Mi va plăcea să Mă îndur.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Dumnezeu a ales un popor și a ales niște oameni în calitate de Creator, alegeri care nu pot fi discutate. Putem specula că alegerile nu au fost întâmplătoare, ci s-au bazat pe preștiința lui Dumnezeu (Rom. 9:20).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 9:20",
+            "verse": "20. Dar, mai degrabă, cine eşti tu, omule, ca să răspunzi împotriva lui Dumnezeu? Nu cumva vasul de lut va zice celui ce l-a făcut: „Pentru ce m-ai făcut aşa”?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "ord": 1,
+    "question": "Dacă firea omenească este coruptă, poate omul să facă binele ? (Gen. 6:5, Ier. 13:23, Rom. 3:10)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 6:5",
+        "verse": "5. Domnul a văzut că răutatea omului era mare pe pământ şi că toate întocmirile gândurilor din inima lui erau îndreptate în fiecare zi numai spre rău."
+      },
+      {
+        "id": 2,
+        "stringRef": "Ier. 13:23",
+        "verse": "23. Poate un etiopian să-şi schimbe pielea sau un pardos să-şi schimbe petele? Tot aşa, aţi putea voi să faceţi binele, voi care sunteţi deprinşi să faceţi răul?"
+      },
+      {
+        "id": 3,
+        "stringRef": "Rom. 3:10",
+        "verse": "10. după cum este scris: „Nu este niciun om neprihănit, niciunul măcar.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Omul poate face binele prin harul lui Dumnezeu (Ezec. 36:26, Rom. 8:13÷14, 2 Cor. 5:17)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ezec. 36:26",
+            "verse": "26. Vă voi da o inimă nouă şi voi pune în voi un duh nou; voi scoate din trupul vostru inima de piatră şi vă voi da o inimă de carne."
+          },
+          {
+            "id": 2,
+            "stringRef": "Rom. 8:13÷14",
+            "verse": "13. Dacă trăiţi după îndemnurile ei, veţi muri; dar dacă, prin Duhul, faceţi să moară faptele trupului, veţi trăi."
+          },
+          {
+            "id": 3,
+            "stringRef": "2 Cor. 5:17",
+            "verse": "17. Căci, dacă este cineva în Hristos, este o făptură nouă. Cele vechi s-au dus: iată că toate lucrurile s-au făcut noi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "ord": 1,
+    "question": "Poate duhul omului să moară ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Moarte fizică (Isaia 38:18, Ps. 6:5, Ps. 115:17, Ecl. 9:5)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 38:18",
+            "verse": "18. Căci nu Locuinţa morţilor Te laudă, nu moartea Te măreşte, şi cei ce s-au coborât în groapă nu mai nădăjduiesc în credincioşia Ta."
+          },
+          {
+            "id": 2,
+            "stringRef": "Ps. 6:5",
+            "verse": "5. Căci cel ce moare nu-şi mai aduce aminte de Tine; şi cine Te va lăuda în Locuinţa morţilor?"
+          },
+          {
+            "id": 3,
+            "stringRef": "Ps. 115:17",
+            "verse": "17. Nu morţii laudă pe Domnul şi nici vreunul din cei ce se coboară în locul tăcerii"
+          },
+          {
+            "id": 4,
+            "stringRef": "Ecl. 9:5",
+            "verse": "5. ... dar cei morţi nu ştiu nimic şi nu mai au nicio răsplată, fiindcă până şi pomenirea li se uită."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Moarte spirituală: sufletul nimicit se referă la excluderea spirituală din comunitatea poporului lui Dumnezeu (Num. 9:13).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Num. 9:13",
+            "verse": "13. ... sufletul acela să fie nimicit din poporul lui..."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Moarte spirituală: este înțeleasă ca separare de Dumnezeu. (Isaia 55:3, Ezec. 18:4, Ezec. 18:27, Ps. 116:8, Matei 10:28, Iacov 5:20)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 55:3",
+            "verse": "3. Luaţi aminte şi veniţi la Mine, ascultaţi, şi sufletul vostru va trăi"
+          },
+          {
+            "id": 2,
+            "stringRef": "Ezec. 18:4",
+            "verse": "4. Iată că toate sufletele sunt ale Mele. După cum sufletul fiului este al Meu, tot aşa şi sufletul tatălui este al Meu. Sufletul care păcătuieşte, acela va muri."
+          },
+          {
+            "id": 3,
+            "stringRef": "Ezec. 18:27",
+            "verse": "27. Dar dacă cel rău se întoarce de la răutatea lui şi face ce este drept şi bine, îşi va păstra sufletul viu."
+          },
+          {
+            "id": 4,
+            "stringRef": "Ps. 116:8",
+            "verse": "8. Da, Tu mi-ai izbăvit sufletul de la moarte..."
+          },
+          {
+            "id": 5,
+            "stringRef": "Matei 10:28",
+            "verse": "28. Nu vă temeţi de cei ce ucid trupul, dar care nu pot ucide sufletul; ci temeţi-vă mai degrabă de Cel ce poate să piardă şi sufletul şi trupul în gheenă."
+          },
+          {
+            "id": 6,
+            "stringRef": "Iacov 5:20",
+            "verse": "20. să ştiţi că cine întoarce pe un păcătos de la rătăcirea căii lui, va mântui un suflet de la moarte şi va acoperi o sumedenie de păcate."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Dumnezeu este sursa vieții și păstrează sufletul în viață atât fizic, cât și spiritual (Ps. 66:9).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 66:9",
+            "verse": "9. El ne-a păstrat sufletul cu viaţă ..."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Conform Bibliei, duhul uman este asociat cu suflarea lui Dumnezeu (Gen. 2:7). Duhul nu „moare” în sensul încetării existenței, ci se desparte de trup la moarte (Ecl. 12:7), iar trupul se întoarce în țărână (Gen. 3:19).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 2:7",
+            "verse": "7. Domnul Dumnezeu a făcut pe om din ţărâna pământului, i-a suflat în nări suflare de viaţă, şi omul s-a făcut astfel un suflet viu."
+          },
+          {
+            "id": 2,
+            "stringRef": "Ecl. 12:7",
+            "verse": "7. până nu se întoarce ţărâna în pământ, cum a fost, şi până nu se întoarce duhul la Dumnezeu, care l-a dat."
+          },
+          {
+            "id": 3,
+            "stringRef": "Gen. 3:19",
+            "verse": "19. În sudoarea feţei tale să-ţi mănânci pâinea, până te vei întoarce în pământ, căci din el ai fost luat; căci ţărână eşti şi în ţărână te vei întoarce.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "ord": 1,
+    "question": "Ce se întâmplă cu duhul omului la moarte ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Duhul se întoarce la Dumnezeu (Ecl. 12:7).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ecl. 12:7",
+            "verse": "7. până nu se întoarce ţărâna în pământ, cum a fost, şi până nu se întoarce duhul la Dumnezeu, care l-a dat."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Dumnezeu păstrează duhul omului (Ps. 31:5) și acesta  continuă să existe conștient într-o stare intermediară până la judecata finală.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 31:5",
+            "verse": "5. În mâinile Tale îmi încredinţez duhul: Tu mă vei izbăvi, Doamne Dumnezeule adevărat!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Starea intermediară a duhului omului este: în rai, în „sânul lui Avraam”, în binecuvântare sau în chin, în Locuinţa morţilor, în suferință temporară (Luca 16:22÷23).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 16:22÷23",
+            "verse": "23. Pe când era el în Locuinţa morţilor, în chinuri, şi-a ridicat ochii în sus, a văzut de departe pe Avraam şi pe Lazăr în sânul lui\n24. şi a strigat: „Părinte Avraame, fie-ţi milă de mine şi trimite pe Lazăr să-şi înmoaie vârful degetului în apă şi să-mi răcorească limba; căci grozav sunt chinuit în văpaia aceasta.”"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "La a doua venire a lui Hristos, trupurile vor învia (1 Cor. 15:52, 1 Tes. 4:16), iar duhurile vor fi reunite cu trupurile înviate, fie pentru răsplată veșnică în cer, fie pentru pedeapsă veșnică în iad.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 15:52",
+            "verse": "52. într-o clipă, într-o clipită din ochi, la cea din urmă trâmbiţă. Trâmbiţa va suna, morţii vor învia nesupuşi putrezirii, şi noi vom fi schimbaţi."
+          },
+          {
+            "id": 2,
+            "stringRef": "1 Tes. 4:16",
+            "verse": "16. Căci însuşi Domnul, cu un strigăt, cu glasul unui arhanghel şi cu trâmbiţa lui Dumnezeu, Se va coborî din cer, şi întâi vor învia cei morţi în Hristos."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Urmează apoi judecata finală (Evrei 9:27, Matei 25:31÷46).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 9:27",
+            "verse": "27. Şi, după cum oamenilor le este rânduit să moară o singură dată, iar după aceea vine judecata,"
+          },
+          {
+            "id": 2,
+            "stringRef": "Matei 25:31÷46",
+            "verse": "31. Când va veni Fiul omului în slava Sa cu toţi sfinţii îngeri, va şedea pe scaunul de domnie al slavei Sale.\n32. Toate neamurile vor fi adunate înaintea Lui. El îi va despărţi pe unii de alţii cum desparte păstorul oile de capre;\n33. şi va pune oile la dreapta, iar caprele la stânga Lui.\n34. Atunci Împăratul va zice celor de la dreapta Lui: „Veniţi binecuvântaţii Tatălui Meu de moşteniţi Împărăţia care v-a fost pregătită de la întemeierea lumii.\n35. Căci am fost flămând, şi Mi-aţi dat de mâncat; Mi-a fost sete, şi Mi-aţi dat de băut; am fost străin, şi M-aţi primit;\n36. am fost gol, şi M-aţi îmbrăcat; am fost bolnav, şi aţi venit să Mă vedeţi; am fost în temniţă, şi aţi venit pe la Mine.”\n37. Atunci cei neprihăniţi Îi vor răspunde: „Doamne, când Te-am văzut noi flămând şi Ţi-am dat să mănânci? Sau fiindu-Ţi sete şi Ţi-am dat de ai băut?\n38. Când Te-am văzut noi străin şi Te-am primit? Sau gol şi Te-am îmbrăcat?\n39. Când Te-am văzut noi bolnav sau în temniţă şi am venit pe la Tine?”\n40. Drept răspuns, Împăratul le va zice: „Adevărat vă spun că, ori de câte ori aţi făcut aceste lucruri unuia din aceşti foarte neînsemnaţi fraţi ai Mei, Mie Mi le-aţi făcut.”\n41. Apoi va zice celor de la stânga Lui: „Duceţi-vă de la Mine, blestemaţilor, în focul cel veşnic care a fost pregătit diavolului şi îngerilor lui!\n42. Căci am fost flămând, şi nu Mi-aţi dat să mănânc; Mi-a fost sete, şi nu Mi-aţi dat să beau;\n43. am fost străin, şi nu M-aţi primit; am fost gol, şi nu M-aţi îmbrăcat; am fost bolnav şi în temniţă, şi n-aţi venit pe la Mine.”\n44. Atunci Îi vor răspunde şi ei: „Doamne, când Te-am văzut noi flămând, sau fiindu-Ţi sete, sau străin, sau gol, sau bolnav, sau în temniţă, şi nu Ţi-am slujit?”\n45. Şi El, drept răspuns, le va zice: „Adevărat vă spun că, ori de câte ori n-aţi făcut aceste lucruri unuia dintre aceşti foarte neînsemnaţi fraţi ai Mei, Mie nu Mi le-aţi făcut.”\n46. Şi aceştia vor merge în pedeapsa veşnică, iar cei neprihăniţi vor merge în viaţa veşnică."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "ord": 1,
+    "question": "Ce diferenţă este între suflet şi duh ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Sufletul este viață (Gen. 2:7)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 2:7",
+            "verse": "7. Domnul Dumnezeu a făcut pe om din ţărâna pământului, i-a suflat în nări suflare de viaţă, şi omul s-a făcut astfel un suflet viu."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Sufletul nu este duh (Evrei 4:12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 4:12",
+            "verse": "12. Căci Cuvântul lui Dumnezeu este viu şi lucrător, mai tăietor decât orice sabie cu două tăişuri: pătrunde până acolo că desparte sufletul şi duhul, încheieturile şi măduva, judecă simţirile şi gândurile inimii."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Duhul trebuie protejat (1 Tes. 5:23)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Tes. 5:23",
+            "verse": "23. Dumnezeul păcii să vă sfinţească El însuşi pe deplin; şi duhul vostru, sufletul vostru şi trupul vostru să fie păzite întregi, fără prihană, la venirea Domnului nostru Isus Hristos."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Duhul omului lucrează cu Duhul Sfânt (Rom. 8:16)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 8:16",
+            "verse": "16. Însuşi Duhul adevereşte împreună cu duhul nostru că suntem copii ai lui Dumnezeu."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "ord": 1,
+    "question": "De ce refuză Dumnezeu jertfa lui Cain ? (Gen. 4:5, Lev. 2:1, Lev. 2:4, Lev. 2:12)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 4:5",
+        "verse": "5. dar spre Cain şi spre jertfa lui n-a privit cu plăcere."
+      },
+      {
+        "id": 2,
+        "stringRef": "Lev. 2:1",
+        "verse": "1. Când va aduce cineva Domnului un dar ca jertfă de mâncare ..."
+      },
+      {
+        "id": 3,
+        "stringRef": "Lev. 2:4",
+        "verse": "Dacă vei aduce ca jertfă de mâncare un dar din ceea ce se coace în cuptor ..."
+      },
+      {
+        "id": 4,
+        "stringRef": "Lev. 2:12",
+        "verse": "12. Ca jertfă de mâncare din cele dintâi roade ..."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Cain a adus Domnului o jertfă de mâncare (Gen. 4:3)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 4:3",
+            "verse": "3. După o bucată de vreme, Cain a adus Domnului o jertfă de mâncare din roadele pământului."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "„Fără vărsare de sânge nu este iertare” (Evrei 9:22)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 9:22",
+            "verse": "22. Şi, după Lege, aproape totul este curăţat cu sânge; şi fără vărsare de sânge nu este iertare."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Păcatul nu se poate ispăși decât prin moarte (Lev. 17:11)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Lev. 17:11",
+            "verse": "11. Căci viaţa trupului este în sânge. Vi l-am dat ca să-l puneţi pe altar, ca să slujească de ispăşire pentru sufletele voastre, căci prin viaţa din el face sângele ispăşire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "ord": 1,
+    "question": "De ce a cerut Dumnezeu jertfe ale animalelor în Vechiul Testament ? (Lev. 1:2)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Lev. 1:2",
+        "verse": "Când cineva dintre voi va aduce un dar Domnului, să-l aducă din vite, fie din cireadă, fie din turmă."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Dumnezeu a cerut jertfe ale animalelor atât pentru a oferi iertarea temporară a păcatelor, cât şi pentru a prevesti jertfa desăvârşită a lui Isus (Lev. 4:35, Lev. 5:10)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Lev. 4:35",
+            "verse": "Astfel va face preotul pentru omul acesta ispăşirea păcatului pe care l-a săvârşit, şi i se va ierta."
+          },
+          {
+            "id": 2,
+            "stringRef": "Lev. 5:10",
+            "verse": "Astfel va face preotul pentru omul acesta ispăşirea păcatului pe care l-a săvârşit, şi i se va ierta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "ord": 1,
+    "question": "De ce blesteamă Isus smochinul ? (Matei 21:18÷21)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 21:18÷21",
+        "verse": "18. Dimineaţa, pe când Se întorcea în cetate, I-a fost foame.\n19. A văzut un smochin lângă drum şi S-a apropiat de el; dar n-a găsit decât frunze, şi i-a zis: „De acum încolo, în veac să nu mai dea rod din tine!” Şi îndată smochinul s-a uscat.\n20. Ucenicii, când au văzut acest lucru, s-au mirat şi au zis: „Cum de s-a uscat smochinul acesta într-o clipă?”\n21. Drept răspuns, Isus le-a zis: „Adevărat vă spun că, dacă veţi avea credinţă şi nu vă veţi îndoi, veţi face nu numai ce s-a făcut smochinului acestuia; ci chiar dacă aţi zice muntelui acestuia: «Ridică-te de aici şi aruncă-te în mare», se va face."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Smochinul îl reprezintă pe Israel. Domnul Isus arată care este soarta necredincioșilor (Luca 13:6÷9).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 13:6÷9",
+            "verse": "6. El a spus şi pilda aceasta: „Un om avea un smochin sădit în via sa. A venit să caute rod în el, şi n-a găsit.\n7. Atunci a zis vierului: «Iată că sunt trei ani de când vin şi caut rod în smochinul acesta, şi nu găsesc. Taie-l. La ce să mai cuprindă şi pământul degeaba?»\n8. «Doamne», i-a răspuns vierul, «mai lasă-l şi anul acesta; am să-l sap de jur împrejur şi am să-i pun gunoi la rădăcină.\n9. Poate că de acum înainte va face rod; dacă nu, îl vei tăia.»"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Blestemul, ca și binecuvântarea, este consecința conduitei omului, care aduce urmări corespunzătoare. Uneori comportamentul celui nelegiuit poate determina chiar intervenția lui Dumnezeu, iar pedeapsa este percepută ca blestem. În limba ebraică verbul „a blestema” este este folosit sub forma „este blestemat”, ca recunoaștere a stării de fapt, sau „va fi blestemat” ca o consecință naturală. Blestemul nu exprimă o dorință a lui Dumnezeu."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "ord": 1,
+    "question": "Isus a redat vederea unui orb în Betsaida. De ce a făcut acest lucru de două ori ? (Marcu 8:22÷25)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Marcu 8:22÷25",
+        "verse": "22. Au venit la Betsaida; au adus la Isus un orb şi L-au rugat să Se atingă de el.\n23. Isus a luat pe orb de mână şi l-a scos afară din sat; apoi i-a pus scuipat pe ochi, Şi-a pus mâinile peste el şi l-a întrebat: „Vezi ceva?”\n24. El s-a uitat şi a zis: „Văd nişte oameni umblând, dar mi se par ca nişte copaci.”\n25. Isus i-a pus din nou mâinile pe ochi; i-a spus să se uite ţintă; şi, când s-a uitat, a fost tămăduit şi a văzut toate lucrurile desluşit."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "O posibilă interpretare a includerii acestei istorii în evanghelie este că omul ajunge la abilitatea de a vedea adevărul, de regulă, în etape."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "ord": 1,
+    "question": "Cum a știut Avram că Dumnezeu i-a vorbit, când I-a cerut să-l sacrifice pe Isaac ? (Gen. 22:2)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 22:2",
+        "verse": "2. Dumnezeu i-a zis: „Ia pe fiul tău, pe singurul tău fiu, pe care-l iubeşti, pe Isaac; du-te în ţara Moria şi adu-l ardere de tot acolo, pe un munte pe care ţi-l voi spune.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În experiența umblării cu Isus, credincioșii știu să deosebească voia Domnului de alte influențe (Ioan 10:14).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 10:14",
+            "verse": "14. Eu sunt Păstorul cel bun. Eu Îmi cunosc oile Mele, şi ele Mă cunosc pe Mine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "ord": 1,
+    "question": "A îngăduit Dumnezeu poligamia în Biblie ? (Gen. 4:19, Gen. 29:21÷23, Gen. 29:28, Gen. 30:4, Gen. 30:9, 1 Sam. 18:20÷21, 2 Sam. 2:2, 1 Cron. 3:1÷3, 1 Cron. 3:5, 1 Cron. 3:9, 1 Sam. 1:1÷2, Judc. 8:30, 1 Regi 11:1÷3, Gen. 17:15, Gen. 16:3)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 4:19",
+        "verse": "19. Lameh şi-a luat două neveste: numele uneia era Ada, şi numele celeilalte era Ţila."
+      },
+      {
+        "id": 2,
+        "stringRef": "Gen. 29:21÷23",
+        "verse": "21. În urmă Iacov a zis lui Laban: „Dă-mi nevasta, căci mi s-a împlinit sorocul, ca să intru la ea.”\n22. Laban a adunat pe toţi oamenii locului şi a făcut un ospăţ.\n23. Seara, a luat pe fiica sa Lea şi a adus-o la Iacov, care s-a culcat cu ea."
+      },
+      {
+        "id": 3,
+        "stringRef": "Gen. 29:28",
+        "verse": "28. Iacov a făcut aşa şi a isprăvit săptămâna cu Lea; apoi Laban i-a dat de nevastă pe fiica sa Rahela."
+      },
+      {
+        "id": 4,
+        "stringRef": "Gen. 30:4",
+        "verse": "4. Şi i-a dat de nevastă pe roaba ei, Bilha; şi Iacov s-a culcat cu ea."
+      },
+      {
+        "id": 5,
+        "stringRef": "Gen. 30:9",
+        "verse": "9. Când a văzut Lea că nu mai naşte, a luat pe roaba sa, Zilpa, şi a dat-o lui Iacov de nevastă."
+      },
+      {
+        "id": 6,
+        "stringRef": "1 Sam. 18:20÷21",
+        "verse": "20. Mical, fata lui Saul, iubea pe David. Au spus lui Saul, şi lucrul i-a plăcut.\n21. El îşi zicea: „I-o voi da ca să-i fie o cursă şi să cadă sub mâna filistenilor.” Şi Saul a zis lui David pentru a doua oară: „Astăzi îmi vei fi ginere.”"
+      },
+      {
+        "id": 7,
+        "stringRef": "2 Sam. 2:2",
+        "verse": "2. David s-a suit acolo, cu cele două neveste ale sale: Ahinoam din Izreel şi Abigail din Carmel, nevasta lui Nabal."
+      },
+      {
+        "id": 8,
+        "stringRef": "1 Cron. 3:1÷3",
+        "verse": "1. Iată fiii lui David, care i s-au născut la Hebron: întâiul născut, Amnon, cu Ahinoam din Izreel; al doilea, Daniel, cu Abigail din Carmel;\n2. al treilea, Absalom, fiul Maachei, fata lui Talmai, împăratul Gheşurului; al patrulea, Adonia, fiul Haghitei;\n3. al cincilea, Şefatia, cu Abital; al şaselea, Itream, cu nevasta sa Egla."
+      },
+      {
+        "id": 9,
+        "stringRef": "1 Cron. 3:5",
+        "verse": "5. Iată cei ce i s-au născut la Ierusalim: Şimea, Şobab, Natan şi Solomon, patru, cu Bat-Şua, fata lui Amiel;"
+      },
+      {
+        "id": 10,
+        "stringRef": "1 Cron. 3:9",
+        "verse": "9. Aceştia sunt toţi fiii lui David, afară de fiii ţiitoarelor. Şi Tamar era sora lor."
+      },
+      {
+        "id": 11,
+        "stringRef": "1 Sam. 1:1÷2",
+        "verse": "1. Era un om din Ramataim-Ţofim, din muntele lui Efraim, numit Elcana, fiul lui Ieroham, fiul lui Elihu, fiul lui Tohu, fiul lui Ţuf, efratit.\n2. El avea două neveste: una se numea Ana, iar cealaltă Penina. Penina avea copii, dar Ana n-avea."
+      },
+      {
+        "id": 12,
+        "stringRef": "Judc. 8:30",
+        "verse": "30. Ghedeon a avut şaptezeci de fii, ieşiţi din el, căci a avut mai multe neveste."
+      },
+      {
+        "id": 13,
+        "stringRef": "1 Regi 11:1÷3",
+        "verse": "1. Împăratul Solomon a iubit multe femei străine, afară de fata lui faraon; moabite, amonite, edomite, sidoniene, hetite,\n2. care făceau parte din neamurile despre care Domnul zisese copiilor lui Israel: „Să nu intraţi la ele, şi nici ele să nu intre la voi; căci v-ar întoarce negreşit inimile înspre dumnezeii lor.” De aceste neamuri s-a alipit Solomon, târât de iubire.\n3. A avut de neveste şapte sute de crăiese împărăteşti şi trei sute de ţiitoare; şi nevestele i-au abătut inima."
+      },
+      {
+        "id": 14,
+        "stringRef": "Gen. 17:15",
+        "verse": "15. Dumnezeu a zis lui Avraam: „Să nu mai chemi Sarai pe nevasta ta, Sarai; ci numele ei să fie Sara."
+      },
+      {
+        "id": 15,
+        "stringRef": "Gen. 16:3",
+        "verse": "3. Atunci Sarai, nevasta lui Avram, a luat pe egipteanca Agar, roaba ei, şi a dat-o de nevastă bărbatului său, Avram, după ce Avram locuise ca străin zece ani în ţara Canaan."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Monogamia este standardul divin: un bărbat și o femeie, uniți într-un singur trup (Gen. 2:24).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 2:24",
+            "verse": "24. De aceea va lăsa omul pe tatăl său şi pe mama sa, şi se va lipi de nevasta sa şi se vor face un singur trup."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Isus (Matei 19:4÷6) și mai târziu Pavel (1 Tim. 3:2) reafirmă modelul monogamiei.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 19:4÷6",
+            "verse": "4. Drept răspuns, El le-a zis: „Oare n-aţi citit că Ziditorul, de la început i-a făcut parte bărbătească şi parte femeiască\n5. şi a zis: «De aceea va lăsa omul pe tatăl său şi pe mama sa şi se va lipi de nevasta sa, şi cei doi vor fi un singur trup»?\n6. Aşa că nu mai sunt doi, ci un singur trup. Deci, ce a împreunat Dumnezeu, omul să nu despartă.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "1 Tim. 3:2",
+            "verse": "2. Dar trebuie ca episcopul să fie fără prihană, bărbatul unei singure neveste, cumpătat, înţelept, vrednic de cinste, primitor de oaspeţi, în stare să înveţe pe alţii."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Deși Dumnezeu a permis poligamia într-un anumit context istoric, aceasta nu a fost niciodată idealul Său pentru căsătorie. Poligamia este prezentată ca o sursă de suferință și disfuncționalitate familială, iar Noul Testament reafirmă monogamia ca standardul moral al lui Dumnezeu."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "ord": 1,
+    "question": "A îngăduit Dumnezeu incestul în Biblie ? (Gen. 19:30÷32, 2 Sam. 13:14)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Gen. 19:30÷32",
+        "verse": "30. Lot a ieşit din Ţoar şi a rămas pe munte, cu cele două fete ale lui, căci s-a temut să rămână în Ţoar. A locuit într-o peşteră, cu cele două fete ale lui.\n31. Cea mai mare a zis celei mai tinere: „Tatăl nostru este bătrân; şi nu mai este niciun bărbat în ţinutul acesta, ca să intre la noi, după obiceiul tuturor ţărilor.\n32. Vino să punem pe tatăl nostru să bea vin şi să ne culcăm cu el, ca să ne păstrăm sămânţa prin tatăl nostru.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "2 Sam. 13:14",
+        "verse": "14. Dar el n-a vrut s-o asculte; a silit-o, a necinstit-o şi s-a culcat cu ea."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Legea mozaică interzice clar incestul (Lev. 18:6÷18, Deut. 27:20÷23)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Lev. 18:6÷18",
+            "verse": "6. Niciunul din voi să nu se apropie de ruda lui de sânge, ca să-i descopere goliciunea. Eu sunt Domnul.\n7. Să nu descoperi goliciunea tatălui tău, nici goliciunea mamei tale. Îţi este mamă: să nu-i descoperi goliciunea.\n8. Să nu descoperi goliciunea nevestei tatălui tău. Este goliciunea tatălui tău.\n9. Să nu descoperi goliciunea surorii tale, fata tatălui tău sau fata mamei tale, născută în casă sau afară din casă.\n10. Să nu descoperi goliciunea fetei fiului tău sau a fetei fetei tale. Căci este goliciunea ta.\n11. Să nu descoperi goliciunea fetei nevestei tatălui tău, născută din tatăl tău. Îţi este soră.\n12. Să nu descoperi goliciunea surorii tatălui tău. Este rudă de aproape cu tatăl tău.\n13. Să nu descoperi goliciunea surorii mamei tale. Este rudă de aproape cu mama ta.\n14. Să nu descoperi goliciunea fratelui tatălui tău. Să nu te apropii de nevasta lui. Îţi este mătuşă.\n15. Să nu descoperi goliciunea nurorii tale. Este nevasta fiului tău: să nu-i descoperi goliciunea.\n16. Să nu descoperi goliciunea nevestei fratelui tău. Este goliciunea fratelui tău.\n17. Să nu descoperi goliciunea unei femei şi a fetei ei. Să nu iei pe fata fiului ei, nici pe fata fetei ei, ca să le descoperi goliciunea. Îţi sunt rude de aproape: este o nelegiuire.\n18. Să nu iei pe sora nevestei tale, ca să-i faci în necaz, descoperindu-i goliciunea alături de nevasta ta, cât timp ea este încă în viaţă."
+          },
+          {
+            "id": 2,
+            "stringRef": "Deut. 27:20÷23",
+            "verse": "20. „Blestemat să fie cel ce se va culca cu nevasta tatălui său, căci ridică învelitoarea tatălui său!” - Şi tot poporul să răspundă: „Amin!”\n21. „Blestemat să fie cel ce se va culca cu vreo vită oarecare!” - Şi tot poporul să răspundă: „Amin!”\n22. „Blestemat să fie cel ce se va culca cu sora sa, fiica tatălui său sau fiica mamei sale!” - Şi tot poporul să răspundă: „Amin!”\n23. „Blestemat să fie cel ce se va culca cu soacra sa!” - Şi tot poporul să răspundă: „Amin!”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Consecințele incestului au efecte dezastruoase, în afară de faptul că reprezintă un păcat:\n - în primul exemplu, cu Lot și ficele sale, rezultatul a fost nașterea lui Moab și Amon, care au devenit părinții moabiților și amoniților, popoare care au fost adesea ostile poporului Israel.\n - în al doilea exemplu, cu Amnon și Tamar rezultatul a fost o mare tragedie familială: Absalom, fratele lui Tamar, s-a răzbunat prin uciderea lui Amnon și a declanșat o serie de conflicte în familia lui David."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "ord": 1,
+    "question": "A îngăduit Dumnezeu genocidul în Biblie ? (1 Sam. 15:2÷3)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Sam. 15:2÷3",
+        "verse": "2. Aşa vorbeşte Domnul oştirilor: „Mi-aduc aminte de ceea ce a făcut Amalec lui Israel, când i-a astupat drumul la ieşirea lui din Egipt.\n3. Du-te acum, bate pe Amalec şi nimiceşte cu desăvârşire tot ce-i al lui; să nu-i cruţi, şi să omori bărbaţii şi femeile, copiii şi pruncii, cămilele şi măgarii, boii şi oile.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Porunca dată lui Saul reprezintă un act de judecată divină, nu o invazie obișnuită. Dumnezeu a folosit Israelul pentru a executa această judecată asupra amaleciților, care simbolizau răzvrătirea și păcatul împotriva lui Dumnezeu.\nJudecata asupra amaleciților a fost amânată timp de secole, arătând răbdarea lui Dumnezeu până la momentul în care păcatele lor au ajuns la apogeu (Gen. 15:16).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 15:16",
+            "verse": "16. În al patrulea neam, ea se va întoarce aici; căci nelegiuirea amoriţilor nu şi-a atins încă vârful.”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Explicații:\n - amaleciții au fost un popor care s-a opus cu înverșunare lui Israel încă de la ieșirea din Egipt (Exod 17:8÷16)\n - Dumnezeu menționează păcatul lor de a fi atacat partea din spate a coloanei de israeliți, unde erau cei slabi și vulnerabili (Deut. 25:17÷19)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 17:8÷16",
+            "verse": "8. Amalec a venit să bată pe Israel la Refidim.\n9. Atunci Moise a zis lui Iosua: „Alege nişte bărbaţi şi ieşi de luptă împotriva lui Amalec. Iar eu voi sta mâine pe vârful dealului cu toiagul lui Dumnezeu în mână.”\n10. Iosua a făcut ce-i spusese Moise şi a ieşit să lupte împotriva lui Amalec. Iar Moise, Aaron şi Hur s-au suit pe vârful dealului.\n11. Când îşi ridica Moise mâna, era mai tare Israel; şi când îşi lăsa mâna în jos, era mai tare Amalec.\n12. Mâinile lui Moise fiind trudite, ei au luat o piatră, au pus-o sub el, şi el a şezut pe ea. Aaron şi Hur îi sprijineau mâinile, unul deoparte, iar altul de alta; şi mâinile lui au rămas întinse până la asfinţitul soarelui.\n13. Şi Iosua a biruit pe Amalec şi poporul lui, cu tăişul sabiei.\n14. Domnul a zis lui Moise: „Scrie lucrul acesta în carte, ca să se păstreze aducerea aminte, şi spune lui Iosua că voi şterge pomenirea lui Amalec de sub ceruri.”\n15. Moise a zidit un altar şi i-a pus numele „Domnul, steagul meu”.\n16. El a zis: „Pentru că şi-a ridicat mâna împotriva scaunului de domnie al Domnului, Domnul va purta război împotriva lui Amalec, din neam în neam!”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Deut. 25:17÷19",
+            "verse": "17. Adu-ţi aminte ce ţi-a făcut Amalec pe drum, la ieşirea voastră din Egipt:\n18. cum te-a întâlnit pe drum şi, fără nicio teamă de Dumnezeu, s-a aruncat asupra ta pe dinapoi, asupra tuturor celor ce se târau la coadă, când erai obosit şi sleit de puteri."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "ord": 1,
+    "question": "A îngăduit Dumnezeu divorțul în Biblie ? (Matei 19:3)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 19:3",
+        "verse": "3. Fariseii au venit la El şi, ca să-L ispitească, I-au zis: „Oare este îngăduit unui bărbat să-şi lase nevasta pentru orice pricină?”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Răspunsul lui Isus: Nu (Matei 19:4÷6)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 19:4÷6",
+            "verse": "4. Drept răspuns, El le-a zis: „Oare n-aţi citit că Ziditorul, de la început i-a făcut parte bărbătească şi parte femeiască\n5. şi a zis: \"De aceea va lăsa omul pe tatăl său şi pe mama sa şi se va lipi de nevasta sa, şi cei doi vor fi un singur trup\"?\n6. Aşa că nu mai sunt doi, ci un singur trup. Deci, ce a împreunat Dumnezeu, omul să nu despartă.”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Bărbatul care își părăsește soția pentru alta precurvește (Luca 16:18)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 16:18",
+            "verse": "18. Oricine îşi lasă nevasta şi ia pe alta de nevastă preacurveşte; şi cine ia de nevastă pe cea lăsată de bărbatul ei preacurveşte."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Răspunsul lui Pavel (Romani): Nu (Rom. 7:2÷3)",
+        "stringRef": "Rom. 7:2÷3",
+        "refs": [
+          {
+            "id": 1,
+            "verse": "2. Căci femeia măritată este legată prin Lege de bărbatul ei câtă vreme trăieşte el; dar dacă-i moare bărbatul, este dezlegată de legea bărbatului ei.\n3. Dacă deci, când îi trăieşte bărbatul, ea se mărită după altul, se va chema preacurvă; dar dacă-i moare bărbatul, este dezlegată de lege, aşa că nu mai este preacurvă, dacă se mărită după altul."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Răspunsul lui Pavel (Corinteni): Nu (1 Cor. 7:10)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 7:10",
+            "verse": "10. Celor căsătoriţi le poruncesc nu eu, ci Domnul, ca nevasta să nu se despartă de bărbat."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "profetul Maleahi: Nu (Mal. 2:16)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Mal. 2:16",
+            "verse": "16. „Căci Eu urăsc despărţirea în căsătorie - zice Domnul Dumnezeul lui Israel - şi pe cel ce îşi acoperă haina cu silnicie - zice Domnul oştirilor. De aceea, luaţi seama în mintea voastră şi nu fiţi necredincioşi!”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "ord": 1,
+    "question": "A îngăduit Dumnezeu cartea de despărţire în Biblie ? (Deut. 24:1, Matei 19:7)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Deut. 24:1",
+        "verse": "1. Când cineva îşi va lua o nevastă şi se va însura cu ea şi s-ar întâmpla ca ea să nu mai aibă trecere înaintea lui, pentru că a descoperit ceva ruşinos în ea, să-i scrie o carte de despărţire, şi, după ce-i va da-o în mână, să-i dea drumul din casa lui."
+      },
+      {
+        "id": 2,
+        "stringRef": "Matei 19:7",
+        "verse": "7. „Pentru ce, dar”, I-au zis ei, „a poruncit Moise ca bărbatul să dea nevestei o carte de despărţire şi s-o lase?”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Moise a îngăduit, nu Dumnezeu (Matei 19:8÷9)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 19:8÷9",
+            "verse": "8. Isus le-a răspuns: „Din pricina împietririi inimilor voastre a îngăduit Moise să vă lăsaţi nevestele; dar de la început n-a fost aşa.\n9. Eu, însă, vă spun că oricine îşi lasă nevasta, afară de pricină de curvie, şi ia pe alta de nevastă preacurveşte; şi cine ia de nevastă pe cea lăsată de bărbat preacurveşte.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "ord": 1,
+    "question": "A îngăduit Dumnezeu robia în Biblie ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Da: legea despre robii evrei (Exod 21:1÷6).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 21:1÷6",
+            "verse": "1. „Iată legile pe care le vei pune înaintea lor. 2.\nDacă vei cumpăra un rob evreu, să slujească şase ani ca rob; dar în al şaptelea să iasă slobod, fără să plătească nimic ca despăgubire.\n3. Dacă a intrat singur, să iasă singur; dacă era însurat, să iasă şi nevasta sa împreună cu el.\n4. Dacă stăpânul lui i-a dat o nevastă, şi a avut fii şi fiice cu ea, nevasta şi copiii să fie ai stăpânului lui, iar el să iasă singur.\n5. Dacă robul va zice: «Eu iubesc pe stăpânul meu, pe nevasta mea şi copiii mei, şi nu vreau să ies slobod»,\n6. atunci stăpânul lui să-l ducă înaintea lui Dumnezeu, să-l apropie de uşă sau de stâlpul uşii, şi stăpânul lui să-i găurească urechea cu o sulă, şi robul să rămână pentru totdeauna în slujba lui."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Da: protecția robilor (Exod 21:20)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 21:20",
+            "verse": "20. Dacă un om va lovi cu băτul pe robul sau, fie bărbat, fie femeie, iar robul moare sub mâna lui, stăpânul acestia va fi pedepsit."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Dumnezeu a îngăduit robia în contextul Vechiului Testament, dar nu a aprobat-o ca ideal moral.\n- El a reglementat-o pentru a o limita, umaniza și conduce treptat spre dispariție, într-o cultură unde robia era universală și inevitabilă.\n- Dumnezeu tolerează unele practici culturale pentru o vreme, dar le reglementează într-un mod care, în final, le subminează răul."
+      },
+      {
+        "id": 4,
+        "hint": "Dacă Dumnezeu ar fi interzis complet robia în Israel dintr-o dată, poporul ar fi fost incapabil să înțeleagă și să aplice acea poruncă - exact cum Isus spune despre divorț. (Matei 19:8)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 19:8",
+            "verse": "8. Isus le-a răspuns: „Din pricina împietririi inimilor voastre a îngăduit Moise să vă lăsaţi nevestele; dar de la început n-a fost aşa."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Dumnezeu introduce principii de libertate și restaurare, care în timp dizolvă legitimitatea robiei:\n- limitarea duratei robiei (Exod 21:2, Deut. 15:12).\n- interzicerea răpirii de oameni pentru vânzare (Exod 21:16)\n- protejarea demnității robului (Deut. 23:15÷16)\n- eliberarea periodică a robilor (Ier. 34:8÷17)\n- eliberarea generală la anul Jubileului (Lev. 25:10)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Exod 21:2",
+            "verse": "2. Dacă vei cumpăra un rob evreu, să slujească şase ani ca rob; dar în al şaptelea să iasă slobod, fără să plătească nimic ca despăgubire."
+          },
+          {
+            "id": 2,
+            "stringRef": "Deut. 15:12",
+            "verse": "12. Dacă unul din fraţii tăi evrei, bărbat sau femeie, se vinde ţie, să-ţi slujească şase ani; dar în anul al şaptelea, să-i dai drumul de la tine şi să fie slobod."
+          },
+          {
+            "id": 3,
+            "stringRef": "Deut. 23:15÷16",
+            "verse": "15. Să nu dai înapoi stăpânului său pe un rob care va fugi la tine după ce l-a părăsit.\n16. Să rămână la tine, în mijlocul tău, în locul pe care-l va alege el, într-una din cetăţile tale, unde îi va plăcea: să nu-l asupreşti."
+          },
+          {
+            "id": 4,
+            "stringRef": "Ier. 34:8÷17",
+            "verse": "8. Iată cuvântul spus lui Ieremia din partea Domnului după ce împăratul Zedechia făcuse o învoială cu tot poporul Ierusalimului ca să vestească slobozenia robilor,\n9. pentru ca fiecare să lase slobozi pe robul şi roaba sa, pe evreu şi pe evreică, şi nimeni să nu mai ţină în robie pe fratele său iudeu.\n10. Toate căpeteniile şi tot poporul, care făcuseră învoiala, s-au legat să lase slobozi fiecare pe robul şi roaba lui şi să nu-i mai ţină în robie. Ei au ascultat şi le-au dat drumul.\n11. Dar mai pe urmă s-au răzgândit, au luat înapoi pe robii şi roabele pe care-i sloboziseră şi i-au silit să le fie iarăşi robi şi roabe.\n12. Atunci cuvântul Domnului a vorbit lui Ieremia din partea Domnului astfel:\n13. Aşa vorbeşte Domnul Dumnezeul lui Israel: „Eu am făcut un legământ cu părinţii voştri în ziua când i-am scos din ţara Egiptului, din casa robiei, şi le-am zis:\n14. «După şapte ani, fiecare din voi să lase slobod pe fratele său evreu care i se vinde lui; şase ani să-ţi slujească, şi apoi să-l laşi slobod de la tine. Dar părinţii voştri nu M-au ascultat şi n-au luat aminte la Mine.\n15. Voi v-aţi întors astăzi în voi înşivă, aţi făcut ce este bine înaintea Mea vestind fiecare slobozenia pentru aproapele său şi aţi făcut o învoială înaintea Mea, în Casa peste care este chemat Numele Meu.\n16. Dar pe urmă v-aţi luat vorba înapoi şi Mi-aţi pângărit Numele luând iarăşi înapoi fiecare pe robii şi roabele pe care-i sloboziserăţi şi-i lăsaserăţi în voia lor şi i-aţi silit să vă fie iarăşi robi şi roabe.»\n17. De aceea, aşa vorbeşte Domnul: «Nu M-aţi ascultat ca să vestiţi slobozenia fiecare pentru fratele său, fiecare pentru aproapele său. Iată, Eu vestesc împotriva voastră, zice Domnul, slobozenia sabiei, ciumei şi foametei şi vă voi face de pomină printre toate împărăţiile pământului."
+          },
+          {
+            "id": 5,
+            "stringRef": "Lev. 25:10",
+            "verse": "10. Şi să sfinţiţi astfel anul al cincizecilea, să vestiţi slobozenia în ţară pentru toţi locuitorii ei: acesta să fie pentru voi anul de veselie; fiecare din voi să se întoarcă la moşia lui şi fiecare din voi să se întoarcă în familia lui."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "ord": 1,
+    "question": "De ce e importantă umanitatea lui Isus ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Umanitatea lui Isus e de egală importanță cu dumnezeirea lui Isus. Isus S-a născut ca o Ființă umană, deși continua să fie cu totul divin. Conceptul umanității lui Isus care coexistă cu dumnezeirea Lui e dificil de înțeles de mintea finită a omului. Cu toate acestea, natura lui Isus, pe deplin Om și pe deplin Dumnezeu, e un fapt biblic. Sunt oameni care resping aceste adevăruri biblice și declară că Isus a fost un Om, dar nu Dumnezeu (ebionism). Docetismul este conceptul că Isus a fost Dumnezeu, dar nu Om. Ambele aceste puncte de vedere sunt nebiblice și false."
+      },
+      {
+        "id": 2,
+        "hint": "Isus a trebuit să Se nască ca ființă umană ca să răscumpere pe cei ce erau sub Lege (Gal. 4:4÷5). Numai un om ar putea să se nască sub Lege. Niciun animal sau ființă angelică nu se află „sub Lege”. Numai oamenii sunt născuți sub Lege și numai o ființă umană ar putea răscumpăra o altă ființă umană născută sub aceeași lege.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gal. 4:4÷5",
+            "verse": "4. Dar, când a venit împlinirea vremii, Dumnezeu a trimis pe Fiul Său, născut din femeie, născut sub Lege,\n5. ca să răscumpere pe cei ce erau sub Lege, pentru ca să căpătăm înfierea."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Fiind născuți sub Legea lui Dumnezeu, toți oamenii sunt vinovați de încălcarea acelei Legi. Numai un Om perfect, Isus Cristos, putea respecta și împlini perfect Legea, în acest fel scăpându-ne de această vină. Isus a îndeplinit răscumpărarea noastră la cruce, dându-ne în schimbul păcatelor noastre neprihănirea Lui perfectă (2 Cor. 5:21).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Cor. 5:21",
+            "verse": "21. Pe Cel ce n-a cunoscut niciun păcat, El L-a făcut păcat pentru noi, ca noi să fim neprihănirea lui Dumnezeu în El."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "ord": 1,
+    "question": "Care este păcatul care duce la moarte ? (1 Ioan 5:16÷17)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "1 Ioan 5:16÷17",
+        "verse": "16. Dacă vede cineva pe fratele său săvârşind un păcat care nu duce la moarte, să se roage; şi Dumnezeu îi va da viaţa, pentru cei ce n-au săvârşit un păcat care duce la moarte. Este un păcat care duce la moarte; nu-i zic să se roage pentru păcatul acela.\n17. Orice nelegiuire este păcat; dar este un păcat care nu duce la moarte."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Mulți interpreți consideră că păcatul care duce la moarte se referă la respingerea totală a lui Hristos și a lucrării Duhului Sfânt. Aceasta este o stare de împietrire spirituală care exclude posibilitatea de pocăință."
+      },
+      {
+        "id": 2,
+        "hint": "Isus vorbește despre blasfemia împotriva Duhului Sfânt ca fiind un păcat care nu va fi iertat (Matei 12:31÷32), ceea ce mulți consideră că este păcatul care duce la moarte.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 12:31÷32",
+            "verse": "31. De aceea vă spun: orice păcat şi orice hulă vor fi iertate oamenilor; dar hula împotriva Duhului Sfânt nu le va fi iertată.\n32. Oricine va vorbi împotriva Fiului omului va fi iertat; dar oricine va vorbi împotriva Duhului Sfânt nu va fi iertat nici în veacul acesta, nici în cel viitor."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Unii teologi văd păcatul care duce la moarte ca fiind un păcat săvârșit cu bună știință și fără pocăință, ceea ce implică o stare de rebeliune continuă împotriva lui Dumnezeu."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "ord": 1,
+    "question": "Oamenii pot grăbi venirea Domnului ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Apostolul Petru scrie că oamenii pot contribui la grăbirea venirii Domnului (2 Pet. 3:11÷12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Pet. 3:11÷12",
+            "verse": "11. Deci, fiindcă toate aceste lucruri au să se strice, ce fel de oameni ar trebui să fiţi voi, printr-o purtare sfântă şi evlavioasă,\n12. aşteptând şi grăbind venirea zilei lui Dumnezeu, în care cerurile aprinse vor pieri, şi trupurile cereşti se vor topi de căldura focului?"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Cum pot oamenii grăbi venirea Domnului ?\n - viață sfântă și evlavioasă\n - rugăciune pentru revenirea Domnului (Matei 6:10)\n - evanghelizare (Matei 24:14)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 6:10",
+            "verse": "10. vie Împărăţia Ta; facă-se voia Ta, precum în cer şi pe pământ."
+          },
+          {
+            "id": 2,
+            "stringRef": "Matei 24:14",
+            "verse": "14. Evanghelia aceasta a Împărăţiei va fi propovăduită în toată lumea, ca să slujească de mărturie tuturor neamurilor. Atunci va veni sfârşitul."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "ord": 1,
+    "question": "Oamenii se mai pot întoarce la Dumnezeu după răpirea bisericii ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Da (Apoc. 7:13÷14, Apoc. 11:3÷13, Apoc. 14:6)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 7:13÷14",
+            "verse": "13. Şi unul din bătrâni a luat cuvântul şi mi-a zis: „Aceştia, care sunt îmbrăcaţi în haine albe, cine sunt oare? Şi de unde au venit?”\n14. „Doamne”, i-am răspuns eu, „tu ştii”. Şi el mi-a zis: „Aceştia vin din necazul cel mare; ei şi-au spălat hainele şi le-au albit în sângele Mielului."
+          },
+          {
+            "id": 2,
+            "stringRef": "Apoc. 11:3÷13",
+            "verse": "3. Voi da celor doi martori ai mei să prorocească, îmbrăcaţi în saci, o mie două sute şaizeci de zile.\n4. Aceştia sunt cei doi măslini şi cele două sfeşnice, care stau înaintea Domnului pământului.\n5. Dacă umblă cineva să le facă rău, le iese din gură un foc, care mistuie pe vrăjmaşii lor; şi, dacă vrea cineva să le facă rău, trebuie să piară în felul acesta.\n6. Ei au putere să închidă cerul, ca să nu cadă ploaie în zilele prorociei lor; şi au putere să prefacă apele în sânge şi să lovească pământul cu orice fel de urgie, ori de câte ori vor voi.\n7. Când îşi vor isprăvi mărturisirea lor, fiara, care se ridică din Adânc, va face război cu ei, îi va birui şi-i va omorî.\n8. Şi trupurile lor moarte vor zăcea în piaţa cetăţii celei mari, care, în înţeles duhovnicesc, se cheamă „Sodoma” şi „Egipt”, unde a fost răstignit şi Domnul lor.\n9. Şi oameni din orice norod, din orice seminţie, de orice limbă şi de orice neam vor sta trei zile şi jumătate şi vor privi trupurile lor moarte şi nu vor da voie ca trupurile lor moarte să fie puse în mormânt.\n10. Şi locuitorii de pe pământ se vor bucura şi se vor înveseli de ei; şi îşi vor trimite daruri unii altora, pentru că aceşti doi proroci chinuiseră pe locuitorii pământului.\n11. Dar, după cele trei zile şi jumătate, duhul de viaţă de la Dumnezeu a intrat în ei şi s-au ridicat în picioare, şi o mare frică a apucat pe cei ce i-au văzut.\n12. Şi au auzit din cer un glas tare, care le zicea: „Suiţi-vă aici!” Şi s-au suit într-un nor spre cer; iar vrăjmaşii lor i-au văzut.\n13. În clipa aceea s-a făcut un mare cutremur de pământ şi s-a prăbuşit a zecea parte din cetate. Şapte mii de oameni au fost ucişi în cutremurul acesta de pământ. Şi cei rămaşi s-au îngrozit şi au dat slavă Dumnezeului cerului."
+          },
+          {
+            "id": 3,
+            "stringRef": "Apoc. 14:6",
+            "verse": "6. Şi am văzut un alt înger, care zbura prin mijlocul cerului cu o Evanghelie veşnică, pentru ca s-o vestească locuitorilor pământului, oricărui neam, oricărei seminţii, oricărei limbi şi oricărui norod."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Nu (2 Tes. 2:9÷12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Tes. 2:9÷12",
+            "verse": "9. Arătarea lui se va face prin puterea Satanei, cu tot felul de minuni, de semne şi puteri mincinoase\n10. şi cu toate amăgirile nelegiuirii, pentru cei ce sunt pe calea pierzării, pentru că n-au primit dragostea adevărului ca să fie mântuiţi.\n11. Din această pricină, Dumnezeu le trimite o lucrare de rătăcire, ca să creadă o minciună,\n12. pentru ca toţi cei ce n-au crezut adevărul, ci au găsit plăcere în nelegiuire, să fie osândiţi."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "ord": 1,
+    "question": "Sunt în conflict Biblia și Sfânta Tradiție Ortodoxă ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Sfânta Tradiție este ansamblul învățăturilor, practicilor și experiențelor transmise de la Apostoli prin Biserică. Include:\n - scrierile Sfinților Părinți (ex. Sfântul Vasile cel Mare, Sfântul Ioan Gură de Aur).\n - canoanele și deciziile Sinoadelor Ecumenice.\n - liturghiile și practicile de cult.\n - crezurile Bisericii (în special Crezul de la Niceea-Constantinopol)."
+      },
+      {
+        "id": 2,
+        "hint": "Biblia în cadrul Sfintei Tradiții:\n - Biblia provine din Tradiție: Biserica a fost cea care, în secolul al IV-lea, a stabilit canonul biblic (care cărți fac parte din Scriptură). Prin urmare, Biblia a fost transmisă și păstrată în cadrul Tradiției.\n - Sfânta Tradiție a fost prezentă încă înainte de scrierea Noului Testament. Primele comunități creștine au fost ghidate de învățăturile orale ale Apostolilor și de practicile transmise direct."
+      },
+      {
+        "id": 3,
+        "hint": "Roluri diferite, dar armonioase:\n - Biblia: este autoritatea supremă în materie de credință și viață, inspirată de Duhul Sfânt.\n - Sfânta Tradiție: Este un ghid pentru înțelegerea corectă a Scripturii, oferind interpretări bazate pe continuitatea credinței apostolice."
+      },
+      {
+        "id": 4,
+        "hint": "Biserica Ortodoxă consideră că interpretarea corectă a Bibliei trebuie să fie făcută în lumina Tradiției, pentru a evita interpretările greșite sau eretice."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "ord": 1,
+    "question": "Sfânta Tradiție include botezul copiilor nou născuți ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Da, Sfânta Tradiție a Bisericii Ortodoxe și a Bisericii Catolice include practica botezului copiilor nou-născuți. Această practică este considerată o parte importantă a credinței transmise de la apostoli și din primele secole ale creștinismului. (Fapte 16:15, Fapte 16:33, 1 Cor. 1:16, Matei 19:14)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Fapte 16:15",
+            "verse": "15. După ce a fost botezată, ea şi casa ei, ne-a rugat şi ne-a zis: „Dacă mă socotiţi credincioasă Domnului, intraţi şi rămâneţi în casa mea”. Şi ne-a silit să intrăm."
+          },
+          {
+            "id": 2,
+            "stringRef": "Fapte 16:33",
+            "verse": "33. Temnicerul i-a luat cu el, chiar în ceasul acela din noapte, le-a spălat rănile şi a fost botezat îndată, el şi toţi ai lui."
+          },
+          {
+            "id": 3,
+            "stringRef": "1 Cor. 1:16",
+            "verse": "16. Da, am mai botezat şi casa lui Stefana; încolo, nu ştiu să mai fi botezat pe altcineva."
+          },
+          {
+            "id": 4,
+            "stringRef": "Matei 19:14",
+            "verse": "14. Şi Isus le-a zis: „Lăsaţi copilaşii să vină la Mine şi nu-i opriţi, căci Împărăţia cerurilor este a celor ca ei.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "ord": 1,
+    "question": "Se poate pierde mântuirea ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Da (Evrei 6:4÷6, Evrei 10:26÷27, 2 Pet. 2:20÷21)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 6:4÷6",
+            "verse": "4. Căci cei ce au fost luminaţi odată - şi au gustat darul ceresc, şi s-au făcut părtaşi Duhului Sfânt,\n5. şi au gustat Cuvântul cel bun al lui Dumnezeu şi puterile veacului viitor\n6. şi care totuşi au căzut, este cu neputinţă să fie înnoiţi iarăşi şi aduşi la pocăinţă, fiindcă ei răstignesc din nou, pentru ei, pe Fiul lui Dumnezeu şi-L dau să fie batjocorit."
+          },
+          {
+            "id": 2,
+            "stringRef": "Evrei 10:26÷27",
+            "verse": "26. Căci, dacă păcătuim cu voia, după ce am primit cunoştinţa adevărului, nu mai rămâne nicio jertfă pentru păcate,\n27. ci doar o aşteptare înfricoşată a judecăţii şi văpaia unui foc care va mistui pe cei răzvrătiţi."
+          },
+          {
+            "id": 3,
+            "stringRef": "2 Pet. 2:20÷21",
+            "verse": "20. În adevăr, dacă, după ce au scăpat de întinăciunile lumii, prin cunoaşterea Domnului şi Mântuitorului nostru Isus Hristos, se încurcă iarăşi şi sunt biruiţi de ele, starea lor de pe urmă se face mai rea decât cea dintâi.\n21. Ar fi fost mai bine pentru ei să nu fi cunoscut calea neprihănirii, decât, după ce au cunoscut-o, să se întoarcă de la porunca sfântă care le fusese dată."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Nu (Ioan 10:27÷29, Filip. 1:6, Rom. 8:38÷39)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 10:27÷29",
+            "verse": "27. Oile Mele ascultă glasul Meu; Eu le cunosc, şi ele vin după Mine.\n28. Eu le dau viaţa veşnică, în veac nu vor pieri, şi nimeni nu le va smulge din mâna Mea.\n29. Tatăl Meu, care Mi le-a dat, este mai mare decât toţi; şi nimeni nu le poate smulge din mâna Tatălui Meu."
+          },
+          {
+            "id": 2,
+            "stringRef": "Filip. 1:6",
+            "verse": "6. Sunt încredinţat că Acela care a început în voi această bună lucrare o va isprăvi până în ziua lui Isus Hristos."
+          },
+          {
+            "id": 3,
+            "stringRef": "Rom. 8:38÷39",
+            "verse": "38. Căci sunt bine încredinţat că nici moartea, nici viaţa, nici îngerii, nici stăpânirile, nici puterile, nici lucrurile de acum, nici cele viitoare,\n39. nici înălţimea, nici adâncimea, nicio altă făptură, nu vor fi în stare să ne despartă de dragostea lui Dumnezeu care este în Isus Hristos, Domnul nostru."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "ord": 1,
+    "question": "De ce Isus nu a răspuns marelui preot la judecată ? (Matei 26:62÷63, Marcu 14:60÷61, Ioan 19:9÷10, Luca 23:8÷9, Matei 27:12÷14)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 26:62÷63",
+        "verse": "62. Marele preot s-a sculat în picioare şi I-a zis: „Nu răspunzi nimic? Ce mărturisesc aceştia împotriva Ta?”\n63. Isus tăcea. Şi marele preot a luat cuvântul şi I-a zis: „Te jur, pe Dumnezeul cel Viu, să ne spui dacă eşti Hristosul, Fiul lui Dumnezeu.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Marcu 14:60÷61",
+        "verse": "60. Atunci marele preot s-a sculat în picioare în mijlocul adunării, a întrebat pe Isus şi I-a zis: „Nu răspunzi nimic? Ce mărturisesc oamenii aceştia împotriva Ta?”\n61. Isus tăcea şi nu răspundea nimic. Marele preot L-a întrebat iarăşi şi I-a zis: „Eşti Tu, Hristosul, Fiul Celui binecuvântat?”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Ioan 19:9÷10",
+        "verse": "9. A intrat iarăşi în odaia de judecată şi a zis lui Isus: „De unde eşti Tu?” Dar Isus nu i-a dat niciun răspuns.\n10. Pilat I-a zis: „Mie nu-mi vorbeşti? Nu ştii că am putere să Te răstignesc şi am putere să-Ţi dau drumul?”"
+      },
+      {
+        "id": 4,
+        "stringRef": "Luca 23:8÷9",
+        "verse": "8. Irod, când a văzut pe Isus, s-a bucurat foarte mult; căci de mult dorea să-L vadă, din pricina celor auzite despre El; şi nădăjduia să-L vadă făcând vreo minune.\n9. I-a pus multe întrebări; dar Isus nu i-a răspuns nimic."
+      },
+      {
+        "id": 5,
+        "stringRef": "Matei 27:12÷14",
+        "verse": "12. Dar n-a răspuns nimic la învinuirile preoţilor celor mai de seamă şi bătrânilor.\n13. Atunci Pilat I-a zis: „N-auzi de câte lucruri Te învinuiesc ei?”\n14. Isus nu i-a răspuns la niciun cuvânt, aşa că se mira foarte mult dregătorul."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Ca să se împlinească profeția. Vezi Profețiile bibliei despre Isus (Isaia 53:7)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 53:7",
+            "verse": "7. Când a fost chinuit şi asuprit, n-a deschis gura deloc, ca un miel pe care-l duci la măcelărie şi ca o oaie mută înaintea celor ce o tund: n-a deschis gura."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "ord": 1,
+    "question": "Ce reprezintă cele 7 biserici din cartea Apocalipsa ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Biserica din Efes - care și-a uitat dragostea dintâi (Apoc. 2:4)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 2:4",
+            "verse": "4. Dar ce am împotriva ta este că ţi-ai părăsit dragostea dintâi."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Biserica din Smirna - care urma să sufere persecuție (Apoc. 2:10)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 2:10",
+            "verse": "10. Nu te teme nicidecum de ce ai să suferi. Iată că diavolul are să arunce în temniţă pe unii din voi, ca să vă încerce. Şi veţi avea un necaz de zece zile. Fii credincios până la moarte, şi-ţi voi da cununa vieţii.”"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Biserica din Pergam - care trebuia să se pocăiască (Apoc. 2:16)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 2:16",
+            "verse": "16. Pocăieşte-te, dar. Altfel, voi veni la tine curând şi Mă voi război cu ei cu sabia gurii Mele.”"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Biserica din Tiatira - care avea în mijlocul ei o prorociță falsă (Apoc. 2:20)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 2:20",
+            "verse": "20. Dar iată ce am împotriva ta: tu laşi ca Izabela, femeia aceea care se zice prorociţă, să înveţe şi să amăgească pe robii Mei să se dedea la curvie şi să mănânce din lucrurile jertfite idolilor."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Biserica din Sardes - care a adormit (Apoc. 3:2)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 3:2",
+            "verse": "2. Veghează şi întăreşte ce rămâne, care e pe moarte, căci n-am găsit faptele tale desăvârşite înaintea Dumnezeului Meu."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "hint": "Biserica din Filadelfia - care a răbdat (Apoc. 3:10)",
+        "refs": [
+          {
+            "id": 6,
+            "stringRef": "Apoc. 3:10",
+            "verse": "10. Fiindcă ai păzit cuvântul răbdării Mele, te voi păzi şi Eu de ceasul încercării, care are să vină peste lumea întreagă ca să încerce pe locuitorii pământului."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "hint": "Biserica din Laodiceea - cu o credință căldicică (Apoc. 3:16)",
+        "refs": [
+          {
+            "id": 7,
+            "stringRef": "Apoc. 3:16",
+            "verse": "16. Dar, fiindcă eşti căldicel, nici rece, nici în clocot, am să te vărs din gura Mea."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "ord": 1,
+    "question": "Face Dumnezeu discriminare ? (Rom. 9:13, Mal. 1:2÷3)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Rom. 9:13",
+        "verse": "13. după cum este scris: „Pe Iacov l-am iubit, iar pe Esau l-am urât.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Mal. 1:2÷3",
+        "verse": "2. „V-am iubit, zice Domnul! Şi voi ziceţi: «Cu ce ne-ai iubit?» Nu este Esau frate cu Iacov? - zice Domnul; totuşi am iubit pe Iacov,\n3. şi am urât pe Esau, i-am prefăcut munţii într-o pustietate, şi moştenirea lui am dat-o şacalilor din pustiu."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Iacov și Esau erau frați gemeni, fiii lui Isaac și Rebeca. Esau era întâiul născut, dar Iacov a obținut dreptul de întâi născut printr-un schimb (Gen. 25:29÷34) și apoi a furat binecuvântarea tatălui său prin înșelăciune (Gen. 27).\n - Esau este descris ca fiind impulsiv și neglijent cu lucrurile spirituale. De exemplu, și-a vândut dreptul de întâi născut pentru o mâncare, ceea ce arată că nu prețuia binecuvântările lui Dumnezeu.\n - Iacov nu era mai virtuos: el a înșelat de mai multe ori (inclusiv pe tatăl său și pe fratele său). Totuși, avea o dorință profundă după binecuvântarea lui Dumnezeu și, în cele din urmă, s-a schimbat după ce a avut o experiență transformatoare cu Dumnezeu (Gen. 32:22÷32).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 25:29÷34",
+            "verse": "29. Odată, pe când fierbea Iacov o ciorbă, Esau s-a întors de la câmp, rupt de oboseală.\n30. Şi Esau a zis lui Iacov: „Dă-mi, te rog, să mănânc din ciorba aceasta roşiatică, fiindcă sunt rupt de oboseală”. Pentru aceea s-a dat lui Esau numele Edom.\n31. Iacov a zis: „Vinde-mi azi dreptul tău de întâi născut!”\n32. Esau a răspuns: „Iată-mă, sunt pe moarte; la ce-mi slujeşte dreptul acesta de întâi născut?”\n33. Şi Iacov a zis: „Jură-mi întâi.” Esau i-a jurat şi astfel şi-a vândut dreptul de întâi născut lui Iacov.\n34. Atunci Iacov a dat lui Esau pâine şi ciorbă de linte. El a mâncat şi a băut; apoi s-a sculat şi a plecat. Astfel şi-a nesocotit Esau dreptul de întâi născut."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gen. 32:22÷32",
+            "verse": "22. Tot în noaptea aceea s-a sculat, a luat pe cele două neveste ale lui, pe cele două roabe şi pe cei unsprezece copii ai lui şi a trecut vadul Iabocului.\n23. I-a luat, i-a trecut pârâul şi a trecut tot ce avea.\n24. Iacov însă a rămas singur. Atunci un om s-a luptat cu el până în revărsatul zorilor.\n25. Văzând că nu-l poate birui, omul acesta l-a lovit la încheietura coapsei, aşa că i s-a scrântit încheietura coapsei lui Iacov pe când se lupta cu el.\n26. Omul acela a zis: „Lasă-Mă să plec, căci se revarsă zorile”. Dar Iacov a răspuns: „Nu Te voi lasă să pleci până nu mă vei binecuvânta”.\n27. Omul acela i-a zis: „Cum îţi este numele?” „Iacov”, a răspuns el.\n28. Apoi a zis: „Numele tău nu va mai fi Iacov, ci te vei chema Israel; căci ai luptat cu Dumnezeu şi cu oameni şi ai fost biruitor”.\n29. Iacov L-a întrebat: „Spune-mi, Te rog, numele Tău”. El a răspuns: „Pentru ce Îmi ceri numele?” Şi l-a binecuvântat acolo.\n30. Iacov a pus locului aceluia numele Peniel; „căci”, a zis el, „am văzut pe Dumnezeu faţă în faţă şi totuşi am scăpat cu viaţă”.\n31. Răsărea soarele când a trecut pe lângă Peniel. Însă Iacov şchiopăta din coapsă.\n32. Iată de ce, până în ziua de azi, israeliţii nu mănâncă vâna de la încheietura coapsei; căci Dumnezeu a lovit pe Iacov la încheietura coapsei în vână."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Alegerea lui Iacov a fost făcută înainte ca ei să se nască, înainte să fi făcut bine sau rău. Aceasta arată că Dumnezeu l-a ales pe Iacov nu pentru că era mai bun, ci pentru că așa a fost planul și harul Său suveran. (Rom. 9:10÷12)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 9:10÷12",
+            "verse": "10. Ba mai mult, tot aşa a fost cu Rebeca. Ea a zămislit doi gemeni numai de la părintele nostru Isaac.\n11. Căci, măcar că cei doi gemeni nu se născuseră încă şi nu făcuseră nici bine, nici rău - ca să rămână în picioare hotărârea mai dinainte a lui Dumnezeu, prin care se făcea o alegere, nu prin fapte, ci prin Cel ce cheamă\n12. s-a zis Rebecăi: „Cel mai mare va fi rob celui mai mic”,"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Dumnezeu nu l-a urât pe Esau în sensul uman al cuvântului. Mai degrabă, este o expresie care indică alegerea preferențială a lui Iacov pentru împlinirea planului divin. Esau și urmașii săi (edomiții) nu au fost binecuvântați în același mod spiritual cum a fost Iacov și poporul Israel."
+      },
+      {
+        "id": 4,
+        "hint": "Deși Esau și Iacov erau frați, urmașii lor au avut o relație tensionată de-a lungul istoriei:\n - Când israeliții au ieșit din Egipt și au vrut să treacă prin teritoriul Edomului, edomiții le-au interzis trecerea și i-au amenințat cu războiul (Num. 20:14÷21).\n - Edomiții au fost în conflicte repetate cu israeliții în perioada judecătorilor și regilor lui Israel.\n - Regele Saul (1 Sam. 14:47) și David (2 Sam. 8:13÷14) au luptat împotriva lor.\n - Edomiții au profitat de distrugerea Ierusalimului de către babilonieni (586 î.Hr.), batjocorind și prădând poporul Israel (Obad. 1:10÷14, Ps. 137:7).\n - Dumnezeu a promis distrugerea Edomului prin proroci ca Isaia, Ieremia, Ezechiel și Obadia.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Num. 20:14÷21",
+            "verse": "14. De la Cades, Moise a trimis nişte soli la împăratul Edomului, ca să-i spună: „Aşa vorbeşte fratele tău, Israel: Tu ştii toate suferinţele prin care am trecut.\n15. Părinţii noştri s-au coborât în Egipt şi am locuit acolo multă vreme. Dar egiptenii ne-au chinuit, pe noi şi pe părinţii noştri.\n16. Am strigat către Domnul, şi El ne-a auzit glasul. A trimis un Înger şi ne-a scos din Egipt. Şi iată că suntem la Cades, cetate care se află la marginea ţinutului tău.\n17. Lasă-ne să trecem prin ţara ta; nu vom trece nici prin ogoare, nici prin vii şi nici nu vom bea apă din fântâni; vom merge pe drumul împărătesc, fără să ne abatem la dreapta sau la stânga, până vom trece de ţinutul tău”.\n18. Edom i-a răspuns: „Să nu cumva să treci pe la mine, căci altfel îţi voi ieşi înainte cu sabia.”\n19. Copiii lui Israel i-au zis: „Vom merge pe drumul cel mare; şi dacă vom bea din apa ta, eu şi turmele mele, îţi voi plăti preţul; nu-ţi cer altceva decât să trec cu picioarele!”\n20. El a răspuns: „Să nu cumva să treci!” Şi Edom i-a ieşit înainte cu multă gloată şi cu mână tare.\n21. Astfel Edom n-a vrut să lase pe Israel să treacă prin ţinutul lui. Şi Israel s-a abătut de la el."
+          },
+          {
+            "id": 2,
+            "stringRef": "1 Sam. 14:47",
+            "verse": "47. După ce a luat Saul domnia peste Israel, a făcut război în toate părţile cu toţi vrăjmaşii lui: cu Moab, cu copiii lui Amon, cu Edom, cu împăraţii din Ţoba şi cu filistenii; şi oriîncotro se întorcea, era biruitor."
+          },
+          {
+            "id": 3,
+            "stringRef": "2 Sam. 8:13÷14",
+            "verse": "13. La întoarcerea de la biruinţa lui asupra sirienilor, David şi-a făcut iarăşi un nume, bătând în Valea Sării optsprezece mii de edomiţi.\n14. A pus străji în Edom, a pus străji în tot Edomul. Şi tot Edomul a fost supus lui David. Domnul ocrotea pe David pretutindeni pe unde mergea."
+          },
+          {
+            "id": 4,
+            "stringRef": "Obad. 1:10÷14",
+            "verse": "10. Din pricina silniciei făcute împotriva fratelui tău Iacov, vei fi acoperit de ruşine şi vei fi nimicit cu desăvârşire pentru totdeauna.\n11. Căci în ziua când stăteai în faţa lui, în ziua când străinii îi luau averea, când străinii intrau pe porţile lui şi aruncau sorţul asupra Ierusalimului, şi tu erai atunci ca unul din ei!\n12. Nu trebuia să te uiţi mulţumit la ziua fratelui tău, în ziua nenorocirii lui, nu trebuia să te bucuri de copiii lui Iuda, în ziua pieirii lor, şi nu trebuia să vorbeşti cu semeţie, în ziua strâmtorării!\n13. Nici nu trebuia să intri pe porţile poporului Meu, în ziua nenorocirii lui, nici nu trebuia să te bucuri de nenorocirea lui, în ziua prăpădului lui, şi nu trebuia să pui mâna pe bogăţiile lui, în ziua prăpădului lui!\n14. Nu trebuia să stai la răspântii, ca să nimiceşti pe fugarii lui, şi nici nu trebuia să dai în mâna vrăjmaşului pe cei ce scăpaseră din el în ziua necazului!"
+          },
+          {
+            "id": 5,
+            "stringRef": "Ps. 137:7",
+            "verse": "7. Adu-Ţi aminte, Doamne, de copiii Edomului, care, în ziua nenorocirii Ierusalimului, ziceau: „Radeţi-l, radeţi-l din temelii!”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "ord": 1,
+    "question": "Plătesc copiii păcatele părinților ? (Exod 20:5÷6, Exod 34:6÷7)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Exod 20:5÷6",
+        "verse": "5. Să nu te închini înaintea lor şi să nu le slujeşti; căci Eu, Domnul Dumnezeul tău, sunt un Dumnezeu gelos, care pedepsesc nelegiuirea părinţilor în copii, până la al treilea şi la al patrulea neam al celor ce Mă urăsc,\n6. şi Mă îndur până la al miilea neam de cei ce Mă iubesc şi păzesc poruncile Mele."
+      },
+      {
+        "id": 2,
+        "stringRef": "Exod 34:6÷7",
+        "verse": "6. Şi Domnul a trecut pe dinaintea lui şi a strigat: „Domnul Dumnezeu este un Dumnezeu plin de îndurare şi milostiv, încet la mânie, plin de bunătate şi credincioşie,\n7. care Îşi ţine dragostea până în mii de neamuri de oameni, iartă fărădelegea, răzvrătirea şi păcatul, dar nu socoteşte pe cel vinovat drept nevinovat, şi pedepseşte fărădelegea părinţilor în copii şi în copiii copiilor lor până la al treilea şi al patrulea neam!”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Versetele din referințe au în vedere pe cei care continuă în păcatele părinților, nu celor care se întorc la Dumnezeu."
+      },
+      {
+        "id": 2,
+        "hint": "Fiecare om este responsabil pentru propriile păcate. (Deut. 24:16, Ezec. 18:20)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 24:16",
+            "verse": "16. Să nu omori pe părinţi pentru copii şi să nu omori pe copii pentru părinţi; fiecare să fie omorât pentru păcatul lui."
+          },
+          {
+            "id": 2,
+            "stringRef": "Ezec. 18:20",
+            "verse": "20. Sufletul care păcătuieşte, acela va muri. Fiul nu va purta nelegiuirea tatălui său, şi tatăl nu va purta nelegiuirea fiului său! Neprihănirea celui neprihănit va fi peste el, şi răutatea celui rău va fi peste el."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Prin moartea și învierea lui Isus Hristos, fiecare persoană poate fi eliberată de moștenirea păcatului (2 Cor. 5:17, Gal. 3:13)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Cor. 5:17",
+            "verse": "17. Căci, dacă este cineva în Hristos, este o făptură nouă. Cele vechi s-au dus: iată că toate lucrurile s-au făcut noi."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gal. 3:13",
+            "verse": "13. Hristos ne-a răscumpărat din blestemul Legii, făcându-Se blestem pentru noi - fiindcă este scris: „Blestemat e oricine este atârnat pe lemn”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "ord": 1,
+    "question": "Interzice biblia consumul de vin ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Biblia recunoaște că vinul poate fi un dar de la Dumnezeu, dacă este consumat cu moderație și în contextul potrivit. (Ps. 104:14÷15, Ecl. 9:7, 1 Tim. 5:23, Ioan 2:1÷11)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 104:14÷15",
+            "verse": "14. Tu faci să crească iarba pentru vite, şi verdeţuri, pentru nevoile omului, ca pământul să dea hrană:\n15. vin, care înveseleşte inima omului, untdelemn, care-i înfrumuseţează faţa, şi pâine, care-i întăreşte inima."
+          },
+          {
+            "id": 2,
+            "stringRef": "Ecl. 9:7",
+            "verse": "7. Du-te, dar, de mănâncă-ţi pâinea cu bucurie şi bea-ţi cu inimă bună vinul; căci demult a găsit Dumnezeu plăcere în ce faci tu acum."
+          },
+          {
+            "id": 3,
+            "stringRef": "1 Tim. 5:23",
+            "verse": "23. Să nu mai bei numai apă, ci să iei şi câte puţin vin, din pricina stomacului tău şi din pricina deselor tale îmbolnăviri."
+          },
+          {
+            "id": 4,
+            "stringRef": "Ioan 2:1÷11",
+            "verse": "1. A treia zi s-a făcut o nuntă în Cana din Galileea. Mama lui Isus era acolo.\n2. Şi la nuntă a fost chemat şi Isus cu ucenicii Lui.\n3. Când s-a isprăvit vinul, mama lui Isus I-a zis: „Nu mai au vin.”\n4. Isus i-a răspuns: „Femeie, ce am a face Eu cu tine? Nu Mi-a venit încă ceasul.”\n5. Mama Lui a zis slugilor: „Să faceţi orice vă va zice.”\n6. Şi acolo erau şase vase de piatră, puse după obiceiul de curăţare al iudeilor; şi în fiecare vas încăpeau câte două sau trei vedre.\n7. Isus le-a zis: „Umpleţi vasele acestea cu apă.” Şi le-au umplut până sus.\n8. „Scoateţi acum”, le-a zis El, „şi aduceţi nunului.” Şi i-au adus:\n9. Nunul, după ce a gustat apa făcută vin - el nu ştia de unde vine vinul acesta (slugile însă, care scoseseră apa, ştiau) - a chemat pe mire\n10. şi i-a zis: „Orice om pune la masă întâi vinul cel bun; şi, după ce oamenii au băut bine, atunci pune pe cel mai puţin bun; dar tu ai ţinut vinul cel bun până acum.”\n11. Acest început al semnelor Lui l-a făcut Isus în Cana din Galileea. El Şi-a arătat slava Sa, şi ucenicii Lui au crezut în El."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Deși vinul este permis, beția este un păcat (Prov. 20:1, Prov. 23:29÷35, Efes. 5:18, 1 Cor. 6:10).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 20:1",
+            "verse": "1. Vinul este batjocoritor, băuturile tari sunt gălăgioase; oricine se îmbată cu ele nu este înţelept."
+          },
+          {
+            "id": 2,
+            "stringRef": "Prov. 23:29÷35",
+            "verse": "29. Ale cui sunt vaietele? Ale cui sunt oftările? Ale cui sunt neînţelegerile? Ale cui sunt plângerile? Ale cui sunt rănirile fără pricină? Ai cui sunt ochii roşii?\n30. Ale celor ce întârzie la vin şi se duc să golească paharul cu vin amestecat.\n31. Nu te uita la vin când curge roşu şi face mărgăritare în pahar; el alunecă uşor,\n32. dar pe urmă ca un şarpe muşcă şi înţeapă ca un basilic.\n33. Ochii ţi se vor uita după femeile altora, şi inima îţi va vorbi prostii.\n34. Vei fi ca un om culcat în mijlocul mării, ca un om culcat pe vârful unui catarg.\n35. „M-a lovit… dar nu mă doare!… M-a bătut… dar nu simt nimic! Când mă voi trezi? Mai vreau vin!”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Efes. 5:18",
+            "verse": "18. Nu vă îmbătaţi de vin, aceasta este destrăbălare. Dimpotrivă, fiţi plini de Duh."
+          },
+          {
+            "id": 4,
+            "stringRef": "1 Cor. 6:10",
+            "verse": "10. nici hoţii, nici cei lacomi, nici beţivii, nici defăimătorii, nici hrăpăreţii nu vor moşteni Împărăţia lui Dumnezeu."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "ord": 1,
+    "question": "Biblia interzice transfuziile de sânge ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "În vremurile biblice nu existau transfuzii de sânge. Dumnezeu a interzis consumul de sânge în context alimentar sau ritualic (Lev. 17:10÷11, Fapte 15:28÷29) și nu procedurile medicale pentru a salva vieți.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Lev. 17:10÷11",
+            "verse": "10. Dacă un om din casa lui Israel sau din străinii care locuiesc în mijlocul lor mănâncă sânge de orice fel, Îmi voi întoarce faţa împotriva celui ce mănâncă sângele şi-l voi nimici din mijlocul poporului său.\n11. Căci viaţa trupului este în sânge. Vi l-am dat ca să-l puneţi pe altar, ca să slujească de ispăşire pentru sufletele voastre, căci prin viaţa din el face sângele ispăşire."
+          },
+          {
+            "id": 2,
+            "stringRef": "Fapte 15:28÷29",
+            "verse": "28. Căci s-a părut nimerit Duhului Sfânt şi nouă să nu mai punem peste voi nicio altă greutate decât ceea ce trebuie,\n29. adică: să vă feriţi de lucrurile jertfite idolilor, de sânge, de dobitoace sugrumate şi de curvie, lucruri de care, dacă vă veţi păzi, va fi bine de voi. Fiţi sănătoşi!”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Donarea de sânge este un act de iubire și compasiune față de cei aflați în nevoie pe care biblia îl încurajează (Ioan 15:13, Luca 10:30÷37, Isaia 58:7).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 15:13",
+            "verse": "13. Nu este mai mare dragoste decât să-şi dea cineva viaţa pentru prietenii săi."
+          },
+          {
+            "id": 2,
+            "stringRef": "Luca 10:30÷37",
+            "verse": "30. Isus a luat din nou cuvântul şi a zis: „Un om se cobora din Ierusalim la Ierihon. A căzut între nişte tâlhari, care l-au dezbrăcat, l-au jefuit de tot, l-au bătut zdravăn, au plecat şi l-au lăsat aproape mort.\n31. Din întâmplare, se cobora pe acelaşi drum un preot; şi, când a văzut pe omul acesta, a trecut înainte pe alături.\n32. Un levit trecea şi el prin locul acela; şi, când l-a văzut, a trecut înainte pe alături.\n33. Dar un samaritean, care era în călătorie, a venit în locul unde era el şi, când l-a văzut, i s-a făcut milă de el.\n34. S-a apropiat de i-a legat rănile şi a turnat peste ele untdelemn şi vin; apoi l-a pus pe dobitocul lui, l-a dus la un han şi a îngrijit de el.\n35. A doua zi, când a pornit la drum, a scos doi lei, i-a dat hangiului şi i-a zis: «Ai grijă de el, şi orice vei mai cheltui îţi voi da înapoi la întoarcere.»\n36. Care dintre aceştia trei ţi se pare că a dat dovadă că este aproapele celui ce căzuse între tâlhari?”\n37. „Cel ce şi-a făcut milă cu el”, a răspuns învăţătorul Legii. „Du-te de fă şi tu la fel”, i-a zis Isus."
+          },
+          {
+            "id": 3,
+            "stringRef": "Isaia 58:7",
+            "verse": "7. împarte-ţi pâinea cu cel flămând şi adu în casa ta pe nenorociţii fără adăpost; dacă vezi pe un om gol, acoperă-l, şi nu întoarce spatele semenului tău."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "ord": 1,
+    "question": "Interzice biblia transplantul de organe ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Viața umană este valoroasă și sacră, iar orice decizie medicală trebuie luată cu respect față de acest principiu. (Gen. 1:27).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 1:27",
+            "verse": "27. Dumnezeu a făcut pe om după chipul Său, l-a făcut după chipul lui Dumnezeu; parte bărbătească şi parte femeiască i-a făcut."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Pentru transplantul de organe rămân valabile considerațiile de la transfuziile de sânge."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "ord": 1,
+    "question": "Isus a fost junghiat înainte de întemeierea lumii? (Apoc. 13:8)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Apoc. 13:8",
+        "verse": "8. Şi toţi locuitorii pământului i se vor închina, toţi aceia al căror nume n-a fost scris, de la întemeierea lumii, în cartea vieţii Mielului care a fost junghiat."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Planul lui Dumnezeu pentru mântuirea omenirii, prin moartea lui Isus pe cruce, a fost stabilit înainte de întemeierea lumii. Nu înseamnă că evenimentul fizic al crucificării a avut loc înainte de crearea lumii, ci mai degrabă că Dumnezeu, în suveranitatea Sa, a plănuit jertfa lui Hristos ca act central de mântuire încă de la începuturi.\nAceastă idee este susținută și de alte versete (1 Pet. 1:20÷21).\nAstfel, expresia sugerează că jertfa lui Isus face parte din planul etern al lui Dumnezeu, dar nu trebuie înțeleasă în mod literal ca un eveniment care s-a întâmplat înainte de crearea lumii, ci ca un plan divin veșnic.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Pet. 1:20÷21",
+            "verse": "20. El a fost cunoscut mai înainte de întemeierea lumii şi a fost arătat la sfârşitul vremurilor pentru voi\n21. care prin El sunteţi credincioşi în Dumnezeu care L-a înviat din morţi şi I-a dat slavă, pentru ca credinţa şi nădejdea voastră să fie în Dumnezeu."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "ord": 1,
+    "question": "Curiozitatea este un păcat ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Biblia nu condamnă curiozitatea în sine, dar o distinge clar între:\n - curiozitate bună, care caută adevărul și înțelepciunea,\n - curiozitate păcătoasă, care duce la ispită, neascultare sau indiscreție."
+      },
+      {
+        "id": 2,
+        "hint": "A căuta cunoștința lui Dumnezeu, adevărul, înțelepciunea este o formă sfântă de curiozitate (Prov. 2:3÷5).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 2:3÷5",
+            "verse": "3. dacă vei cere înţelepciune şi dacă te vei ruga pentru pricepere,\n4. dacă o vei căuta ca argintul şi vei umbla după ea ca după o comoară,\n5. atunci vei înţelege frica de Domnul şi vei găsi cunoştinţa lui Dumnezeu."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Când Maria află că va fi însărcinată, fiind virgină, este curioasă, dar cu o inimă smerită, nu necredincioasă. Dumnezeu nu o mustră. (Luca 1:34).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Luca 1:34",
+            "verse": "34. Maria a zis îngerului: „Cum se va face lucrul acesta, fiindcă eu nu ştiu de bărbat?”"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Curiozitatea poate deveni păcat când:\n - duce la neascultare. Dorința de cunoaștere, scăpată de sub autoritatea lui Dumnezeu, a dus la cădere. (Gen. 3:6)\n - se manifestă prin indiscreție, bârfă, iscodire. (1 Tim. 5:13)\n - caută lucruri oprite sau periculoase (Deut. 29:29).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 3:6",
+            "verse": "6. Femeia a văzut că pomul era bun de mâncat şi plăcut de privit şi că pomul era de dorit ca să deschidă cuiva mintea. A luat deci din rodul lui şi a mâncat; a dat şi bărbatului ei, care era lângă ea, şi bărbatul a mâncat şi el."
+          },
+          {
+            "id": 2,
+            "stringRef": "1 Tim. 5:13",
+            "verse": "13. Totodată se deprind să umble fără nicio treabă din casă în casă; şi nu numai că sunt leneşe, dar sunt şi limbute şi iscoditoare, şi vorbesc ce nu trebuie vorbit."
+          },
+          {
+            "id": 3,
+            "stringRef": "Deut. 29:29",
+            "verse": "29. Lucrurile ascunse sunt ale Domnului Dumnezeului nostru, iar lucrurile descoperite sunt ale noastre şi ale copiilor noştri, pe vecie, ca să împlinim toate cuvintele Legii acesteia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "ord": 1,
+    "question": "Care sunt tainele bibliei ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Taina lui Hristos - unirea lui Dumnezeu cu omul (Col. 1:26÷27)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Col. 1:26÷27",
+            "verse": "26. Vreau să zic: taina ţinută ascunsă din veşnicii şi în toate veacurile, dar descoperită acum sfinţilor Lui,\n27. cărora Dumnezeu a voit să le facă cunoscut care este bogăţia slavei tainei acesteia între Neamuri, şi anume: Hristos în voi, nădejdea slavei."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Taina Bisericii - unirea iudeilor și a neamurilor (Efes. 3:3÷6)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Efes. 3:3÷6",
+            "verse": "33. Prin descoperire dumnezeiască am luat cunoştinţă de taina aceasta despre care v-am scris în puţine cuvinte.\n4. Citindu-le, vă puteţi închipui priceperea pe care o am eu despre taina lui Hristos,\n5. care n-a fost făcută cunoscut fiilor oamenilor în celelalte veacuri, în felul cum a fost descoperită acum sfinţilor apostoli şi proroci ai lui Hristos, prin Duhul.\n6. Că, adică, Neamurile sunt împreună moştenitoare cu noi, alcătuiesc un singur trup cu noi şi iau parte cu noi la aceeaşi făgăduinţă în Hristos Isus, prin Evanghelia aceea,"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Taina căsătoriei - simbolul unirii lui Hristos cu Biserica (Efes. 5:31÷32)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Efes. 5:31÷32",
+            "verse": "31. „De aceea va lăsa omul pe tatăl său şi pe mama sa şi se va lipi de nevasta sa, şi cei doi vor fi un singur trup.\n32. Taina aceasta este mare - (vorbesc despre Hristos şi despre Biserică)."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Taina schimbării la înviere (1 Cor. 15:51÷52)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Cor. 15:51÷52",
+            "verse": "51. Iată, vă spun o taină: nu vom adormi toţi, dar toţi vom fi schimbaţi,\n52. într-o clipă, într-o clipită din ochi, la cea din urmă trâmbiţă. Trâmbiţa va suna, morţii vor învia nesupuşi putrezirii, şi noi vom fi schimbaţi."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Taina împărăției lui Dumnezeu (Marcu 4:11)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Marcu 4:11",
+            "verse": "11. „Vouă”, le-a zis El, „v-a fost dat să cunoaşteţi taina Împărăţiei lui Dumnezeu; dar pentru cei ce sunt afară din numărul vostru, toate lucrurile sunt înfăţişate în pilde;"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "hint": "Taina nelegiuirii (2 Tes. 2:7)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Tes. 2:7",
+            "verse": "7. Căci taina fărădelegii a şi început să lucreze; trebuie numai ca cel ce o opreşte acum să fie luat din drumul ei."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "hint": "Taina evlaviei - Hristos întrupat (1 Tim. 3:16)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Tim. 3:16",
+            "verse": "16. Şi, fără îndoială, mare este taina evlaviei… „Cel ce a fost arătat în trup a fost dovedit neprihănit în Duhul, a fost văzut de îngeri, a fost propovăduit printre Neamuri, a fost crezut în lume, a fost înălţat în slavă.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "ord": 1,
+    "question": "Care este perspectiva biblică în legătură cu moartea asistată ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Dumnezeu este suveran asupra vieții și a morții (Deut. 32:39, Iov 1:21, Ps. 139:16).\nDecizia de a pune capăt unei vieți prin eutanasie intră în conflict cu suveranitatea lui Dumnezeu asupra vieții și morții.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Deut. 32:39",
+            "verse": "39. Să ştiţi, dar, că Eu sunt Dumnezeu şi că nu este alt dumnezeu afară de Mine; Eu dau viaţă şi Eu omor, Eu rănesc şi Eu tămăduiesc, şi nimeni nu poate scoate pe cineva din mâna Mea."
+          },
+          {
+            "id": 2,
+            "stringRef": "Iov 1:21",
+            "verse": "21. şi a zis: „Gol am ieşit din pântecele mamei mele şi gol mă voi întoarce în sânul pământului. Domnul a dat şi Domnul a luat - binecuvântat fie Numele Domnului!”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Ps. 139:16",
+            "verse": "16. Când nu eram decât un plod fără chip, ochii Tăi mă vedeau; şi în cartea Ta erau scrise toate zilele care-mi erau rânduite, mai înainte de a fi fost vreuna din ele."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Sfințenia vieții umane - fiecare persoană este creată după chipul lui Dumnezeu și, prin urmare, viața umană este sacră (Gen. 1:27, Exod 20:13).\nEutanasia contrazice acest principiu al sfințeniei vieții, deoarece implică luarea unei vieți în mod deliberat.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 1:27",
+            "verse": "27. Dumnezeu a făcut pe om după chipul Său, l-a făcut după chipul lui Dumnezeu; parte bărbătească şi parte femeiască i-a făcut."
+          },
+          {
+            "id": 2,
+            "stringRef": "Exod 20:13",
+            "verse": "13. Să nu ucizi!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Suferința și rolul ei în planul lui Dumnezeu - Biblia nu neagă suferința, dar îi conferă un scop în desăvârșirea caracterului și în apropierea de Dumnezeu (Rom. 5:3÷5, 2 Cor. 4:17).\nSuferința poate fi o cale prin care credinciosul este format și se apropie de Dumnezeu, nu neapărat un lucru de evitat cu orice preț.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 5:3÷5",
+            "verse": "3. Ba mai mult, ne bucurăm chiar şi în necazurile noastre; căci ştim că necazul aduce răbdare,\n4. răbdarea aduce biruinţă în încercare, iar biruinţa aceasta aduce nădejdea.\n5. Însă nădejdea aceasta nu înşală, pentru că dragostea lui Dumnezeu a fost turnată în inimile noastre prin Duhul Sfânt care ne-a fost dat."
+          },
+          {
+            "id": 2,
+            "stringRef": "2 Cor. 4:17",
+            "verse": "17. Căci întristările noastre uşoare, de o clipă, lucrează pentru noi tot mai mult o greutate veşnică de slavă."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Chemarea la compasiune și îngrijire, nu la curmarea vieții (Matei 25:36, Iacov 5:14÷15).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Matei 25:36",
+            "verse": "36. am fost gol, şi M-aţi îmbrăcat; am fost bolnav, şi aţi venit să Mă vedeţi; am fost în temniţă, şi aţi venit pe la Mine.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Iacov 5:14÷15",
+            "verse": "14. Este vreunul printre voi bolnav? Să cheme pe prezbiterii bisericii; şi să se roage pentru el, după ce-l vor unge cu untdelemn în Numele Domnului.\n15. Rugăciunea făcută cu credinţă va mântui pe cel bolnav, şi Domnul îl va însănătoşi; şi, dacă a făcut păcate, îi vor fi iertate."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Speranța în viața veșnică și înnoirea trupului oferă perspectiva necesară pentru a îndura suferința prezentă cu nădejde (Filip. 1:21, Apoc. 21:4).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Filip. 1:21",
+            "verse": "21. Căci pentru mine a trăi este Hristos, şi a muri este un câştig."
+          },
+          {
+            "id": 2,
+            "stringRef": "Apoc. 21:4",
+            "verse": "4. El va şterge orice lacrimă din ochii lor. Şi moartea nu va mai fi. Nu va mai fi nici tânguire, nici ţipăt, nici durere, pentru că lucrurile dintâi au trecut.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "ord": 1,
+    "question": "Care este soarta celor care au trăit înaintea venirii lui Isus ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Mântuirea prin credință, nu prin lege - chiar și înainte de venirea lui Isus, mântuirea a fost tot prin credință, nu prin împlinirea perfectă a legii (Gen. 15:6), reafirmată în NT (Rom. 3:20÷22, Rom. 4:3, Gal. 3:6).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 15:6",
+            "verse": "6. Avram a crezut pe Domnul, şi Domnul i-a socotit lucrul acesta ca neprihănire."
+          },
+          {
+            "id": 2,
+            "stringRef": "Rom. 3:20÷22",
+            "verse": "20. Căci nimeni nu va fi socotit neprihănit înaintea Lui prin faptele Legii, deoarece prin Lege vine cunoştinţa deplină a păcatului.ân21. Dar acum s-a arătat o neprihănire pe care o dă Dumnezeu, fără lege - despre ea mărturisesc Legea şi Prorocii -ân22. şi anume, neprihănirea dată de Dumnezeu, care vine prin credinţa în Isus Hristos, pentru toţi şi peste toţi cei ce cred în El. Nu este nicio deosebire."
+          },
+          {
+            "id": 3,
+            "stringRef": "Rom. 4:3",
+            "verse": "3. Căci ce zice Scriptura? „Avraam a crezut pe Dumnezeu, şi aceasta i s-a socotit ca neprihănire.”"
+          },
+          {
+            "id": 4,
+            "stringRef": "Gal. 3:6",
+            "verse": "6. Tot aşa şi „Avraam a crezut pe Dumnezeu, şi credinţa aceasta i-a fost socotită ca neprihănire.”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Legea și jertfele ca umbră a lucrurilor viitoare (Evrei 10:1). Jertfele și ritualurile din Vechiul Testament erau simboluri care arătau spre Hristos (Ioan 1:29). Cei care au adus jertfe în credință, conform legii date prin Moise, își manifestau încrederea în promisiunea lui Dumnezeu de a aduce un Mântuitor",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 10:1",
+            "verse": "1. În adevăr, Legea, care are umbra bunurilor viitoare, nu înfăţişarea adevărată a lucrurilor, nu poate niciodată, prin aceleaşi jertfe care se aduc neîncetat în fiecare an, să facă desăvârşiţi pe cei ce se apropie."
+          },
+          {
+            "id": 2,
+            "stringRef": "Ioan 1:29",
+            "verse": "29. A doua zi, Ioan a văzut pe Isus venind la el şi a zis: „Iată Mielul lui Dumnezeu care ridică păcatul lumii!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Pogorârea lui Hristos în locuința morților (1 Pet. 3:18÷19, Efes. 4:8÷9). Mulți teologi înțeleg că Hristos a proclamat victoria Sa celor care au murit înaintea Lui, eliberându-i pe cei drepți și confirmând judecata pentru cei nelegiuiți.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Pet. 3:18÷19",
+            "verse": "18. Hristos, de asemenea, a suferit o dată pentru păcate, El, Cel Neprihănit, pentru cei nelegiuiţi, ca să ne aducă la Dumnezeu. El a fost omorât în trup, dar a fost înviat în duh,\n19. în care S-a dus să propovăduiască duhurilor din închisoare"
+          },
+          {
+            "id": 2,
+            "stringRef": "Efes. 4:8÷9",
+            "verse": "De aceea este zis: „S-a suit sus, a luat robia roabă şi a dat daruri oamenilor.”\n9. Şi acest „s-a suit” ce înseamnă decât că înainte Se coborâse în părţile mai de jos ale pământului?"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Judecata și măsura luminii primite (Rom. 2:14÷15). Cei care nu au avut acces la Lege, dar au urmat legea morală a conștiinței lor, vor fi judecați în funcție de aceasta.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 2:14÷15",
+            "verse": "14. Când Neamurile, măcar că n-au lege, fac din fire lucrurile Legii, prin aceasta ei, care n-au o lege, îşi sunt singuri lege;\n15. şi ei dovedesc că lucrarea Legii este scrisă în inimile lor; fiindcă despre lucrarea aceasta mărturiseşte cugetul lor şi gândurile lor, care sau se învinovăţesc sau se dezvinovăţesc între ele."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Hristos - Salvatorul tuturor timpurilor (Ioan 8:56, Evrei 13:8). Mântuirea prin Hristos nu este limitată de timp; ea acoperă atât trecutul, cât și prezentul și viitorul.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 8:56",
+            "verse": "Tatăl vostru Avraam a săltat de bucurie că are să vadă ziua Mea: a văzut-o şi s-a bucurat.”"
+          },
+          {
+            "id": 2,
+            "stringRef": "Evrei 13:8",
+            "verse": "8. Isus Hristos este acelaşi ieri şi azi şi în veci!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "ord": 1,
+    "question": "Cum ne învață biblia să abordăm suferința ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Suferința este o consecință a căderii în păcat și este parte din viața fiecărui om (Rom. 5:12). Isus însuși a recunoscut această realitate, dar a oferit și nădejdea biruinței. (Ioan 16:33).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 5:12",
+            "verse": "12. De aceea, după cum printr-un singur om a intrat păcatul în lume, şi prin păcat a intrat moartea, şi astfel moartea a trecut asupra tuturor oamenilor, din pricină că toţi au păcătuit…"
+          },
+          {
+            "id": 2,
+            "stringRef": "Ioan 16:33",
+            "verse": "33. V-am spus aceste lucruri ca să aveţi pace în Mine. În lume veţi avea necazuri; dar îndrăzniţi, Eu am biruit lumea.”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Suferința ne apropie de Dumnezeu și ne formează caracterul (Rom. 5:3÷5, Iacov 1:2÷4).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 5:3÷5",
+            "verse": "3. Ba mai mult, ne bucurăm chiar şi în necazurile noastre; căci ştim că necazul aduce răbdare,\n4. răbdarea aduce biruinţă în încercare, iar biruinţa aceasta aduce nădejdea.\n5. Însă nădejdea aceasta nu înşală, pentru că dragostea lui Dumnezeu a fost turnată în inimile noastre prin Duhul Sfânt care ne-a fost dat."
+          },
+          {
+            "id": 2,
+            "stringRef": "Iacov 1:2÷4",
+            "verse": "2. Fraţii mei, să priviţi ca o mare bucurie când treceţi prin felurite încercări,\n3. ca unii care ştiţi că încercarea credinţei voastre lucrează răbdare.\n4. Dar răbdarea trebuie să-şi facă desăvârşit lucrarea, ca să fiţi desăvârşiţi, întregi şi să nu duceţi lipsă de nimic."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "În suferință, realizăm limitările noastre și ne apropiem mai mult de Dumnezeu, care ne oferă sprijin și mângâiere (Ps. 34:18, 2 Cor. 12:9÷10).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ps. 34:18",
+            "verse": "18. Domnul este aproape de cei cu inima înfrântă şi mântuieşte pe cei cu duhul zdrobit."
+          },
+          {
+            "id": 2,
+            "stringRef": "2 Cor. 12:9÷10",
+            "verse": "9. Şi El mi-a zis: „Harul Meu îţi este de ajuns; căci puterea Mea în slăbiciune este făcută desăvârşită.” Deci mă voi lăuda mult mai bucuros cu slăbiciunile mele, pentru ca puterea lui Hristos să rămână în mine.\n10. De aceea simt plăcere în slăbiciuni, în defăimări, în nevoi, în prigoniri, în strâmtorări, pentru Hristos; căci când sunt slab, atunci sunt tare."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Suferința ne învață compasiunea și empatia pentru ceilalți (2 Cor. 1:3÷4, Evrei 13:3).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Cor. 1:3÷4",
+            "verse": "3. Binecuvântat să fie Dumnezeu, Tatăl Domnului nostru Isus Hristos, Părintele îndurărilor şi Dumnezeul oricărei mângâieri,\n4. care ne mângâie în toate necazurile noastre, pentru ca, prin mângâierea cu care noi înşine suntem mângâiaţi de Dumnezeu, să putem mângâia pe cei ce se află în vreun necaz!"
+          },
+          {
+            "id": 2,
+            "stringRef": "Evrei 13:3",
+            "verse": "3. Aduceţi-vă aminte de cei ce sunt în lanţuri, ca şi cum aţi fi şi voi legaţi cu ei; de cei chinuiţi, ca unii care şi voi sunteţi în trup."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Suferința ne face să privim dincolo de viața aceasta și să ne ancorăm în speranța vieții veșnice cu Dumnezeu. (Rom. 8:18, 2 Cor. 4:17, Apoc. 21:4).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 8:18",
+            "verse": "18. Eu socotesc că suferinţele din vremea de acum nu sunt vrednice să fie puse alături cu slava viitoare, care are să fie descoperită faţă de noi."
+          },
+          {
+            "id": 2,
+            "stringRef": "2 Cor. 4:17",
+            "verse": "17. Căci întristările noastre uşoare, de o clipă, lucrează pentru noi tot mai mult o greutate veşnică de slavă."
+          },
+          {
+            "id": 2,
+            "stringRef": "Apoc. 21:4",
+            "verse": "4. El va şterge orice lacrimă din ochii lor. Şi moartea nu va mai fi. Nu va mai fi nici tânguire, nici ţipăt, nici durere, pentru că lucrurile dintâi au trecut.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Sfinții pot păcătui ?",
+    "ord": 1,
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Aparent, nu (1 Ioan 3:9).\n- „nu păcătuiește” și „nu poate păcătui” sunt verbe la timpul prezent continuu, indicând o acțiune continuă sau obișnuită, nu un act singular.\n- Traducerea literală ar fi: „...nu continuă să păcătuiască” sau „...nu trăiește în păcat ca mod de viață”",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Ioan 3:9",
+            "verse": "9. Oricine este născut din Dumnezeu nu păcătuieşte, pentru că sămânţa Lui rămâne în el; şi nu poate păcătui, fiindcă este născut din Dumnezeu."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Biblia afirmă că toți oamenii, inclusiv sfinții, păcătuiesc (Rom. 3:23, 1 Ioan 1:8, 1 Ioan 2:1). Chiar și cei mai apropiați de Dumnezeu pot cădea în păcat.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 3:23",
+            "verse": "23. căci toţi au păcătuit şi sunt lipsiţi de slava lui Dumnezeu,"
+          },
+          {
+            "id": 2,
+            "stringRef": "1 Ioan 1:8",
+            "verse": "8. Dacă zicem că nu avem păcat, ne înşelăm singuri, şi adevărul nu este în noi."
+          },
+          {
+            "id": 3,
+            "stringRef": "1 Ioan 2:1",
+            "verse": "1. Copilaşilor, vă scriu aceste lucruri ca să nu păcătuiţi. Dar, dacă cineva a păcătuit, avem la Tatăl un Mijlocitor, pe Isus Hristos, Cel Neprihănit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "ord": 1,
+    "question": "De ce Dumnezeu nu i-a salvat pe Adam și pe Eva după ce au păcătuit?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Pentru că în loc să se pocăiască, s-au ascuns de Dumnezeu (Gen. 3:8) și nu și-au recunoscut vina, dând-o pe altcineva (Gen. 3:12÷13).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 3:8",
+            "verse": "8. Atunci au auzit glasul Domnului Dumnezeu, care umbla prin grădina în răcoarea zilei: şi omul şi nevasta lui s-au ascuns de faţa Domnului Dumnezeu printre pomii din grădină."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gen. 3:12÷13",
+            "verse": "12. Omul a răspuns: „Femeia pe care mi-ai dat-o ca să fie lângă mine, ea mi-a dat din pom şi am mâncat.”\n13. Și Domnul Dumnezeu a zis femeii: „Ce ai făcut?” Femeia a răspuns: „Şarpele m-a amăgit şi am mâncat.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "ord": 1,
+    "question": "De ce ne temem de Dumnezeu ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Pentru că Dumnezeu este sfânt și drept, iar păcatul aduce judecata. (Evrei 10:31)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 10:31",
+            "verse": "31. Grozav lucru este să cazi în mâinile Dumnezeului celui Viu!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Pentru că ne temem de consecințele păcatului și de despărțirea de Dumnezeu. (Isaia 59:2)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 59:2",
+            "verse": "2. ci nelegiuirile voastre pun un zid de despărţire între voi şi Dumnezeul vostru; păcatele voastre vă ascund faţa Lui şi-L împiedică să v-asculte!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Pentru credincios teama de Dumnezeu este respect sfânt și reverență, care recunoaște măreția, suveranitatea și puterea Lui (Prov. 1:7, Prov. 9:10), dar și dragostea și mila Sa (Ps. 103:11÷13).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 1:7",
+            "verse": "7. Frica Domnului este începutul ştiinţei; dar nebunii nesocotesc înţelepciunea şi învăţătura."
+          },
+          {
+            "id": 2,
+            "stringRef": "Prov. 9:10",
+            "verse": "10. Începutul înţelepciunii este frica de Domnul; şi ştiinţa sfinţilor este priceperea."
+          },
+          {
+            "id": 3,
+            "stringRef": "Ps. 103:11÷13",
+            "verse": "11. Ci cât sunt de sus cerurile faţă de pământ, atât este de mare bunătatea Lui pentru cei ce se tem de El;\n12. cât este de departe răsăritul de apus, atât de mult depărtează El fărădelegile noastre de la noi.\n13. Cum se îndură un tată de copiii lui, aşa Se îndură Domnul de cei ce se tem de El."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Teama de Dumnezeu este bună și necesară, deoarece ne păzește de păcat și ne îndrumă spre înțelepciune (Prov. 2:5, Prov. 3:7).\nNe păstrează smeriți: ne amintește că nu suntem noi măsura binelui și răului.\nNe motivează la ascultare: reverența față de El ne face să dorim să-I împlinim voia, nu doar din frică, ci din iubire.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Prov. 2:5",
+            "verse": "5. atunci vei înţelege frica de Domnul şi vei găsi cunoştinţa lui Dumnezeu."
+          },
+          {
+            "id": 2,
+            "stringRef": "Prov. 3:7",
+            "verse": "7. Nu te socoti singur înţelept; teme-te de Domnul şi abate-te de la rău!"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Pentru cel care trăiește în păcat, teama e asociată cu condamnarea, nu și pentru cel împăcat cu Dumnezeu prin Hristos (1 Ioan 4:18).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "1 Ioan 4:18",
+            "verse": "18. În dragoste nu este frică; ci dragostea desăvârşită izgoneşte frica; pentru că frica are cu ea pedeapsa; şi cine se teme n-a ajuns desăvârşit în dragoste."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "ord": 1,
+    "question": "De ce s-ar teme necredincioșii de Dumnezeu ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Teama de judecată și pedeapsă: necredincioșii știu că păcatul aduce judecata lui Dumnezeu (Rom. 6:23, Evrei 10:27, Apoc. 20:11÷15).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 6:23",
+            "verse": "23. Fiindcă plata păcatului este moartea, dar darul fără plată al lui Dumnezeu este viaţa veşnică în Isus Hristos, Domnul nostru."
+          },
+          {
+            "id": 2,
+            "stringRef": "Evrei 10:27",
+            "verse": "27. ci doar o aşteptare înfricoşată a judecăţii şi văpaia unui foc care va mistui pe cei răzvrătiţi."
+          },
+          {
+            "id": 3,
+            "stringRef": "Apoc. 20:11÷15",
+            "verse": "11. Apoi am văzut un scaun de domnie mare şi alb, şi pe Cel ce şedea pe el. Pământul şi cerul au fugit dinaintea Lui şi nu s-a mai găsit loc pentru ele.\n12. Şi am văzut pe morţi, mari şi mici, stând în picioare înaintea scaunului de domnie. Nişte cărţi au fost deschise. Şi a fost deschisă o altă carte, care este Cartea Vieţii. Şi morţii au fost judecaţi după faptele lor, după cele ce erau scrise în cărţile acelea.\n13. Marea a dat înapoi pe morţii care erau în ea; Moartea şi Locuinţa morţilor au dat înapoi pe morţii care erau în ele. Fiecare a fost judecat după faptele lui.\n14. Şi Moartea şi Locuinţa morţilor au fost aruncate în iazul de foc. Iazul de foc este moartea a doua.\n15. Oricine n-a fost găsit scris în Cartea Vieţii a fost aruncat în iazul de foc."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Frica din vinovăție:\n- Chiar și fără să fie religioși, oamenii poartă conștiința vinovăției (Rom. 2:14÷15).\n- Când aud despre un Dumnezeu drept și sfânt, instinctul este de apărare sau fugă, ca Adam și Eva după cădere (Gen. 3:8÷10).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 2:14÷15",
+            "verse": "14. Când Neamurile, măcar că n-au lege, fac din fire lucrurile Legii, prin aceasta ei, care n-au o lege, îşi sunt singuri lege;\n15. şi ei dovedesc că lucrarea Legii este scrisă în inimile lor; fiindcă despre lucrarea aceasta mărturiseşte cugetul lor şi gândurile lor, care sau se învinovăţesc sau se dezvinovăţesc între ele."
+          },
+          {
+            "id": 2,
+            "stringRef": "Gen. 3:8÷10",
+            "verse": "8. Atunci au auzit glasul Domnului Dumnezeu, care umbla prin grădina în răcoarea zilei: şi omul şi nevasta lui s-au ascuns de faţa Domnului Dumnezeu printre pomii din grădină.\n9. Dar Domnul Dumnezeu a chemat pe om, şi i-a zis: „Unde eşti?”\n10. El a răspuns: „Am auzit glasul Tău în grădină, şi mi-a fost frică, pentru că eram gol; de aceea m-am ascuns.”"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Frica de pierdere a controlului:\n- Necredinciosul se teme că, dacă Dumnezeu există și este Suveran, viața nu mai este „a lui”.\n- Acceptarea lui Dumnezeu ar însemna renunțarea la autonomie morală, iar acest lucru poate provoca rezistență sau chiar ostilitate."
+      },
+      {
+        "id": 4,
+        "hint": "Frica de necunoscut:\n- Dacă nu Îl cunoști pe Dumnezeu ca Tată iubitor, El pare o forță misterioasă, imensă și potențial amenințătoare.\n- Necunoscutul produce teamă, mai ales când este asociat cu putere absolută și dreptate perfectă."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "ord": 1,
+    "question": "De ce necredincioșii nu cred în existența lui Dumnezeu, sau îl resping ?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Motive morale:\n- Dorinta de autonomie: omul vrea să fie propriul stăpân și să decidă singur ce este bine și rău (Gen. 3:5).\n- Refuzul responsabilității morale: dacă Dumnezeu există, există și judecată; negarea Lui elimină aparent această responsabilitate (Ioan 3:19÷20).\n- Plăcerea păcatului: uneori respingerea lui Dumnezeu nu e din neînțelegere, ci din atașament față de un mod de viață contrar voii Sale."
+      },
+      {
+        "id": 2,
+        "hint": "Motive intelectuale:\n- Îndoieli legate de dovezi: Unii spun că nu văd dovezi suficiente sau că Dumnezeu nu Se face „vizibil”.\n- Influența gândirii naturaliste: Educația și cultura seculară promovează ideea că totul poate fi explicat fără Dumnezeu.\n- Problema răului și suferinței: „Dacă Dumnezeu ar exista și ar fi bun, nu ar permite atâta rău.”"
+      },
+      {
+        "id": 3,
+        "hint": "Motive emoționale și psihologice:\n- Experiențe negative cu religia sau oamenii religioși: abuz, ipocrizie, corupție spirituală.\n- Răni personale: pierderi, tragedii, boli care au dus la amărăciune față de ideea de Dumnezeu.\n- Frica de a fi dezamăgit: Evitarea credinței pentru a nu „fi înșelat”."
+      },
+      {
+        "id": 4,
+        "hint": "Aspect biblic:\n- Oamenii „cunosc” într-o anumită măsură pe Dumnezeu din creație, dar aleg să nu Îl onoreze (Rom. 1:21÷23).\n- Împietrirea inimii (Efes. 4:18)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Rom. 1:21÷23",
+            "verse": "21. fiindcă, măcar că au cunoscut pe Dumnezeu, nu L-au proslăvit ca Dumnezeu, nici nu I-au mulţumit; ci s-au dedat la gândiri deşarte, şi inima lor fără pricepere s-a întunecat.\n22. S-au fălit că sunt înţelepţi, şi au înnebunit\n23. şi au schimbat slava Dumnezeului nemuritor într-o icoană care seamănă cu omul muritor, păsări, dobitoace cu patru picioare şi târâtoare."
+          },
+          {
+            "id": 2,
+            "stringRef": "Efes. 4:18",
+            "verse": "18. având mintea întunecată, fiind străini de viaţa lui Dumnezeu, din pricina neştiinţei în care se află în urma împietririi inimii lor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "ord": 1,
+    "question": "De ce plata păcatului este moartea ? (Ezec. 18:4, Rom. 6:23, Iacov 1:15)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ezec. 18:4",
+        "verse": "4. Iată că toate sufletele sunt ale Mele. După cum sufletul fiului este al Meu, tot aşa şi sufletul tatălui este al Meu. Sufletul care păcătuieşte, acela va muri."
+      },
+      {
+        "id": 2,
+        "stringRef": "Rom. 6:23",
+        "verse": "23. Fiindcă plata păcatului este moartea, dar darul fără plată al lui Dumnezeu este viaţa veşnică în Isus Hristos, Domnul nostru."
+      },
+      {
+        "id": 3,
+        "stringRef": "Iacov 1:15",
+        "verse": "15. Apoi pofta, când a zămislit, dă naştere păcatului; şi păcatul, odată făptuit, aduce moartea."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Omul a fost creat „după chipul și asemănarea lui Dumnezeu” (Gen. 1:26). Ca urmare în structura lui profundă omul e făcut pentru viață, sfințenie, comuniune. De aceea, păcatul nu e ceva „natural” omului, ci o anomalia, o boală, o ruptură.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 1:26",
+            "verse": "26. Apoi Dumnezeu a zis: „Să facem om după chipul Nostru, după asemănarea Noastră; el să stăpânească peste peştii mării, peste păsările cerului, peste vite, peste tot pământul şi peste toate târâtoarele care se mişcă pe pământ.”"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Moartea este o consecință, nu o pedeapsă arbitrară. Dacă te separi de izvorul vieții (Dumnezeu), inevitabil intri în moarte. Este constatarea că omul s-a depărtat de Dumnezeu (Isaia 59:2).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Isaia 59:2",
+            "verse": "2. ci nelegiuirile voastre pun un zid de despărţire între voi şi Dumnezeul vostru; păcatele voastre vă ascund faţa Lui şi-L împiedică să v-asculte!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "Textul biblic are are și un sens juridic: păcatul e și o călcare a Legii lui Dumnezeu.\n- De aceea moartea e și „judecată” - nu doar fenomen natural, ci și recunoașterea că omul a ales răzvrătirea.\n- Însă chiar și aici, accentul cade pe faptul că Dumnezeu nu vrea moartea păcătosului (Ezec. 33:11), ci oferă calea întoarcerii.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ezec. 33:11",
+            "verse": "11. Spune-le: „Pe viaţa Mea”, zice Domnul Dumnezeu, „că nu doresc moartea păcătosului, ci să se întoarcă de la calea lui, şi să trăiască. Întoarceţi-vă, întoarceţi-vă de la calea voastră cea rea! Pentru ce vreţi să muriţi voi, casa lui Israel?”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "ord": 1,
+    "question": "Ignoranța și neglijența sunt păcate ?",
+    "refs": [],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Da, pentru că ne separă de Dumnezeu (chiar dacă nu am voit asta)."
+      },
+      {
+        "id": 2,
+        "hint": "Apostolul Pavel, vorbind atenienilor (Fapte 17:30), spune că până la venirea Evangheliei Dumnezeu „nu a ținut seama” (adică nu a aplicat judecata finală pentru necunoaștere).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Fapte 17:30",
+            "verse": "30. Dumnezeu nu ţine seama de vremurile de neştiinţă şi porunceşte acum tuturor oamenilor de pretutindeni să se pocăiască;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "ord": 1,
+    "question": "La ce se referă Pavel când spune „două lucruri care nu se pot schimba” ? (Evrei 6:17÷18)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Evrei 6:17÷18",
+        "verse": "17. De aceea şi Dumnezeu, fiindcă voia să dovedească cu mai multă tărie moştenitorilor făgăduinţei nestrămutarea hotărârii Lui, a venit cu un jurământ;\n18. pentru ca, prin două lucruri care nu se pot schimba şi în care este cu neputinţă ca Dumnezeu să mintă, să găsim o puternică îmbărbătare noi, a căror scăpare a fost să apucăm nădejdea care ne era pusă înainte,"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Făgăduința (promisiunea) lui Dumnezeu:\n- Dumnezeu a promis mântuirea și binecuvântarea prin Hristos.\n- Promisiunile Lui sunt sigure și „nu se pot schimba” (Num. 23:19).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Num. 23:19",
+            "verse": "19. Dumnezeu nu este un om ca să mintă, nici un fiu al omului, ca să-I pară rău. Ce a spus, oare nu va face? Ce a făgăduit, oare nu va împlini?"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Jurământul lui Dumnezeu:\n- Pe lângă promisiune, Dumnezeu a întărit-o cu un jurământ.\n- Exemplul dat este cel al lui Avraam (Evrei 6:13÷15), căruia Dumnezeu i-a promis și i-a jurat că-l va binecuvânta.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Evrei 6:13÷15",
+            "verse": "13. Dumnezeu, când a dat lui Avraam făgăduinţa, fiindcă nu putea să Se jure pe unul mai mare decât El, S-a jurat pe Sine însuşi\n14. şi a zis: „Cu adevărat te voi binecuvânta şi îţi voi înmulţi foarte mult sămânţa.”\n15. Şi astfel, fiindcă a aşteptat cu răbdare, a dobândit făgăduinţa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "ord": 1,
+    "question": "Ar trebui să ne vindem averile și să le dăm la săraci ca să moștenim împărăția lui Dumnezeu ? (Matei 19:21, Marcu 10:21, Luca 14:33, Luca 18:22)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Matei 19:21",
+        "verse": "21. „Dacă vrei să fii desăvârşit”, i-a zis Isus, „du-te de vinde ce ai, dă la săraci şi vei avea o comoară în cer! Apoi vino şi urmează-Mă.”"
+      },
+      {
+        "id": 2,
+        "stringRef": "Marcu 10:21",
+        "verse": "21. Isus S-a uitat ţintă la el, l-a iubit şi i-a zis: „Îţi lipseşte un lucru; du-te de vinde tot ce ai, dă la săraci, şi vei avea o comoară în cer. Apoi vino, ia-ţi crucea şi urmează-Mă.”"
+      },
+      {
+        "id": 3,
+        "stringRef": "Luca 14:33",
+        "verse": "33. Tot aşa, oricine dintre voi, care nu se leapădă de tot ce are, nu poate fi ucenicul Meu."
+      },
+      {
+        "id": 4,
+        "stringRef": "Luca 18:22",
+        "verse": "22. Când a auzit Isus aceste vorbe, i-a zis: „Îţi mai lipseşte un lucru: vinde tot ce ai, împarte la săraci, şi vei avea o comoară în ceruri. Apoi, vino şi urmează-Mă.”"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Context:\n- Omul bogat era „un tânăr fruntaș” (probabil un conducător al sinagogii sau un om cu prestigiu social).\n- El respectase poruncile morale, dar simțea că îi lipsește ceva pentru viața veșnică.\n- Isus îi atinge punctul slab: iubirea de avere și dependența de bunuri materiale."
+      },
+      {
+        "id": 2,
+        "hint": "Nu există în Biblie o poruncă universală de a vinde tot ce avem.\nIsus nu condamnă posesiunile ca atare, ci idolatria inimii - atunci când bunurile devin mai importante decât Dumnezeu.\nÎn cazul tânărului bogat, averea era „zeul” lui. De aceea Isus îi cere să renunțe la ea, ca test al credinței și al devotamentului."
+      },
+      {
+        "id": 3,
+        "hint": "Nu este vorba de vânzare literală, ci de disponibilitate totală. În biblie au fost oameni bogați care au fost considerați neprihăniți de Dumnezeu:\n- Avraam (Gen. 13:2, Iacov 2:23)\n- Iov (Iov 1:1, Iov 1:3, Iov 42:10)\n- Iosif din Arimateea (Matei 27:57, Marcu 15:43)\n- regele David (1 Sam. 13:14)\n- regele Solomon (1 Regi 3:11÷13)\n- negustoreasa de purpură Lidia (Fapte 16:14÷15)\n- centurionul Corneliu (Fapte 10:1÷2)\n - vameșul Zacheu, care s-a detașat de bogății (Luca 19:1÷10)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Gen. 13:2",
+            "verse": "2. Avram era foarte bogat în vite, în argint şi în aur."
+          },
+          {
+            "id": 2,
+            "stringRef": "Iacov 2:23",
+            "verse": "23. Astfel s-a împlinit Scriptura care zice: „Avraam a crezut pe Dumnezeu, şi i s-a socotit ca neprihănire”; şi el a fost numit „prietenul lui Dumnezeu.”"
+          },
+          {
+            "id": 3,
+            "stringRef": "Iov 1:1",
+            "verse": "1. Era în ţara Uţ un om care se numea Iov. Şi omul acesta era fără prihană şi curat la suflet. El se temea de Dumnezeu şi se abătea de la rău."
+          },
+          {
+            "id": 4,
+            "stringRef": "Iov 1:3",
+            "verse": "3. Avea şapte mii de oi, trei mii de cămile, cinci sute de perechi de boi, cinci sute de măgăriţe şi un foarte mare număr de slujitori. Şi omul acesta era cel mai cu vază din toţi locuitorii Răsăritului."
+          },
+          {
+            "id": 5,
+            "stringRef": "Iov 42:10",
+            "verse": "10. Domnul a adus pe Iov iarăşi în starea lui de la început, după ce s-a rugat Iov pentru prietenii săi. Şi Domnul i-a dat înapoi îndoit decât tot ce avusese."
+          },
+          {
+            "id": 6,
+            "stringRef": "Matei 27:57",
+            "verse": "57. Spre seară, a venit un om bogat din Arimateea, numit Iosif, care era şi el ucenic al lui Isus."
+          },
+          {
+            "id": 7,
+            "stringRef": "Marcu 15:43",
+            "verse": "43. a venit Iosif din Arimateea, un sfetnic cu vază al soborului, care şi el aştepta Împărăţia lui Dumnezeu. El a îndrăznit să se ducă la Pilat ca să ceară trupul lui Isus."
+          },
+          {
+            "id": 8,
+            "stringRef": "1 Sam. 13:14",
+            "verse": "14. dar acum, domnia ta nu va dăinui. Domnul Şi-a ales un om după inima Lui şi Domnul l-a rânduit să fie căpetenia poporului Său, pentru că n-ai păzit ce-ţi poruncise Domnul.”"
+          },
+          {
+            "id": 9,
+            "stringRef": "1 Regi 3:11÷13",
+            "verse": "11. Şi Dumnezeu a zis: „Fiindcă lucrul acesta îl ceri, fiindcă nu ceri pentru tine nici viaţă lungă, nici bogăţii, nici moartea vrăjmaşilor tăi, ci ceri pricepere, ca să faci dreptate,\n12. voi face după cuvântul tău. Îţi voi da o inimă înţeleaptă şi pricepută, aşa cum n-a fost nimeni înaintea ta şi nu se va scula nimeni niciodată ca tine.\n13. Mai mult, îţi voi da şi ce n-ai cerut: bogăţii şi slavă, aşa încât în tot timpul vieţii tale nu va fi niciun împărat ca tine."
+          },
+          {
+            "id": 10,
+            "stringRef": "Fapte 16:14÷15",
+            "verse": "14. Una din ele, numită Lidia, vânzătoare de purpură, din cetatea Tiatira, era o femeie temătoare de Dumnezeu şi asculta. Domnul i-a deschis inima, ca să ia aminte la cele ce spunea Pavel.\n15. După ce a fost botezată, ea şi casa ei, ne-a rugat şi ne-a zis: „Dacă mă socotiţi credincioasă Domnului, intraţi şi rămâneţi în casa mea.” Şi ne-a silit să intrăm."
+          },
+          {
+            "id": 11,
+            "stringRef": "Fapte 10:1÷2",
+            "verse": "1. În Cezareea era un om cu numele Corneliu, sutaş din ceata de ostaşi numită „Italiana”.\n2. Omul acesta era cucernic şi temător de Dumnezeu, împreună cu toată casa lui. El făcea multe milostenii norodului şi se ruga totdeauna lui Dumnezeu."
+          },
+          {
+            "id": 12,
+            "stringRef": "Luca 19:1÷10",
+            "verse": "1. Isus a intrat în Ierihon şi trecea prin cetate.\n2. Şi un om bogat, numit Zacheu, mai marele vameşilor,\n3. căuta să vadă care este Isus; dar nu putea din pricina norodului, căci era mic de statură.\n4. A alergat înainte şi s-a suit într-un dud ca să-L vadă; pentru că pe drumul acela avea să treacă.\n5. Isus, când a ajuns la locul acela, Şi-a ridicat ochii în sus şi i-a zis: „Zachee, dă-te jos degrabă, căci astăzi trebuie să rămân în casa ta.”\n6. Zacheu s-a dat jos în grabă şi L-a primit cu bucurie.\n7. Când au văzut lucrul acesta, toţi cârteau şi ziceau: „A intrat să găzduiască la un om păcătos!”\n8. Dar Zacheu a stat înaintea Domnului şi I-a zis: „Iată, Doamne, jumătate din avuţia mea o dau săracilor; şi, dacă am năpăstuit pe cineva cu ceva, îi dau înapoi împătrit.”\n9. Isus i-a zis: „Astăzi a intrat mântuirea în casa aceasta, căci şi el este fiul lui Avraam.\n10. Pentru că Fiul omului a venit să caute şi să mântuiască ce era pierdut.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "ord": 1,
+    "question": "Ce semnificație are șarpele de bronz al lui Moise ? (Num. 21:4÷9)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Num. 21:4÷9",
+        "verse": "4. Au plecat de la muntele Hor pe drumul care duce spre Marea Roşie, ca să ocolească ţara Edomului. Poporul şi-a pierdut răbdarea pe drum\n5. şi a vorbit împotriva lui Dumnezeu şi împotriva lui Moise: „Pentru ce ne-aţi scos din Egipt ca să murim în pustiu? Căci nu este nici pâine, nici apă şi ni s-a scârbit sufletul de această hrană proastă.”\n6. Atunci Domnul a trimis împotriva poporului nişte şerpi înfocaţi, care au muşcat poporul, aşa încât au murit mulţi oameni în Israel.\n7. Poporul a venit la Moise şi a zis: „Am păcătuit, căci am vorbit împotriva Domnului şi împotriva ta. Roagă-te Domnului, ca să depărteze de la noi aceşti şerpi.” Moise s-a rugat pentru popor.\n8. Domnul a zis lui Moise: „Fă-ţi un şarpe înfocat şi spânzură-l de o prăjină; oricine este muşcat şi va privi spre el va trăi.”\n9. Moise a făcut un şarpe de aramă şi l-a pus într-o prăjină; şi oricine era muşcat de un şarpe şi privea spre şarpele de aramă, trăia."
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Simbol al păcatului și judecății:\n- Șarpele era instrumentul morții (șerpii reali mușcau și omorau).\n- Imaginea de bronz reprezintă „chipul răului” ridicat în văzul tuturor."
+      },
+      {
+        "id": 2,
+        "hint": "Simbol al credinței și ascultării:\n- Vindecarea nu venea din puterea metalului, ci din credința celui care asculta de porunca lui Dumnezeu și privea spre semn."
+      },
+      {
+        "id": 3,
+        "hint": "Unicitatea soluției:\n- Nu era alt leac. Doar privirea spre șarpele ridicat aducea viață."
+      },
+      {
+        "id": 4,
+        "hint": "Isus interpretează direct acest episod (Ioan 3:14÷15):\n- Șarpele de bronz = prefigurare a lui Hristos răstignit.\n- Cum șarpele era imaginea răului, tot așa Hristos a luat asupra Lui păcatul și blestemul (2 Cor. 5:21, Gal. 3:13).\n- Privirea credinței spre cruce aduce vindecare spirituală și viață veșnică.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ioan 3:14÷15",
+            "verse": "14. Şi, după cum a înălţat Moise şarpele în pustiu, tot aşa trebuie să fie înălţat şi Fiul omului,\n15. pentru ca oricine crede în El să nu piară, ci să aibă viaţa veşnică."
+          },
+          {
+            "id": 2,
+            "stringRef": "2 Cor. 5:21",
+            "verse": "21. Pe Cel ce n-a cunoscut niciun păcat, El L-a făcut păcat pentru noi, ca noi să fim neprihănirea lui Dumnezeu în El."
+          },
+          {
+            "id": 3,
+            "stringRef": "Gal. 3:13",
+            "verse": "13. Hristos ne-a răscumpărat din blestemul Legii, făcându-Se blestem pentru noi - fiindcă este scris: „Blestemat e oricine este atârnat pe lemn”"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "hint": "Simbolul e bun doar atât timp cât trimite la Dumnezeu; altfel, devine idol. (2 Regi 18:4)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "2 Regi 18:4",
+            "verse": "4. A îndepărtat înălţimile, a sfărâmat stâlpii idoleşti, a tăiat Astarteile şi a sfărâmat în bucăţi şarpele de aramă pe care-l făcuse Moise, căci copiii lui Israel arseseră până atunci tămâie înaintea lui: îl numeau Nehuştan."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "ord": 1,
+    "question": "De ce cei mântuiți nu vor mai putea păcătui în veșnicie, dacă Adam și Eva, deși erau fără păcat, au căzut?",
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Situația lui Adam și Eva - neprihănire inocentă, dar instabilă), adică fără păcat, dar nu desăvârșiți în sfințenie.\n- aveau libertatea de a alege binele sau răul (liber arbitru real),\n- nu aveau încă o natură confirmată în sfințenie, adică o inimă statornică în bine."
+      },
+      {
+        "id": 2,
+        "hint": "Situația celor mântuiți - stare de slavă desăvârșită, care se numește glorificare:\n- Omul nu va fi doar nevinovat (ca Adam), ci confirmat pentru totdeauna în sfințenie. (Filip. 3:21, 1 Ioan 3:2)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Filip. 3:21",
+            "verse": "21. El va schimba trupul stării noastre smerite şi-l va face asemenea trupului slavei Sale, prin lucrarea puterii pe care o are de a-Şi supune toate lucrurile."
+          },
+          {
+            "id": 2,
+            "stringRef": "1 Ioan 3:2",
+            "verse": "2. Preaiubiţilor, acum suntem copii ai lui Dumnezeu. Şi ce vom fi nu s-a arătat încă. Dar ştim că, atunci când Se va arăta El, vom fi ca El; pentru că Îl vom vedea aşa cum este."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "hint": "De ce nu vor mai putea păcătui:\n- Pentru că vor fi plini de Duhul Sfânt. Duhul lui Dumnezeu va locui în ei în mod deplin, fără obstacole ale firii căzute (Apoc. 21:3). Nu va mai exista nicio ispită interioară.\n- Pentru că Satana va fi înlăturat definitiv (Apoc. 20:10). Nu va mai exista o sursă externă a răului.\n- Pentru că vor fi părtași firii dumnezeiești (2 Petru 1:3÷4). Aceasta nu înseamnă că vor deveni dumnezei, ci că natura lor va fi desăvârșită în bine, incapabilă de corupție.\n- Pentru că viziunea directă a lui Dumnezeu transformă ființa - „viziunea beatifică” (Matei 5:8, Iuda 1:24, Apoc. 21:27).",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 21:3",
+            "verse": "3. Şi am auzit un glas tare care ieşea din scaunul de domnie şi zicea: „Iată cortul lui Dumnezeu cu oamenii! El va locui cu ei, şi ei vor fi poporul Lui, şi Dumnezeu însuşi va fi cu ei. El va fi Dumnezeul lor."
+          },
+          {
+            "id": 2,
+            "stringRef": "Apoc. 20:10",
+            "verse": "10. Şi diavolul, care-i înşela, a fost aruncat în iazul de foc şi de pucioasă, unde este fiara şi prorocul mincinos. Şi vor fi munciţi zi şi noapte în vecii vecilor."
+          },
+          {
+            "id": 3,
+            "stringRef": "2 Petru 1:3÷4",
+            "verse": "3. Binecuvântat să fie Dumnezeu, Tatăl Domnului nostru Isus Hristos, care, după îndurarea Sa cea mare, ne-a născut din nou prin învierea lui Isus Hristos din morţi, la o nădejde vie\n4. şi la o moştenire nestricăcioasă şi neîntinată, şi care nu se poate veşteji, păstrată în ceruri pentru voi."
+          },
+          {
+            "id": 4,
+            "stringRef": "Matei 5:8",
+            "verse": "8. Ferice de cei cu inima curată, căci ei vor vedea pe Dumnezeu!"
+          },
+          {
+            "id": 5,
+            "stringRef": "Iuda 1:24",
+            "verse": "24. Iar a Aceluia care poate să vă păzească de orice cădere şi să vă facă să vă înfăţişaţi fără prihană şi plini de bucurie înaintea slavei Sale,"
+          },
+          {
+            "id": 6,
+            "stringRef": "Apoc. 21:27",
+            "verse": "27. Nimic întinat nu va intra în ea, nimeni care trăieşte în spurcăciune şi în minciună; ci numai cei scrişi în Cartea Vieţii Mielului."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "hint": "Libertatea în veșnicie: nu dispare, ci se desăvârșește:\n- În viața de acum, libertatea înseamnă posibilitatea de a alege între bine și rău.\n- În veșnicie, libertatea înseamnă posibilitatea deplină de a face numai binele - pentru că voința omului este în armonie perfectă cu voința lui Dumnezeu.\n- Libertatea nu se pierde, ci se vindecă de corupție. (Apoc. 21:4)",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Apoc. 21:4",
+            "verse": "4. El va şterge orice lacrimă din ochii lor. Şi moartea nu va mai fi. Nu va mai fi nici tânguire, nici ţipăt, nici durere, pentru că lucrurile dintâi au trecut.”"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "ord": 1,
+    "question": "Uciderea îşi are vremea ei ? (Ecl. 3:3)",
+    "refs": [
+      {
+        "id": 1,
+        "stringRef": "Ecl. 3:3",
+        "verse": "3. Uciderea îşi are vremea ei, şi tămăduirea îşi are vremea ei; dărâmarea îşi are vremea ei, şi zidirea îşi are vremea ei;"
+      }
+    ],
+    "hints": [
+      {
+        "id": 1,
+        "hint": "Capitolul 3 prezintă o serie de 14 perechi de contraste (Ecl. 3:2÷8), fiecare exprimând ritmul vieții umane sub ordinea lui Dumnezeu. Fiecare pereche are forma: „un timp pentru… și un timp pentru…”\nEclesiastul nu spune că uciderea, distrugerea sau moartea sunt „bune” în sine, ci că există momente când ele se întâmplă în ordinea generală a lumii căzute, și că omul nu le poate controla deplin.\nCu alte cuvinte, viața are un ritm moral și existențial pe care doar Dumnezeu îl stăpânește. Omul nu poate evita momentele grele, dar poate învăța să le accepte ca parte a unui plan providențial mai larg.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Ecl. 3:2÷8",
+            "verse": "2. Naşterea îşi are vremea ei, şi moartea îşi are vremea ei; săditul îşi are vremea lui, şi smulgerea celor sădite îşi are vremea ei.\n3. Uciderea îşi are vremea ei, şi tămăduirea îşi are vremea ei; dărâmarea îşi are vremea ei, şi zidirea îşi are vremea ei;\n4. plânsul îşi are vremea lui, şi râsul îşi are vremea lui; bocitul îşi are vremea lui, şi jucatul îşi are vremea lui;\n5. aruncarea cu pietre îşi are vremea ei, şi strângerea pietrelor îşi are vremea ei; îmbrăţişarea îşi are vremea ei, şi depărtarea de îmbrăţişări îşi are vremea ei;\n6. căutarea îşi are vremea ei, şi pierderea îşi are vremea ei; păstrarea îşi are vremea ei, şi lepădarea îşi are vremea ei;\n7. ruptul îşi are vremea lui, şi cusutul îşi are vremea lui; tăcerea îşi are vremea ei, şi vorbirea îşi are vremea ei;\n8. iubitul îşi are vremea lui, şi urâtul îşi are vremea lui; războiul îşi are vremea lui, şi pacea îşi are vremea ei."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "hint": "Aplicare spirituală:\n- „Timp de ucidere” poate fi și metaforic: moartea păcatului, ruperea de ceea ce ne distruge. (Col. 3:5)\n- „Timp de vindecare”: restaurarea inimii de către Dumnezeu, reconcilierea, iertarea.(Ps. 147:3)\n- „Timp de dărâmare”: distrugerea structurilor vechi (mândrie, idolatrie, sistem corupt).(Ier. 1:10)\n- „Timp de zidire”: reconstrucția prin har, viață nouă, templul interior al Duhului Sfânt.",
+        "refs": [
+          {
+            "id": 1,
+            "stringRef": "Col. 3:5",
+            "verse": "5. De aceea, omorâţi mădularele voastre care sunt pe pământ: curvia, necurăţia, patima, pofta rea şi lăcomia, care este o închinare la idoli."
+          },
+          {
+            "id": 1,
+            "stringRef": "Ps. 147:3",
+            "verse": "3. tămăduieşte pe cei cu inima zdrobită şi le leagă rănile."
+          },
+          {
+            "id": 1,
+            "stringRef": "Ier. 1:10",
+            "verse": "10. Iată, astăzi te pun peste neamuri şi peste împărăţii, ca să smulgi şi să tai, să dărâmi şi să nimiceşti, să zideşti şi să sădeşti.”"
+          }
+        ]
+      }
+    ]
+  }
+]

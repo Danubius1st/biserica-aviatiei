@@ -1,0 +1,346 @@
+{
+  "id": 27,
+  "book": "Daniel",
+  "sketches": [
+    {
+      "id": 1,
+      "sketch": "Daniel și cei trei tineri la curtea Babilonului (Dan. 1)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Deportarea elitelor iudaice în Babilon"
+        },
+        {
+          "id": 2,
+          "hint": "Refuzul de a se spurca cu mâncarea regelui"
+        },
+        {
+          "id": 3,
+          "hint": "Dumnezeu le dă har, înțelepciune și poziții de influență"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sketch": "Visul lui Nebucadnețar (Dan. 2)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Nebucadnețar are un vis tulburător"
+        },
+        {
+          "id": 2,
+          "hint": "Daniel îi descoperă visul și îl interpretează"
+        },
+        {
+          "id": 3,
+          "hint": "Statuia: cap de aur, piept de argint, coapse de bronz, picioare de fier și lut simbolizează patru mari imperii: respectiv Babilonul (605÷539 î.Hr.), Medo-Persia (539÷331 î.Hr.), Grecia (331÷168 î.Hr.) și Roma (168 î.Hr.÷476 d.Hr.)"
+        },
+        {
+          "id": 4,
+          "hint": "O piatră (simbol mesianic) lovește statuia și o spulberă"
+        },
+        {
+          "id": 5,
+          "hint": "Profeție despre imperiile lumii și instaurarea în veac a împărăției lui Dumnezeu"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sketch": "Cuptorul aprins și cei trei tineri (Dan. 3)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Refuzul închinării la statuia de aur"
+        },
+        {
+          "id": 2,
+          "hint": "Sunt aruncați în cuptor, dar scăpată nevătămați"
+        },
+        {
+          "id": 3,
+          "hint": "„Un al patrulea” apare cu ei - îngerul Domnului"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sketch": "Nebucadnețar, împăratul Babilonului, înnebunește și se pocăiește (Dan. 4)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Nebucadnețar are un vis despre un copac mare"
+        },
+        {
+          "id": 2,
+          "hint": "Daniel îl interpretează ca fiind o profeție despre nebunia regelui"
+        },
+        {
+          "id": 3,
+          "hint": "Nebucadnețar devine nebun și trăiește ca o fiară"
+        },
+        {
+          "id": 4,
+          "hint": "După șapte ani, își recunoaște păcatele și este restaurat"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sketch": "Împăratul Belșațar, fiul lui Nebucadnețar, se ridică și scrierea de pe perete (Dan. 5)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Belșațar dă un mare banchet și folosește vasele din templul lui Dumnezeu"
+        },
+        {
+          "id": 2,
+          "hint": "O mână scrie pe perete: „Mene, Mene, Tekel, Parsin” = „Numărat, numărat, cântărit şi împărţit”"
+        },
+        {
+          "id": 3,
+          "hint": "Daniel interpretează scrierea ca fiind judecata lui Dumnezeu asupra regelui: \n- „Numărat” - Dumnezeu a numărat zilele domniei lui Belşaţar și i-a pus capăt.\n- „Cântărit” - a fost cântărit în balanța lui Dumnezeu și găsit ușor (insuficient din punct de vedere moral și spiritual).\n- „Împărțit” - împărăția lui va fi împărțită între mezi și perși."
+        },
+        {
+          "id": 4,
+          "hint": "Belșațar este ucis în acea noapte și tronul este prelut de Darius, împăratul Mediei"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sketch": "Daniel în groapa cu lei (Dan. 6)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Complotul căpeteniilor şi dregătorilor împotriva lui Daniel"
+        },
+        {
+          "id": 2,
+          "hint": "Daniel refuză să nu se roage"
+        },
+        {
+          "id": 3,
+          "hint": "Este salvat de îngerul lui Dumnezeu"
+        },
+        {
+          "id": 4,
+          "hint": "Complotiștii și familiile lor sunt aruncați în groapă și sfâșiați de lei"
+        },
+        {
+          "id": 5,
+          "hint": "Daniel este restabilit în funcție și Darius scrie o poruncă prin care toți trebuie să se teamă de Dumnezeul lui Daniel"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sketch": "Viziunea celor patru fiare (Dan. 7)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Daniel are o viziune despre patru fiare care ies din mare, simbolizând imperiile în succesiunea istorică: Babilon, Medo-Persia, Grecia și Roma."
+        },
+        {
+          "id": 2,
+          "hint": "Prima fiară - Un leu cu aripi de vultur, care apoi își pierde aripile, este ridicat pe două picioare și primește o „inimă de om” (Dan. 7:4):\n- simbolizează Imperiul Babilonian (cca. 605÷539 î.Hr.). Leul era un simbol al Babilonului (asociat cu puterea și regalitatea), iar aripile de vultur sugerează rapiditatea cuceririlor lui Nebucadneţar. Pierderea aripilor și „inima de om” pot indica slăbirea împărăției sau o transformare (poate referire la umilința lui Nebucadneţar din Daniel 4)."
+        },
+        {
+          "id": 3,
+          "hint": "A doua fiară - Un urs ridicat pe o parte, cu trei coaste în gură, căruia i se spune să mănânce multă carne (Dan. 7:5):\n- simbolizează Imperiul Medo-Persan (cca. 539÷331 î.Hr.). Ursul este asociat cu puterea și agresivitatea, iar poziția sa ridicat pe o parte poate sugera că Medii și Perșii nu erau egali în putere, cu Persia având un rol dominant. Cele trei coaste în gura sa ar putea simboliza cuceririle sale majore (Babilon, Lidia, Egipt)."
+        },
+        {
+          "id": 4,
+          "hint": "A treia fiară - Un leopard rapid, cu patru aripi și patru capete, căruia i se dă autoritate (Dan. 7:6):\n - simbolizează Imperiul Grec condus de Alexandru cel Mare (cca. 331÷323 î.Hr.).\n- Leopardul este asociat cu rapiditatea și eficiența cuceririlor lui Alexandru, iar cele patru aripi sugerează viteza sa de expansiune.\n- Cele patru capete pot simboliza împărțirea imperiului său după moartea sa în patru regate elenistice (Seleucia: Seleucizi, Egipt: Ptolemei, Macedonia: Cassandri și Pergam: Lysimachus)."
+        },
+        {
+          "id": 5,
+          "hint": "A patra fiară - O fiară înspăimântătoare, cu dinți de fier, care zdrobește totul, având zece coarne. Dintre coarne apare un „corn mic” care smulge trei coarne și vorbește cu trufie (Dan. 7:7-8):\n- simbolizează Imperiul Roman (cca. 63 î.Hr.÷476 d.Hr.). Această fiară este diferită de celelalte, fiind mai puternică și mai înfricoșătoare. Dinții de fier sugerează forța brutală a Romei, iar cele zece coarne pot reprezenta cele zece regi sau împărați care vor apărea în ultimele zile ale imperiului. Un alt corn mic apare și scoate trei dintre cele zece coarne, simbolizând un lider sau un sistem politic care va veni la putere în ultimele zile."
+        },
+        {
+          "id": 6,
+          "hint": "Judecata divină (Dan. 7:9÷14): Viziunea culminează cu scena judecății divine, unde „Cel Bătrân de Zile” (Dumnezeu) distruge puterea fiarelor și acordă o împărăție veșnică „Unuia ca un Fiu al Omului” (simbolizat în creștinism ca fiind Iisus Hristos)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sketch": "Viziunea berbecului și țapului (Dan. 8)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Daniel are o viziune despre un berbec și un țap. Berbecul cu două coarne simbolizează Medo-Persia, iar țapul cu un corn mare simbolizează Grecia."
+        },
+        {
+          "id": 2,
+          "hint": "Cornul mare al țapului este zdrobit și înlocuit de patru cornuri mai mici, simbolizând împărțirea imperiului grec după moartea lui Alexandru cel Mare."
+        },
+        {
+          "id": 3,
+          "hint": "Un corn mic care se ridică din cele patru, simbolizând un lider puternic care va persecuta poporul lui Dumnezeu în ultimele zile."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sketch": "Rugăciunea lui Daniel și profeția 70 de săptămâni (Dan. 9)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Contextul rugăciunii lui Daniel (Dan. 9:1÷3)"
+        },
+        {
+          "id": 2,
+          "hint": "Rugăciunea lui Daniel (Dan. 9:4÷19)\n- Mărturisește păcatele (9:4÷14)\n- Cere îndurare și restaurare (Dan. 9:15÷19)"
+        },
+        {
+          "id": 3,
+          "hint": "Răspunsul divin: viziunea celor „şaptezeci de săptămâni” (Dan. 9:20÷27)\n- Sosirea lui Gabriel (Dan. 9:20÷23)\n- Profeția celor şaptezeci de săptămâni (Dan. 9:24÷27)"
+        },
+        {
+          "id": 4,
+          "hint": "Scopul celor „şaptezeci de săptămâni” (Dan. 9:24):\n- „A isprăvi nelegiuirea” (a pune capăt păcatului).\n- „A pecetlui păcatele” (a le sigila sau a le înlătura).\n- „A ispăşi nelegiuirea” (a face reconciliere pentru păcat).\n- „A aduce o neprihănire veşnică” (a instaura dreptatea eternă).\n- „A pecetlui vedenia şi prorocia” (a confirma sau împlini profețiile).\n- „A unge Sfânta Sfintelor” (a consacra Templul sau un loc sfânt)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "sketch": "Viziunea lui Daniel despre ultimele zile (Dan. 10)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Contextul viziunii (Dan. 10:1÷3)\n- Daniel se află într-o stare de doliu și post pentru poporul său.\n- Viziunea îi este dată în anul al treilea al domniei lui Cirus, regele Persiei."
+        },
+        {
+          "id": 2,
+          "hint": "Viziunea îngerului (Dan. 10:4÷9)\n- Daniel vede un înger glorios, care îi aduce o revelație despre viitor."
+        },
+        {
+          "id": 3,
+          "hint": "Dialogul cu ființa cerească și mesagerul angelic (Dan. 10:10÷19)\n- Daniel este atins de înger și primește putere.\n- Îngerul îi explică viziunea și îi oferă încurajare."
+        },
+        {
+          "id": 4,
+          "hint": "Dezvăluirea conflictului spiritual și scopul viziunii (Dan. 10:20÷21)\n- Îngerul explică lui Daniel că a fost reținut de duhurile demonice și că va continua lupta spirituală.\n- Scopul viziunii este să dezvăluie planurile lui Dumnezeu pentru poporul Său."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sketch": "Detalierea conflictului dintre regatul Seleucid (Nord) și regatul Ptolemeic (Sud), după moartea lui Alexandru cel Mare (Dan. 11)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "Viziunea este legată de contextul istoric (Darius, posibil un titlu pentru Cirus sau un guvernator). Susținerea lui Darius sugerează influența forțelor spirituale asupra evenimentelor politice. (Dan. 11:1)"
+        },
+        {
+          "id": 2,
+          "hint": "„Trei împărați” vor domni în Persia, urmați de un al patrulea, „mai bogat decât toți”, care va provoca Grecia. (Dan. 11:2)\n- Interpretare istorică: Cei trei împărați sunt adesea identificați ca fiind Cambise II, Smerdis (Bardiya) și Darius I, iar al patrulea ca Xerxes I (Ahaşveroş din Estera), care a invadat Grecia (480÷479 î.Hr., bătălia de la Termopile).\n- Interpretare spirituală: cele trei fiare sunt adesea identificate cu cei trei regi, iar cel de-al patrulea este un lider puternic care va persecuta poporul lui Dumnezeu."
+        },
+        {
+          "id": 3,
+          "hint": "Un „împărat viteaz” (Alexandru cel Mare) va domni, dar împărăția sa va fi „sfărâmată” și împărțită în patru. (Dan. 11:3÷4)\n- Interpretare istorică: Alexandru cel Mare a cucerit Persia și a murit tânăr (336÷323 î.Hr.), iar imperiul său a fost împărțit între generalii săi (diadohi), formând patru regate: Macedonia, Egiptul ptolemeic, Siria seleucidă și Pergam.\n- Interpretare spirituală: cele patru regate sunt cele patru fiare din viziunea lui Daniel."
+        },
+        {
+          "id": 4,
+          "hint": "„Împăratul de la miazăzi” devine puternic, dar un „domnitor” din nord îl depășește. (Dan. 11:5)\n- Interpretare istorică: Ptolemeu I Soter (Egipt) și Seleucus I Nicator (Siria), care inițial a fost subordonat, dar a devenit mai puternic."
+        },
+        {
+          "id": 5,
+          "hint": "O alianță prin căsătorie eșuează, ducând la moartea părților implicate. (Dan. 11:6)\n- Interpretare istorică: căsătoria dintre Berenice (fiica lui Ptolemeu II) și Antioh II Theos (Seleucid) a fost anulată, Berenice și fiul ei fiind uciși."
+        },
+        {
+          "id": 6,
+          "hint": "Un „lăstar” din sud răzbună alianța, atacând nordul. (Dan. 11:7÷9)\n- Interpretare istorică: Ptolemeu III Euergetes, fratele Berenicei, invadează Siria seleucidă cu succes."
+        },
+        {
+          "id": 7,
+          "hint": "Fiii împăratului de la miazănoapte atacă sudul, dar sunt înfrânți. (Dan. 11:10÷12)\n- Interpretare istorică: Antioh III cel Mare și fratele său Seleucus III încearcă să recucerească teritoriile, dar Ptolemeu IV Philopator câștigă bătălia de la Rafia (217 î.Hr.)."
+        },
+        {
+          "id": 8,
+          "hint": "Împăratul de la miazănoapte revine cu o armată mai mare, cucerind „țara minunată” (Israel). (Dan. 11:13÷16)\n- Interpretare istorică: Antioh III cucerește Palestina de la Ptolemeu V (201÷198 î.Hr.)."
+        },
+        {
+          "id": 9,
+          "hint": "O altă alianță prin căsătorie eșuează, iar împăratul de la miazănoapte este înfrânt. (Dan. 11:17÷19)\n- Interpretare istorică: Antioh III își dă fiica, Cleopatra I, lui Ptolemeu V, dar planul eșuează. Antioh este învins de romani la Magnesia (190 î.Hr.) și moare."
+        },
+        {
+          "id": 10,
+          "hint": "Un succesor „strânge biruri”, dar moare curând. (Dan. 11:20)\n- Interpretare istorică: Seleucus IV Philopator, care a impus taxe grele, dar a fost asasinat."
+        },
+        {
+          "id": 11,
+          "hint": "Un „om disprețuit” urcă pe tron prin intrigă, devenind puternic prin viclenie și pradă. (Dan. 11:21÷24)\n- Interpretare: Antioh IV Epifanes (175÷164 î.Hr.), care a uzurpat tronul seleucid și a jefuit Palestina."
+        },
+        {
+          "id": 12,
+          "hint": "Atacă sudul (Egiptul), dar este forțat să se retragă din cauza opoziției externe. (Dan. 11:25÷28)\n- Interpretare istorică: Antioh IV invadează Egiptul (170-169 î.Hr.), dar este oprit de Roma („corăbii din Chitim”)."
+        },
+        {
+          "id": 13,
+          "hint": "O a doua invazie a Egiptului eșuează, iar el se întoarce furios împotriva „legământului sfânt” (Israel). (Dan. 11:29÷30)\n- Interpretare istorică: Un „corn mic” (Antioh IV Epifanul) profanează Templul din Ierusalim (168 î.Hr.), ridicând „urâciunea pustiirii” (un altar păgân, cf. 1 Macabei 1:54)."
+        },
+        {
+          "id": 14,
+          "hint": "Persecuția „legământului sfânt” și purificarea poporului. (Dan. 11:31÷35)\n- Interpretare: Antioh IV interzice jertfele iudaice și persecută evreii, dar „cei înțelepți” (probabil hasidim sau macabeii) rezistă, fiind „curățiți” prin suferință.\n- Semnificație: Versetele descriu persecuțiile lui Antioh IV și revolta macabeilor (167÷164 î.Hr.), culminând cu rededicarea Templului (Hanuka)."
+        },
+        {
+          "id": 15,
+          "hint": "Un împărat se laudă, se ridică împotriva „Dumnezeului dumnezeilor” și venerează un „dumnezeu al cetățuilor”. (Dan. 11:36÷39)\n- Interpretare istorică: Mulți identifică această figură tot cu Antioh IV, care s-a proclamat „Epifanes” (Dumnezeu manifestat) și a promovat cultul lui Zeus."
+        },
+        {
+          "id": 16,
+          "hint": "Împăratul de la miazănoapte atacă sudul și „Țara Minunată”, dar moare între „mare” și „muntele sfânt”. (Dan. 11:40÷45)\n- Interpretare istorică: detaliile nu se potrivesc perfect cu moartea lui Antioh IV (164 î.Hr., în Persia)."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "sketch": "Învierea și judecata finală (Dan. 12)",
+      "hints": [
+        {
+          "id": 1,
+          "hint": "„În vremea aceea” (contextul persecuțiilor din Dan. 11:36÷45), arhanghelul Mihail, „marele voievod care ocrotește poporul tău”, se va ridica. Va fi o „vreme de strâmtorare” fără precedent, dar poporul lui Daniel, „cei scriși în carte”, va fi mântuit. (Dan. 12:1)"
+        },
+        {
+          "id": 2,
+          "hint": "„Mulți din cei ce dorm în țărână se vor scula: unii pentru viața veșnică, alții pentru ocară și rușine veșnică.” (Dan. 12:2)\n- Este una dintre cele mai clare referințe la învierea morților din Vechiul Testament, influențând escatologia iudaică și creștină (Ioan 5:28÷29, Apoc. 20:12÷13)."
+        },
+        {
+          "id": 3,
+          "hint": "În versetul 12:3 „cei înțelepți” erau probabil hasidim sau lideri spirituali care i-au învățat pe alții să rămână fideli legământului în timpul persecuțiilor (Dan. 11:33÷35). Strălucirea ca „stelele” simbolizează răsplata eternă pentru credincioșie (Matei 13:43)."
+        },
+        {
+          "id": 4,
+          "hint": "Mesagerul angelic îi poruncește lui Daniel să „pecetluiască” cuvintele viziunii până la „vremea sfârșitului”, când „mulți vor citi-o și cunoștința va crește”. (Dan. 12:4)\n- „Pecetluirea” sugerează că viziunea nu va fi pe deplin înțeleasă până la împlinirea ei, protejând-o pentru generațiile viitoare.\n- „Cunoștința va crește” poate însemna o înțelegere mai profundă a profeției sau o căutare intensă a revelației divine."
+        },
+        {
+          "id": 5,
+          "hint": "Daniel vede doi „oameni” pe malurile râului (Tigru), unul întrebând: „Cât va mai fi până la sfârșitul acestor minuni?” Mesagerul jură „pe Cel ce trăiește veșnic” că va fi „o vreme, vremuri și o jumătate de vreme”, iar totul se va împlini când „puterea poporului sfânt va fi zdrobită”. (Dan. 12:5÷7)\n- „O vreme, vremuri și o jumătate de vreme” este interpretată ca 3,5 ani, bazată pe principiul „zi-an” sau pe jumătatea unei săptămâni profetice (Dan. 7:25, Dan. 9:27). Se corelează cu persecuțiile lui Antioh IV (aprox. 167-164 î.Hr.) sau cu o perioadă escatologică (Apoc. 12:14).\n- „Puterea poporului sfânt va fi zdrobită”: Poate face referire la persecuțiile lui Antioh IV sau la o criză escatologică finală."
+        },
+        {
+          "id": 6,
+          "hint": "Misterul viziunii „pecetluită” până la „vremea sfârșitului” subliniază limitele înțelegerii umane și necesitatea încrederii în planul divin. (Dan. 12:8÷9)"
+        },
+        {
+          "id": 7,
+          "hint": "Mesagerul îi spune lui Daniel că „mulți vor fi curățiți, albiți și încercați”, dar „răufăcătorii vor continua să facă rău”. (Dan. 12:10)\n- Această afirmație sugerează o separare între cei credincioși și cei răi, cu o purificare a celor drepți prin suferință."
+        },
+        {
+          "id": 8,
+          "hint": "Daniel este informat că „de la vremea când va fi îndepărtată jertfa de mâncare și va fi ridicată urâciunea pustiirii” vor trece 1.290 de zile. (Dan. 12:11)\n- Această perioadă este adesea interpretată ca referindu-se la profanarea Templului de către Antioh IV (168 î.Hr.) și la restaurarea sa în timpul revoltei macabeilor (164 î.Hr.)."
+        },
+        {
+          "id": 9,
+          "hint": "„Ferice de cel ce așteaptă și ajunge la 1.335 de zile!” (Dan. 12:12)\n- Această afirmație sugerează o binecuvântare specială pentru cei care perseverează în credință până la sfârșitul unei perioade dificile."
+        },
+        {
+          "id": 10,
+          "hint": "Încheierea viziunii: Daniel este asigurat că va fi odihnit și se va scula la sfârșitul zilelor. (Dan. 12:13)\n- Aceasta sugerează o înviere viitoare și o recompensă pentru credincioșie."
+        }
+      ]
+    }
+  ]
+}

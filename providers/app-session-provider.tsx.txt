@@ -1,0 +1,55 @@
+'use client';
+
+import React, { useState, useEffect } from 'react';
+import { AppSession } from '@/context/app-session-context';
+import { AppSessionContext, SessionUser } from '@/context/app-session-context';
+
+interface Props {
+  children: React.ReactNode;
+  initialSession?: AppSession;
+}
+
+export const AppSessionProvider = ({ children, initialSession }: Props) => {
+  const [session, setSession] = useState<AppSession | null>(initialSession || null);
+  const [isLoading, setIsLoading] = useState(!initialSession);
+
+  const updateUser = (userData: Partial<SessionUser>) => {
+    setSession(prev => prev && prev.user ? {
+      ...prev,
+      user: { ...prev.user, ...userData }
+    } : prev);
+  };
+
+  useEffect(() => {
+    if (!initialSession) {
+      const stored = localStorage.getItem('app-session');
+      if (stored) {
+        try {
+          setSession(JSON.parse(stored));
+        } catch (error) {
+          console.error('Failed to parse stored session:', error);
+        }
+      }
+      setIsLoading(false);
+    }
+  }, [initialSession]);
+
+  useEffect(() => {
+    if (session) {
+      localStorage.setItem('app-session', JSON.stringify(session));
+    } else {
+      localStorage.removeItem('app-session');
+    }
+  }, [session]);
+
+  return (
+    <AppSessionContext.Provider value={{
+      session,
+      isLoading,
+      setSession,
+      updateUser
+    }}>
+      {children}
+    </AppSessionContext.Provider>
+  );
+};
