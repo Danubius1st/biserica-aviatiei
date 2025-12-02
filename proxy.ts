@@ -23,9 +23,10 @@ export async function proxy(req: NextRequest) {
     headers: await headers()
   });
 
-  if (!session) {
-    return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
-  }
+  console.log(JSON.stringify(session));
+  // if (!session) {
+  //   return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
+  // }
 
   return NextResponse.next();
 };
