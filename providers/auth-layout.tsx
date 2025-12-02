@@ -23,6 +23,9 @@ export default function AuthLayout({ children }: Props) {
   return (
     <>
       {session && <Navbar />}
+      <pre className='text-sm overflow-clip'>
+        {JSON.stringify(session, null, 2)}
+      </pre>
       <main>{children}</main>
       {session && <Footer />}
     </>
