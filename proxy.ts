@@ -6,7 +6,9 @@ import {
   publicRoutes,
   loginPath
 } from '@/middleware/routes';
+import { betterAuthMiddleware } from 'better-auth';
 
+/*
 export async function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
@@ -32,6 +34,12 @@ export async function proxy(req: NextRequest) {
 
   return NextResponse.next();
 };
+*/
+
+export const proxy = betterAuthMiddleware({
+  auth,
+  publicRoutes,
+});
 
 // middleware rulează în Edge runtime → nu are acces la toate bibliotecile Node
 
