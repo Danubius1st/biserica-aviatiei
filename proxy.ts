@@ -19,9 +19,9 @@ export async function proxy(req: NextRequest) {
 
   //2️⃣ Verifică dacă utilizatorul este logat
   // https://www.better-auth.com/docs/integrations/next#for-nextjs-release-1520-and-above
-  // const session = await auth.api.getSession({
-  //   headers: await headers()
-  // });
+  const session = await auth.api.getSession({
+    headers: await headers()
+  });
 
   // console.log(JSON.stringify(session));
   // if (!session) {

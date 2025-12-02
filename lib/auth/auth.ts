@@ -11,6 +11,7 @@ import { hashPassword, verifyPassword } from '@/lib/auth/bcrypt';
 import { getValidDomains, normalizeName } from '@/lib/utils';
 import { sendVerificationEmailAction } from '@/actions/send-verification-email.action';
 import { verifyPath } from '@/middleware/routes';
+import { passwordLength } from '@/schemas/auth/schema-const';
 
 // import {
 //   ANSI_code_Reset,
@@ -57,7 +58,7 @@ const options = {
 
   emailAndPassword: {
     enabled: true,
-    minPasswordLength: 6,
+    minPasswordLength: passwordLength,
     autoSignIn: false,
     password: {
       hash: hashPassword,
