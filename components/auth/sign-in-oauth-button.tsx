@@ -6,7 +6,10 @@ import { signIn } from '@/lib/auth/auth-client';
 import { toast } from 'react-toastify';
 import { FaGithub } from 'react-icons/fa';
 import { FcGoogle } from 'react-icons/fc';
-import { loginPath, profilePath } from '@/middleware/routes';
+import {
+  loginPath,
+  profilePath
+} from '@/middleware/routes';
 
 interface Props {
   provider: 'google' | 'github',
@@ -49,6 +52,5 @@ export const SignInOauthButton = ({ provider }: Props) => {
       {provider === 'google' && <FcGoogle className='w-5 h-5' />}
       {provider === 'github' && <FaGithub className='w-5 h-5' />}
     </Button>
-
   );
 };

@@ -45,7 +45,7 @@ export const SignOutButton = () => {
       className={`${styleNavBarButton} cursor-pointer`}
     >
       <ExitSVG />
-      {isPending && <RandomSpinner />}
+      {isPending && <RandomSpinner id={23} color={'#F1EBE2'} />}
     </button>
   );
 };

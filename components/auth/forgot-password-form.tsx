@@ -8,6 +8,7 @@ import { ForgotPasswordSchema } from '@/schemas/auth';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { authClient } from '@/lib/auth/auth-client';
 import { CardWrapper } from '@/components/ui/custom/card-wrapper';
+import { EmailSVG } from '@/components/svg/email-svg';
 import { loginPath } from '@/middleware/routes';
 import {
   styleError,
@@ -49,7 +50,14 @@ export function ForgotPasswordForm() {
       buttonHref={loginPath}
     >
       <form onSubmit={form.handleSubmit(onSubmit)}>
-        <label className={styleLabel} htmlFor='email'>Email:</label>
+        <div className='flex flex-row items-center'>
+          <EmailSVG />
+          <label
+            className={`${styleLabel} ml-2`}
+            htmlFor='email'>
+            Email:
+          </label>
+        </div>
         <input
           id='email'
           type='email'

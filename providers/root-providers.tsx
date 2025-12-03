@@ -26,9 +26,9 @@ export const RootProviders = ({ children }: Props) => {
         // enableSystem
         disableTransitionOnChange
       >
-        <A2HS />
-        <MobileDetector />
-        <ScrollToPosition />
+        {/* <A2HS /> */}
+        {/* <MobileDetector /> */}
+        {/* <ScrollToPosition /> */}
         {children}
       </ThemeProvider>
     );

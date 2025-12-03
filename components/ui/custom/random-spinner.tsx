@@ -1,36 +1,30 @@
 'use client';
 
-import { FC, useState } from 'react';
+import { FC, useId, useMemo } from 'react';
 import { Spinner } from '@/components/ui/custom/spinner';
 
 interface Props {
-  loading?: boolean;
   id?: number;
+  loading?: boolean;
+  color?: string;
 };
 
-export const RandomSpinner: FC<Props> = ({ loading = true, id }) => {
-  // const [spinnerId, setSpinnerId] = useState<number | null>(null);
-  // const min = 1;
-  // const max = 23;
+export const RandomSpinner: FC<Props> = ({ id: propId, loading, color }) => {
+  const fallbackId = useId();
 
-  // const spinnerId = useMemo(() => {
-  //   if (id) return id;
-  //   return Math.floor(Math.random() * (max - min + 1)) + min;
-  // }, [id]);
+  const spinnerId = useMemo(() => {
+    if (propId !== undefined) {
+      return propId;
+    }
 
-  // useEffect(() => {
-  //   const randomId = id || Math.floor(Math.random() * (max - min + 1)) + min;
-  //   setSpinnerId(randomId);
-  // }, [id]);
+    const hash = fallbackId.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
 
-  // const spinnerId = typeof window !== 'undefined'
-  //   ? (id || Math.floor(Math.random() * 23) + 1)
-  //   : (id || 1); // Valoare default pentru server
+    return (hash % 23) + 1;
+  }, [propId, fallbackId]);
 
-  const [spinnerId] = useState(() => id ?? Math.floor(Math.random() * 23) + 1);
-
-  return < Spinner
-    loading={loading}
+  return <Spinner
     id={spinnerId}
+    loading={loading}
+    color={color}
   />;
 };

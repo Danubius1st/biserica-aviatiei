@@ -8,7 +8,7 @@ import {
   ToastContainerProps
 } from 'react-toastify';
 import '@/styles/globals.css';
-import { CookieConsentBanner } from '@/components/cookie-consent-banner';
+// import { CookieConsentBanner } from '@/components/cookie-consent-banner';
 // import { ScrollProvider } from '@/provider/scroll-provider';
 // import { SessionDebug } from '@/components/debug/session-debug';
 import {
@@ -104,7 +104,7 @@ export default function RootLayout({ children }: Readonly<Props>) {
           </AuthLayout>
           {/* <Analytics /> */}
           <ToastContainer {...toastProps} />
-          <CookieConsentBanner />
+          {/* <CookieConsentBanner /> */}
         </RootProviders>
         {/* </ScrollProvider> */}
       </body>

@@ -6,6 +6,7 @@ import { FcGoogle } from 'react-icons/fc';
 import { FaGithub } from 'react-icons/fa';
 
 import { Button } from '@/components/ui/button';
+import { RandomSpinner } from '@/components/ui/custom/random-spinner';
 import { toast } from 'react-toastify';
 import {
   landingPath,
@@ -80,6 +81,8 @@ export const Social = () => {
         content={contentWarning}
         style={{ backgroundColor: 'indian-khaki-500' }}
       />}
+
+      {isPending && <RandomSpinner id={13} />}
     </div>
   );
 };

@@ -26,18 +26,18 @@ import SquareLoader from 'react-spinners/SquareLoader';
 import SyncLoader from 'react-spinners/SyncLoader';
 
 interface Props {
+  id: number;
   loading?: boolean;
-  id?: number;
+  color?: string;
 };
 
-export const Spinner: FC<Props> = ({ loading = true, id }) => {
+export const Spinner: FC<Props> = ({ id, loading = true, color = '#283618' }) => {
   const override: CSSProperties = {
     display: 'block',
     margin: '0 auto',
     borderColor: 'red',
     justifyContent: 'center',
   };
-  const color = '#283618';
 
   switch (id) {
     case 1:
@@ -109,42 +109,58 @@ export const Spinner: FC<Props> = ({ loading = true, id }) => {
     case 7:
       return (
         <div>
-          <ClockLoader loading={loading} color={color} cssOverride={override} />
+          <ClockLoader
+            loading={loading}
+            color={color} cssOverride={override} />
         </div>
       );
 
     case 8:
       return (
         <div>
-          <DotLoader loading={loading} color={color} cssOverride={override} />
+          <DotLoader
+            loading={loading}
+            color={color} cssOverride={override} />
         </div>
       );
 
     case 9:
       return (
         <div>
-          <FadeLoader loading={loading} color={color} cssOverride={override} />
+          <FadeLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 10:
       return (
         <div>
-          <GridLoader loading={loading} color={color} cssOverride={override} />
+          <GridLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 11:
       return (
         <div>
-          <HashLoader loading={loading} color={color} cssOverride={override} />
+          <HashLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 12:
       return (
         <div>
-          <MoonLoader loading={loading} color={color} cssOverride={override} />
+          <MoonLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
@@ -173,28 +189,40 @@ export const Spinner: FC<Props> = ({ loading = true, id }) => {
     case 15:
       return (
         <div>
-          <PuffLoader loading={loading} color={color} cssOverride={override} />
+          <PuffLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 16:
       return (
         <div>
-          <PulseLoader loading={loading} color={color} cssOverride={override} />
+          <PulseLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 17:
       return (
         <div>
-          <RingLoader loading={loading} color={color} cssOverride={override} />
+          <RingLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 18:
       return (
         <div>
-          <RiseLoader loading={loading} color={color} cssOverride={override} />
+          <RiseLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
@@ -212,14 +240,20 @@ export const Spinner: FC<Props> = ({ loading = true, id }) => {
     case 20:
       return (
         <div>
-          <ScaleLoader loading={loading} color={color} cssOverride={override} />
+          <ScaleLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 
     case 21:
       return (
         <div>
-          <SkewLoader loading={loading} color={color} cssOverride={override} />
+          <SkewLoader
+            loading={loading}
+            color={color}
+            cssOverride={override} />
         </div>
       );
 

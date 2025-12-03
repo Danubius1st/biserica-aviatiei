@@ -176,10 +176,10 @@ export const LoginForm = () => {
                 Login
               </button>
             </div>
-
-            {isPending && <RandomSpinner />}
           </div>
         </form>
+
+        {isPending && <RandomSpinner id={13} />}
       </div>
     </CardWrapper>
   );
