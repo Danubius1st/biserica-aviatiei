@@ -11,14 +11,6 @@ export const ScrollToPosition = () => {
   const scrollHeight = document.body.scrollHeight;
   const style = 'fixed right-10 outline-none z-30 animate-bounce cursor-pointer';
 
-  useEffect(() => {
-    window.addEventListener('scroll', checkScroll);
-
-    return () => {
-      window.removeEventListener('scroll', checkScroll);
-    };
-  });
-
   const checkScroll = () => {
     if (!showScrollTop && window.scrollY > topPosToStartShowing) {
       setShowScrollTop(true);
@@ -40,6 +32,14 @@ export const ScrollToPosition = () => {
   const scrollBottom = () => {
     window.scrollTo({ top: scrollHeight, behavior: 'smooth' });
   };
+
+  useEffect(() => {
+    window.addEventListener('scroll', checkScroll);
+
+    return () => {
+      window.removeEventListener('scroll', checkScroll);
+    };
+  });
 
   return (
     <div>

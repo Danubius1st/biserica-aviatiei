@@ -2,10 +2,10 @@
 
 import { useState } from 'react';
 import { signOut } from '@/lib/auth/auth-client';
-import { redirect, useRouter } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 import { toast } from 'react-toastify';
 import { ExitSVG } from '@/components/svg/exit-svg';
-import { Spinner } from '@/components/ui/custom/spinner';
+import { RandomSpinner } from '@/components/ui/custom/random-spinner';
 import { loginPath } from '@/middleware/routes';
 import { styleNavBarButton } from '@/styles/styles-form';
 
@@ -31,6 +31,8 @@ export const SignOutButton = () => {
           router.push(loginPath);
           // router.refresh();
           // redirect(loginPath);
+          // window.location.href = landingPath; // forțează refresh
+
         },
       },
     });
@@ -43,7 +45,7 @@ export const SignOutButton = () => {
       className={`${styleNavBarButton} cursor-pointer`}
     >
       <ExitSVG />
-      {isPending && <Spinner />}
+      {isPending && <RandomSpinner />}
     </button>
   );
 };

@@ -3,7 +3,7 @@
 import { useSession } from '@/lib/auth/auth-client';
 import { Navbar } from '@/components/navbar';
 import { Footer } from '@/components/footer';
-import { Spinner } from '@/components/ui/custom/spinner';
+import { RandomSpinner } from '@/components/ui/custom/random-spinner';
 
 interface Props {
   children: React.ReactNode;
@@ -15,7 +15,7 @@ export default function AuthLayout({ children }: Props) {
   if (isPending) {
     return (
       <div className='min-h-screen flex items-center justify-center'>
-        <Spinner />
+        <RandomSpinner />
       </div>
     );
   }

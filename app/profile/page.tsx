@@ -4,7 +4,7 @@ import { SignOutButton } from '@/components/ui/auth/sign-out-button';
 import { ReturnButton } from '@/components/ui/custom/return-button';
 import { redirect } from 'next/navigation';
 import { Button } from '@/components/ui/button';
-import Link from 'next/link';
+// import Link from 'next/link';
 import Image from 'next/image';
 import { landingPath, loginPath } from '@/middleware/routes';
 import { ChangePasswordForm } from '@/components/auth/change-password-form';

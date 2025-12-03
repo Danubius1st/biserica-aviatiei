@@ -8,12 +8,10 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { useForm } from 'react-hook-form';
 import { RegisterSchema } from '@/schemas/auth';
 
-import { FormError } from '@/components/form-error';
-import { FormSuccess } from '@/components/form-success';
 import { CardWrapper } from '@/components/ui/custom/card-wrapper';
 import { Button } from '@/components/ui/button';
 import { signUpEmailAction } from '@/actions/sign-up-email.action';
-import { Spinner } from '@/components/ui/custom/spinner';
+import { RandomSpinner } from '@/components/ui/custom/random-spinner';
 import { toast } from 'react-toastify';
 
 import { LuEye, LuEyeOff } from 'react-icons/lu';
@@ -36,8 +34,6 @@ export const RegisterForm = () => {
 
   const [showPassword, setShowPassword] = useState(false);
   const [isPending, setIsPending] = useState(false);
-  const [success, setSuccess] = useState<string | undefined>('');
-  const [error, setError] = useState<string | undefined>('');
 
   const form = useForm<z.infer<typeof RegisterSchema>>({
     resolver: zodResolver(RegisterSchema),
@@ -106,8 +102,7 @@ export const RegisterForm = () => {
               type='text'
               id='name'
               disabled={isPending}
-              placeholder='user'
-              onChange={() => setError('')}
+              placeholder='user name'
             />
             {form.formState.errors.name && (
               <p className={styleError}>{form.formState.errors.name.message}</p>
@@ -130,7 +125,6 @@ export const RegisterForm = () => {
                 id='email'
                 disabled={isPending}
                 placeholder='user@aviatiei.ro'
-                onChange={() => setError('')}
               />
               {form.formState.errors.email && (
                 <p className={styleError}>
@@ -157,7 +151,6 @@ export const RegisterForm = () => {
                   id='password'
                   disabled={isPending}
                   placeholder='*********'
-                  onChange={() => setError('')}
                 />
                 <Button
                   variant='ghost'
@@ -178,9 +171,6 @@ export const RegisterForm = () => {
                 </p>
               )}
             </div>
-
-            <FormError message={error} />
-            <FormSuccess message={success} />
           </div>
 
           <div className='flex flex-col'>
@@ -194,7 +184,7 @@ export const RegisterForm = () => {
               </button>
             </div>
 
-            {isPending && <Spinner />}
+            {isPending && <RandomSpinner />}
           </div>
         </div>
       </form>

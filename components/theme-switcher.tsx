@@ -11,6 +11,7 @@ export const ThemeSwitcher = () => {
   const { theme, setTheme, resolvedTheme } = useTheme();
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     setMounted(true);
   }, []);
 

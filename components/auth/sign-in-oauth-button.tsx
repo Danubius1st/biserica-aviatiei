@@ -10,17 +10,10 @@ import { loginPath, profilePath } from '@/middleware/routes';
 
 interface Props {
   provider: 'google' | 'github',
-  signUp?: boolean;
 }
 
-export const SignInOauthButton = (
-  {
-    provider,
-    signUp }: Props
-) => {
+export const SignInOauthButton = ({ provider }: Props) => {
   const [isPending, setIsPending] = useState(false);
-  const action = signUp ? 'Up' : 'In';
-  const providerName = provider === 'google' ? 'Google' : 'GitHub';
 
   async function handleClick() {
     await signIn.social({

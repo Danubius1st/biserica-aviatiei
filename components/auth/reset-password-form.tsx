@@ -44,12 +44,10 @@ export const ResetPasswordForm = ({ token }: Props) => {
     },
   });
 
-  const onSubmit = async (values: z.infer<typeof ResetPasswordSchema>) => {
-
-    const { newPassword } = form.getValues();
+  const onSubmit = async (data: z.infer<typeof ResetPasswordSchema>) => {
 
     await resetPassword({
-      newPassword,
+      newPassword: data.newPassword,
       token,
       fetchOptions: {
         onRequest: () => {

@@ -1,22 +1,22 @@
 'use client';
 
 import { useEffect } from 'react';
-// import { useScroll } from '@/hooks/use-scroll';
+import { useScroll } from '@/hooks/use-scroll';
 
 const Home = () => {
   if (typeof window !== 'undefined') {
     localStorage.setItem('useDatabase', 'no');
   }
-  // const { setScrollPosition } = useScroll();
+  const { setScrollPosition } = useScroll();
 
-  // useEffect(() => {
-  //   const targetElement = document.getElementById('bottomHomePage');
-  //   if (targetElement) {
-  //     const yOffset =
-  //       targetElement.getBoundingClientRect().top + window.scrollY;
-  //     setScrollPosition(yOffset);
-  //   }
-  // }, [setScrollPosition]);
+  useEffect(() => {
+    const targetElement = document.getElementById('bottomHomePage');
+    if (targetElement) {
+      const yOffset =
+        targetElement.getBoundingClientRect().top + window.scrollY;
+      setScrollPosition(yOffset);
+    }
+  }, [setScrollPosition]);
 
   const styles = {
     quote: 'quote text-center text-white font-oswald [text-shadow:_2px_2px_2px_rgb(0_0_0_/_0.8)] text-base tracking-[0.625em] uppercase font-normal bg-[rgba(204,204,204,0.2)] z-10',

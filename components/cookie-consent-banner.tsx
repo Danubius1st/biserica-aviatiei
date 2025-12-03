@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import {
   Card,
@@ -14,19 +14,22 @@ import { LuCookie } from 'react-icons/lu';
 
 export const CookieConsentBanner = () => {
   const { consent, updateConsent } = useCookieConsent();
-  const [isVisible, setIsVisible] = useState(false);
+  // const [isVisible, setIsVisible] = useState(false);
 
-  useEffect(() => {
-    if (consent === null || localStorage.getItem('cookieConsent') === null) {
-      setIsVisible(true);
-    } else {
-      setIsVisible(false);
-    }
-  }, [consent]);
+  // useEffect(() => {
+  //   if (consent === null || localStorage.getItem('cookieConsent') === null) {
+  //     setIsVisible(true);
+  //   } else {
+  //     setIsVisible(false);
+  //   }
+  // }, [consent]);
+
+  const isVisible = typeof window !== 'undefined' &&
+    (consent === null || localStorage.getItem('cookieConsent') === null);
 
   const handleAccept = () => {
     updateConsent(true);
-    setIsVisible(false);
+    // setIsVisible(false);
   };
 
   if (isVisible) {

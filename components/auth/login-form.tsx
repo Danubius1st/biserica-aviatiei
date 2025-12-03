@@ -12,7 +12,7 @@ import { MagicLinkLoginForm } from '@/components/auth/magic-link-login-form';
 import { CardWrapper } from '@/components/ui/custom/card-wrapper';
 import { Button } from '@/components/ui/button';
 import { signInEmailAction } from '@/actions/sign-in-email.action';
-import { Spinner } from '@/components/ui/custom/spinner';
+import { RandomSpinner } from '@/components/ui/custom/random-spinner';
 import { toast } from 'react-toastify';
 
 import { LuEye, LuEyeOff } from 'react-icons/lu';
@@ -177,7 +177,7 @@ export const LoginForm = () => {
               </button>
             </div>
 
-            {isPending && <Spinner />}
+            {isPending && <RandomSpinner />}
           </div>
         </form>
       </div>

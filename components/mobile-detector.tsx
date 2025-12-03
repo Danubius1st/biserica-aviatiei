@@ -10,13 +10,14 @@ export const MobileDetector = () => {
   const [mobile, setMobile] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
 
-  useEffect(() => {
-    const isMobile = () => {
-      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-        navigator.userAgent,
-      );
-    };
+  const isMobile = () => {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      navigator.userAgent,
+    );
+  };
 
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     setMounted(true);
     setMobile(isMobile());
     if (isMobile() && localStorage.getItem('isMobile') === null) {

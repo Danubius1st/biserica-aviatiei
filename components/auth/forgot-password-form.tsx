@@ -35,8 +35,8 @@ export function ForgotPasswordForm() {
       });
 
       toast.success('Check your email for the reset link.');
-    } catch (err: any) {
-      toast.error(err?.message || 'Something went wrong.');
+    } catch (err) {
+      toast.error(err instanceof Error ? err.message : 'Something went wrong.');
     } finally {
       setIsPending(false);
     }
