@@ -9,7 +9,7 @@ import {
 } from 'react-toastify';
 import '@/styles/globals.css';
 // import { CookieConsentBanner } from '@/components/cookie-consent-banner';
-// import { ScrollProvider } from '@/provider/scroll-provider';
+import { ScrollProvider } from '@/providers/scroll-provider';
 // import { SessionDebug } from '@/components/debug/session-debug';
 import {
   appName,
@@ -97,16 +97,16 @@ export default function RootLayout({ children }: Readonly<Props>) {
           antialiased
           `}
       >
-        {/* <ScrollProvider> */}
-        <RootProviders>
-          <AuthLayout>
-            {children}
-          </AuthLayout>
-          {/* <Analytics /> */}
-          <ToastContainer {...toastProps} />
-          {/* <CookieConsentBanner /> */}
-        </RootProviders>
-        {/* </ScrollProvider> */}
+        <ScrollProvider>
+          <RootProviders>
+            <AuthLayout>
+              {children}
+            </AuthLayout>
+            {/* <Analytics /> */}
+            <ToastContainer {...toastProps} />
+            {/* <CookieConsentBanner /> */}
+          </RootProviders>
+        </ScrollProvider>
       </body>
     </html>
   );

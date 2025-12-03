@@ -176,6 +176,8 @@ const cfg = {
         '**/Cookies/**',
         '**/AppData/**',
         '**/Local Settings/**',
+        '**/Recovery',
+        '**/System Volume Information'
       ],
     };
 

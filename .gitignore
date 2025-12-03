@@ -49,4 +49,7 @@ prisma/db-auth.svg
 .qodo
 
 # cache
-.webpack_cache
+.next/cache/
+.next/cache/**
+.webpack_cache/
+.webpack/
