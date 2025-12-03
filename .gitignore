@@ -44,3 +44,9 @@ next-env.d.ts
 prisma/generated
 prisma/db-app.svg
 prisma/db-auth.svg
+
+# ai
+.qodo
+
+# cache
+.webpack_cache

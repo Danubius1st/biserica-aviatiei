@@ -22,12 +22,12 @@ export async function proxy(req: NextRequest) {
   // https://www.better-auth.com/docs/integrations/next#for-nextjs-release-1520-and-above
 
   // auth.api.getSession funcționează doar local:
-  const session = await auth.api.getSession({
-    headers: await headers()
-  });
+  // const session = await auth.api.getSession({
+  //   headers: await headers()
+  // });
 
   // Implementare manuală pentru Edge Runtime:
-  // const session = await getCookieCache(req);
+  const session = await getCookieCache(req);
 
   if (!session) {
     return NextResponse.redirect(new URL(loginPath, req.nextUrl.origin));
